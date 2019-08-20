@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name am_symbols)(type Legacy)(uri /home/grey/git/arkMetrica/electronics/shared_libs/am_symbols.lib)(options "")(descr ""))
+  (lib (name gh_Analog_Switch)(type Legacy)(uri /home/grey/git/kicad-syms/Analog_Switch.lib)(options "")(descr ""))
+)

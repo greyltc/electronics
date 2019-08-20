@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASSR-1530
+D Form A x2, Solid State Relay (Photo MOSFET) 60V, 0.2A, 10Ohm, SO-8
+K MOSFET Output Photorelay 1-Form-A x2
+F https://docs.broadcom.com/docs-and-downloads/optocouplers/AV02-0036EN_DS_ASSR-15xx_2017-09-11.pdf
+$ENDCMP
+#
+$CMP CD4097B
+D CMOS double 8-channel analog multiplexer/demultiplexer, TSSOP-24/DIP-24/SOIC-24
+K analog switch selector multiplexer
+F http://www.ti.com/lit/ds/symlink/cd4097b.pdf
+$ENDCMP
+#
+$CMP PCA9671
+D 16-bit I/O expander, I2C, w/o pull-ups, 24 pin package
+K nxp parallel port
+F https://www.nxp.com/docs/en/data-sheet/PCA9671.pdf
+$ENDCMP
+#
+#End Doc Library
