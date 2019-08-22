@@ -4,7 +4,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 2 3
+Sheet 2 4
 Title ""
 Date ""
 Rev ""
@@ -137,34 +137,6 @@ Text GLabel 10200 1000 1    50   Input ~ 0
 C8_FH
 Text GLabel 10300 1000 1    50   Input ~ 0
 C8_SH
-Text GLabel 1000 1600 0    50   Input ~ 0
-R1_FH
-Text GLabel 1000 1700 0    50   Input ~ 0
-R1_SH
-Text GLabel 1000 2700 0    50   Input ~ 0
-R2_FH
-Text GLabel 1000 2800 0    50   Input ~ 0
-R2_SH
-Text GLabel 1000 3800 0    50   Input ~ 0
-R3_FH
-Text GLabel 1000 3900 0    50   Input ~ 0
-R3_SH
-Text GLabel 1000 4900 0    50   Input ~ 0
-R4_FH
-Text GLabel 1000 5000 0    50   Input ~ 0
-R4_SH
-Text GLabel 1000 6000 0    50   Input ~ 0
-R5_FH
-Text GLabel 1000 6100 0    50   Input ~ 0
-R5_SH
-Text GLabel 1000 7100 0    50   Input ~ 0
-R6_FH
-Text GLabel 1000 7200 0    50   Input ~ 0
-R6_SH
-Text GLabel 1000 8200 0    50   Input ~ 0
-R7_FH
-Text GLabel 1000 8300 0    50   Input ~ 0
-R7_SH
 Text GLabel 2200 9500 2    50   Input ~ 0
 R8_FH
 Text GLabel 2200 9700 2    50   Input ~ 0
@@ -173,14 +145,8 @@ Wire Notes Line
 	11600 10700 11600 600 
 Wire Notes Line
 	11600 600  600  600 
-Wire Notes Line
-	600  600  600  10700
 Text Notes 600  600  0    50   ~ 0
 Differential 8 to 8 matrix switch, 60V/1.0A/0.5OHM signal
-Text GLabel 1000 9300 0    50   Input ~ 0
-R8_FH
-Text GLabel 1000 9400 0    50   Input ~ 0
-R8_SH
 Text GLabel 3400 9300 2    50   Input ~ 0
 C2_FH
 Text GLabel 3400 9900 2    50   Input ~ 0
@@ -3323,48 +3289,40 @@ Text GLabel 10200 10300 3    50   Input ~ 0
 C8_FH
 Text GLabel 10300 10300 3    50   Input ~ 0
 C8_SH
-Text GLabel 11200 1600 2    50   Input ~ 0
-R1_FH
 Text GLabel 11200 1700 2    50   Input ~ 0
+R1_FH
+Text GLabel 11200 1600 2    50   Input ~ 0
 R1_SH
-Text GLabel 11200 2700 2    50   Input ~ 0
-R2_FH
 Text GLabel 11200 2800 2    50   Input ~ 0
+R2_FH
+Text GLabel 11200 2700 2    50   Input ~ 0
 R2_SH
-Text GLabel 11200 3800 2    50   Input ~ 0
-R3_FH
 Text GLabel 11200 3900 2    50   Input ~ 0
+R3_FH
+Text GLabel 11200 3800 2    50   Input ~ 0
 R3_SH
-Text GLabel 11200 4900 2    50   Input ~ 0
-R4_FH
 Text GLabel 11200 5000 2    50   Input ~ 0
+R4_FH
+Text GLabel 11200 4900 2    50   Input ~ 0
 R4_SH
-Text GLabel 11200 6000 2    50   Input ~ 0
-R5_FH
 Text GLabel 11200 6100 2    50   Input ~ 0
+R5_FH
+Text GLabel 11200 6000 2    50   Input ~ 0
 R5_SH
-Text GLabel 11200 7100 2    50   Input ~ 0
-R6_FH
 Text GLabel 11200 7200 2    50   Input ~ 0
+R6_FH
+Text GLabel 11200 7100 2    50   Input ~ 0
 R6_SH
-Text GLabel 11200 8200 2    50   Input ~ 0
-R7_FH
-Text GLabel 11200 8300 2    50   Input ~ 0
-R7_SH
-Text GLabel 11200 9300 2    50   Input ~ 0
-R8_FH
-Text GLabel 11200 9400 2    50   Input ~ 0
-R8_SH
 $Comp
 L Mechanical:MountingHole_Pad H3
 U 1 1 5D87A22D
-P 10800 10400
-F 0 "H3" H 10900 10449 50  0000 L CNN
-F 1 "MountingHole_Pad" H 10900 10358 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 10800 10400 50  0001 C CNN
-F 3 "~" H 10800 10400 50  0001 C CNN
-	1    10800 10400
-	1    0    0    -1  
+P 11400 10500
+F 0 "H3" H 11500 10549 50  0000 L CNN
+F 1 "MountingHole_Pad" H 11500 10458 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 11400 10500 50  0001 C CNN
+F 3 "~" H 11400 10500 50  0001 C CNN
+	1    11400 10500
+	-1   0    0    1   
 $EndComp
 $Comp
 L Mechanical:MountingHole_Pad H1
@@ -3391,25 +3349,25 @@ $EndComp
 $Comp
 L Mechanical:MountingHole_Pad H4
 U 1 1 5D87BCFA
-P 11400 1000
-F 0 "H4" H 11500 1049 50  0000 L CNN
-F 1 "MountingHole_Pad" H 11500 958 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 11400 1000 50  0001 C CNN
-F 3 "~" H 11400 1000 50  0001 C CNN
-	1    11400 1000
-	-1   0    0    1   
+P 11400 800
+F 0 "H4" H 11500 849 50  0000 L CNN
+F 1 "MountingHole_Pad" H 11500 758 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 11400 800 50  0001 C CNN
+F 3 "~" H 11400 800 50  0001 C CNN
+	1    11400 800 
+	-1   0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR?
 U 1 1 5D887EBA
-P 10800 10500
+P 11400 900
 AR Path="/5D887EBA" Ref="#PWR?"  Part="1" 
 AR Path="/5D997D8A/5D887EBA" Ref="#PWR070"  Part="1" 
-F 0 "#PWR070" H 10800 10250 50  0001 C CNN
-F 1 "GND" H 10700 10500 50  0000 C CNN
-F 2 "" H 10800 10500 50  0001 C CNN
-F 3 "" H 10800 10500 50  0001 C CNN
-	1    10800 10500
+F 0 "#PWR070" H 11400 650 50  0001 C CNN
+F 1 "GND" H 11300 900 50  0000 C CNN
+F 2 "" H 11400 900 50  0001 C CNN
+F 3 "" H 11400 900 50  0001 C CNN
+	1    11400 900 
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -4281,12 +4239,12 @@ $EndComp
 $Comp
 L power:VDD #PWR071
 U 1 1 5D69DF4F
-P 11400 900
-F 0 "#PWR071" H 11400 750 50  0001 C CNN
-F 1 "VDD" H 11417 1073 50  0000 C CNN
-F 2 "" H 11400 900 50  0001 C CNN
-F 3 "" H 11400 900 50  0001 C CNN
-	1    11400 900 
+P 11400 10400
+F 0 "#PWR071" H 11400 10250 50  0001 C CNN
+F 1 "VDD" H 11417 10573 50  0000 C CNN
+F 2 "" H 11400 10400 50  0001 C CNN
+F 3 "" H 11400 10400 50  0001 C CNN
+	1    11400 10400
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -4304,212 +4262,254 @@ F 3 "~" H 1800 1200 50  0001 C CNN
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
-U 1 1 5D8CDF01
-P 1200 1600
-AR Path="/5D8CDF01" Ref="J?"  Part="1" 
-AR Path="/5D997D8A/5D8CDF01" Ref="J1"  Part="1" 
-F 0 "J1" H 1200 1700 50  0000 R CNN
-F 1 "Conn_01x02" H 1300 1400 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 1600 50  0001 C CNN
-F 3 "~" H 1200 1600 50  0001 C CNN
-	1    1200 1600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x02 J?
-U 1 1 5D8D5017
-P 1200 2700
-AR Path="/5D8D5017" Ref="J?"  Part="1" 
-AR Path="/5D997D8A/5D8D5017" Ref="J2"  Part="1" 
-F 0 "J2" H 1200 2800 50  0000 R CNN
-F 1 "Conn_01x02" H 1300 2500 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 2700 50  0001 C CNN
-F 3 "~" H 1200 2700 50  0001 C CNN
-	1    1200 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D545A
-P 1200 3800
+P 1200 3900
 AR Path="/5D8D545A" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D545A" Ref="J3"  Part="1" 
-F 0 "J3" H 1200 3900 50  0000 R CNN
-F 1 "Conn_01x02" H 1300 3600 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 3800 50  0001 C CNN
-F 3 "~" H 1200 3800 50  0001 C CNN
-	1    1200 3800
-	1    0    0    -1  
+F 0 "J3" H 1200 4000 50  0000 R CNN
+F 1 "Conn_01x02" H 1300 3700 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 3900 50  0001 C CNN
+F 3 "~" H 1200 3900 50  0001 C CNN
+	1    1200 3900
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D5627
-P 1200 4900
+P 1200 5000
 AR Path="/5D8D5627" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D5627" Ref="J4"  Part="1" 
-F 0 "J4" H 1200 5000 50  0000 R CNN
-F 1 "Conn_01x02" H 1300 4700 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 4900 50  0001 C CNN
-F 3 "~" H 1200 4900 50  0001 C CNN
-	1    1200 4900
-	1    0    0    -1  
+F 0 "J4" H 1200 5100 50  0000 R CNN
+F 1 "Conn_01x02" H 1300 4800 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 5000 50  0001 C CNN
+F 3 "~" H 1200 5000 50  0001 C CNN
+	1    1200 5000
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D5907
-P 1200 6000
+P 1200 6100
 AR Path="/5D8D5907" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D5907" Ref="J5"  Part="1" 
-F 0 "J5" H 1200 6100 50  0000 R CNN
-F 1 "Conn_01x02" H 1300 5800 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 6000 50  0001 C CNN
-F 3 "~" H 1200 6000 50  0001 C CNN
-	1    1200 6000
-	1    0    0    -1  
+F 0 "J5" H 1200 6200 50  0000 R CNN
+F 1 "Conn_01x02" H 1300 5900 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 6100 50  0001 C CNN
+F 3 "~" H 1200 6100 50  0001 C CNN
+	1    1200 6100
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D5BCE
-P 1200 7100
+P 1200 7200
 AR Path="/5D8D5BCE" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D5BCE" Ref="J6"  Part="1" 
-F 0 "J6" H 1200 7200 50  0000 R CNN
-F 1 "Conn_01x02" H 1300 6900 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 7100 50  0001 C CNN
-F 3 "~" H 1200 7100 50  0001 C CNN
-	1    1200 7100
-	1    0    0    -1  
+F 0 "J6" H 1200 7300 50  0000 R CNN
+F 1 "Conn_01x02" H 1300 7000 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 7200 50  0001 C CNN
+F 3 "~" H 1200 7200 50  0001 C CNN
+	1    1200 7200
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D5E31
-P 1200 8200
+P 1200 8300
 AR Path="/5D8D5E31" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D5E31" Ref="J7"  Part="1" 
-F 0 "J7" H 1200 8300 50  0000 R CNN
-F 1 "Conn_01x02" H 1300 8000 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 8200 50  0001 C CNN
-F 3 "~" H 1200 8200 50  0001 C CNN
-	1    1200 8200
-	1    0    0    -1  
+F 0 "J7" H 1200 8400 50  0000 R CNN
+F 1 "Conn_01x02" H 1300 8100 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 8300 50  0001 C CNN
+F 3 "~" H 1200 8300 50  0001 C CNN
+	1    1200 8300
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D625B
-P 1200 9300
+P 1200 9400
 AR Path="/5D8D625B" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D625B" Ref="J8"  Part="1" 
-F 0 "J8" H 1200 9400 50  0000 R CNN
-F 1 "Conn_01x02" H 1300 9100 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 9300 50  0001 C CNN
-F 3 "~" H 1200 9300 50  0001 C CNN
-	1    1200 9300
-	1    0    0    -1  
+F 0 "J8" H 1200 9500 50  0000 R CNN
+F 1 "Conn_01x02" H 1300 9200 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 9400 50  0001 C CNN
+F 3 "~" H 1200 9400 50  0001 C CNN
+	1    1200 9400
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D65BD
-P 11000 1600
+P 11000 1700
 AR Path="/5D8D65BD" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D65BD" Ref="J25"  Part="1" 
-F 0 "J25" H 11000 1700 50  0000 R CNN
-F 1 "Conn_01x02" H 11100 1400 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 1600 50  0001 C CNN
-F 3 "~" H 11000 1600 50  0001 C CNN
-	1    11000 1600
-	-1   0    0    -1  
+F 0 "J25" H 11000 1800 50  0000 R CNN
+F 1 "Conn_01x02" H 11100 1500 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 1700 50  0001 C CNN
+F 3 "~" H 11000 1700 50  0001 C CNN
+	1    11000 1700
+	-1   0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D70FC
-P 11000 2700
+P 11000 2800
 AR Path="/5D8D70FC" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D70FC" Ref="J26"  Part="1" 
-F 0 "J26" H 11000 2800 50  0000 R CNN
-F 1 "Conn_01x02" H 11100 2500 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 2700 50  0001 C CNN
-F 3 "~" H 11000 2700 50  0001 C CNN
-	1    11000 2700
-	-1   0    0    -1  
+F 0 "J26" H 11000 2900 50  0000 R CNN
+F 1 "Conn_01x02" H 11100 2600 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 2800 50  0001 C CNN
+F 3 "~" H 11000 2800 50  0001 C CNN
+	1    11000 2800
+	-1   0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D7459
-P 11000 3800
+P 11000 3900
 AR Path="/5D8D7459" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D7459" Ref="J27"  Part="1" 
-F 0 "J27" H 11000 3900 50  0000 R CNN
-F 1 "Conn_01x02" H 11100 3600 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 3800 50  0001 C CNN
-F 3 "~" H 11000 3800 50  0001 C CNN
-	1    11000 3800
-	-1   0    0    -1  
+F 0 "J27" H 11000 4000 50  0000 R CNN
+F 1 "Conn_01x02" H 11100 3700 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 3900 50  0001 C CNN
+F 3 "~" H 11000 3900 50  0001 C CNN
+	1    11000 3900
+	-1   0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D76BC
-P 11000 4900
+P 11000 5000
 AR Path="/5D8D76BC" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D76BC" Ref="J28"  Part="1" 
-F 0 "J28" H 11000 5000 50  0000 R CNN
-F 1 "Conn_01x02" H 11100 4700 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 4900 50  0001 C CNN
-F 3 "~" H 11000 4900 50  0001 C CNN
-	1    11000 4900
-	-1   0    0    -1  
+F 0 "J28" H 11000 5100 50  0000 R CNN
+F 1 "Conn_01x02" H 11100 4800 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 5000 50  0001 C CNN
+F 3 "~" H 11000 5000 50  0001 C CNN
+	1    11000 5000
+	-1   0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D78ED
-P 11000 6000
+P 11000 6100
 AR Path="/5D8D78ED" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D78ED" Ref="J29"  Part="1" 
-F 0 "J29" H 11000 6100 50  0000 R CNN
-F 1 "Conn_01x02" H 11100 5800 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 6000 50  0001 C CNN
-F 3 "~" H 11000 6000 50  0001 C CNN
-	1    11000 6000
-	-1   0    0    -1  
+F 0 "J29" H 11000 6200 50  0000 R CNN
+F 1 "Conn_01x02" H 11100 5900 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 6100 50  0001 C CNN
+F 3 "~" H 11000 6100 50  0001 C CNN
+	1    11000 6100
+	-1   0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D7BF0
-P 11000 7100
+P 11000 7200
 AR Path="/5D8D7BF0" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D7BF0" Ref="J30"  Part="1" 
-F 0 "J30" H 11000 7200 50  0000 R CNN
-F 1 "Conn_01x02" H 11100 6900 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 7100 50  0001 C CNN
-F 3 "~" H 11000 7100 50  0001 C CNN
-	1    11000 7100
-	-1   0    0    -1  
+F 0 "J30" H 11000 7300 50  0000 R CNN
+F 1 "Conn_01x02" H 11100 7000 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 7200 50  0001 C CNN
+F 3 "~" H 11000 7200 50  0001 C CNN
+	1    11000 7200
+	-1   0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D7E6C
-P 11000 8200
+P 11000 8300
 AR Path="/5D8D7E6C" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D7E6C" Ref="J31"  Part="1" 
-F 0 "J31" H 11000 8300 50  0000 R CNN
-F 1 "Conn_01x02" H 11100 8000 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 8200 50  0001 C CNN
-F 3 "~" H 11000 8200 50  0001 C CNN
-	1    11000 8200
-	-1   0    0    -1  
+F 0 "J31" H 11000 8400 50  0000 R CNN
+F 1 "Conn_01x02" H 11100 8100 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 8300 50  0001 C CNN
+F 3 "~" H 11000 8300 50  0001 C CNN
+	1    11000 8300
+	-1   0    0    1   
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D8D8101
-P 11000 9300
+P 11000 9400
 AR Path="/5D8D8101" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D8D8101" Ref="J32"  Part="1" 
-F 0 "J32" H 11000 9400 50  0000 R CNN
-F 1 "Conn_01x02" H 11100 9100 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 9300 50  0001 C CNN
-F 3 "~" H 11000 9300 50  0001 C CNN
-	1    11000 9300
-	-1   0    0    -1  
+F 0 "J32" H 11000 9500 50  0000 R CNN
+F 1 "Conn_01x02" H 11100 9200 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 11000 9400 50  0001 C CNN
+F 3 "~" H 11000 9400 50  0001 C CNN
+	1    11000 9400
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	2800 1800 2800 2000
+Text GLabel 11200 8200 2    50   Input ~ 0
+R7_SH
+Text GLabel 11200 8300 2    50   Input ~ 0
+R7_FH
+Text GLabel 11200 9300 2    50   Input ~ 0
+R8_SH
+Text GLabel 11200 9400 2    50   Input ~ 0
+R8_FH
+Text GLabel 1000 9300 0    50   Input ~ 0
+R8_SH
+Text GLabel 1000 9400 0    50   Input ~ 0
+R8_FH
+Text GLabel 1000 8200 0    50   Input ~ 0
+R7_SH
+Text GLabel 1000 8300 0    50   Input ~ 0
+R7_FH
+Text GLabel 1000 7100 0    50   Input ~ 0
+R6_SH
+Text GLabel 1000 7200 0    50   Input ~ 0
+R6_FH
+Text GLabel 1000 6000 0    50   Input ~ 0
+R5_SH
+Text GLabel 1000 6100 0    50   Input ~ 0
+R5_FH
+Text GLabel 1000 4900 0    50   Input ~ 0
+R4_SH
+Text GLabel 1000 5000 0    50   Input ~ 0
+R4_FH
+Text GLabel 1000 3800 0    50   Input ~ 0
+R3_SH
+Text GLabel 1000 3900 0    50   Input ~ 0
+R3_FH
+Text GLabel 1000 2800 0    50   Input ~ 0
+R2_FH
+Text GLabel 1000 2700 0    50   Input ~ 0
+R2_SH
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5D8D5017
+P 1200 2800
+AR Path="/5D8D5017" Ref="J?"  Part="1" 
+AR Path="/5D997D8A/5D8D5017" Ref="J2"  Part="1" 
+F 0 "J2" H 1200 2900 50  0000 R CNN
+F 1 "Conn_01x02" H 1300 2600 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 2800 50  0001 C CNN
+F 3 "~" H 1200 2800 50  0001 C CNN
+	1    1200 2800
+	1    0    0    1   
+$EndComp
+Wire Notes Line
+	600  600  600  10700
+Text GLabel 1000 1700 0    50   Input ~ 0
+R1_FH
+Text GLabel 1000 1600 0    50   Input ~ 0
+R1_SH
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5D8CDF01
+P 1200 1700
+AR Path="/5D8CDF01" Ref="J?"  Part="1" 
+AR Path="/5D997D8A/5D8CDF01" Ref="J1"  Part="1" 
+F 0 "J1" H 1200 1800 50  0000 R CNN
+F 1 "Conn_01x02" H 1300 1500 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1200 1700 50  0001 C CNN
+F 3 "~" H 1200 1700 50  0001 C CNN
+	1    1200 1700
+	1    0    0    1   
+$EndComp
 $EndSCHEMATC

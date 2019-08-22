@@ -4,7 +4,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 3
+Sheet 3 4
 Title ""
 Date ""
 Rev ""
@@ -291,15 +291,15 @@ CLOCK
 $Comp
 L Device:C_Small C?
 U 1 1 5DA358B2
-P 2900 1000
+P 2900 900
 AR Path="/5D997D8A/5DA358B2" Ref="C?"  Part="1" 
 AR Path="/5DA358B2" Ref="C?"  Part="1" 
 AR Path="/5D9777B5/5DA358B2" Ref="C2"  Part="1" 
-F 0 "C2" H 2808 954 50  0000 R CNN
-F 1 "C_Small" H 2808 1045 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 2900 1000 50  0001 C CNN
-F 3 "~" H 2900 1000 50  0001 C CNN
-	1    2900 1000
+F 0 "C2" H 2808 854 50  0000 R CNN
+F 1 "C_Small" H 2808 945 50  0000 R CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 2900 900 50  0001 C CNN
+F 3 "~" H 2900 900 50  0001 C CNN
+	1    2900 900 
 	1    0    0    1   
 $EndComp
 $Comp
@@ -317,11 +317,9 @@ F 3 "" H 2900 1300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2900 1100 2900 1300
+	2900 1000 2900 1300
 Wire Wire Line
 	3800 700  3800 800 
-Wire Wire Line
-	2900 900  2900 800 
 Wire Wire Line
 	2900 800  3800 800 
 Connection ~ 3800 800 
@@ -663,94 +661,6 @@ Wire Wire Line
 	7300 2200 7300 2300
 Wire Wire Line
 	7300 2500 7300 2600
-$Comp
-L Connector:TestPoint TP65
-U 1 1 5DA57ED0
-P 2800 4000
-F 0 "TP65" H 2858 4118 50  0000 L CNN
-F 1 "TestPoint" H 2858 4027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3000 4000 50  0001 C CNN
-F 3 "~" H 3000 4000 50  0001 C CNN
-	1    2800 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP73
-U 1 1 5DA57ED6
-P 3300 4000
-F 0 "TP73" H 3358 4118 50  0000 L CNN
-F 1 "TestPoint" H 3358 4027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3500 4000 50  0001 C CNN
-F 3 "~" H 3500 4000 50  0001 C CNN
-	1    3300 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP81
-U 1 1 5DA57EDC
-P 3800 4000
-F 0 "TP81" H 3858 4118 50  0000 L CNN
-F 1 "TestPoint" H 3858 4027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4000 4000 50  0001 C CNN
-F 3 "~" H 4000 4000 50  0001 C CNN
-	1    3800 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP89
-U 1 1 5DA57EE2
-P 4300 4000
-F 0 "TP89" H 4358 4118 50  0000 L CNN
-F 1 "TestPoint" H 4358 4027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4500 4000 50  0001 C CNN
-F 3 "~" H 4500 4000 50  0001 C CNN
-	1    4300 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP97
-U 1 1 5DA57EE8
-P 4800 4000
-F 0 "TP97" H 4858 4118 50  0000 L CNN
-F 1 "TestPoint" H 4858 4027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5000 4000 50  0001 C CNN
-F 3 "~" H 5000 4000 50  0001 C CNN
-	1    4800 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP105
-U 1 1 5DA57EEE
-P 5300 4000
-F 0 "TP105" H 5358 4118 50  0000 L CNN
-F 1 "TestPoint" H 5358 4027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5500 4000 50  0001 C CNN
-F 3 "~" H 5500 4000 50  0001 C CNN
-	1    5300 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP113
-U 1 1 5DA57EF4
-P 5800 4000
-F 0 "TP113" H 5858 4118 50  0000 L CNN
-F 1 "TestPoint" H 5858 4027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6000 4000 50  0001 C CNN
-F 3 "~" H 6000 4000 50  0001 C CNN
-	1    5800 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP121
-U 1 1 5DA57EFA
-P 6300 4000
-F 0 "TP121" H 6358 4118 50  0000 L CNN
-F 1 "TestPoint" H 6358 4027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6500 4000 50  0001 C CNN
-F 3 "~" H 6500 4000 50  0001 C CNN
-	1    6300 4000
-	1    0    0    -1  
-$EndComp
 Text GLabel 2200 1900 2    50   Input ~ 0
 SR1C8
 Text GLabel 2200 1800 2    50   Input ~ 0
@@ -765,746 +675,126 @@ Text GLabel 2200 1400 2    50   Input ~ 0
 SR1C3
 Text GLabel 2200 1300 2    50   Input ~ 0
 SR1C2
-Text GLabel 2800 4000 3    50   Input ~ 0
-SR1C1
-$Comp
-L Connector:TestPoint TP66
-U 1 1 5DA57F08
-P 2800 4500
-F 0 "TP66" H 2858 4618 50  0000 L CNN
-F 1 "TestPoint" H 2858 4527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3000 4500 50  0001 C CNN
-F 3 "~" H 3000 4500 50  0001 C CNN
-	1    2800 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP74
-U 1 1 5DA57F0E
-P 3300 4500
-F 0 "TP74" H 3358 4618 50  0000 L CNN
-F 1 "TestPoint" H 3358 4527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3500 4500 50  0001 C CNN
-F 3 "~" H 3500 4500 50  0001 C CNN
-	1    3300 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP82
-U 1 1 5DA57F14
-P 3800 4500
-F 0 "TP82" H 3858 4618 50  0000 L CNN
-F 1 "TestPoint" H 3858 4527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4000 4500 50  0001 C CNN
-F 3 "~" H 4000 4500 50  0001 C CNN
-	1    3800 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP90
-U 1 1 5DA57F1A
-P 4300 4500
-F 0 "TP90" H 4358 4618 50  0000 L CNN
-F 1 "TestPoint" H 4358 4527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4500 4500 50  0001 C CNN
-F 3 "~" H 4500 4500 50  0001 C CNN
-	1    4300 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP98
-U 1 1 5DA57F20
-P 4800 4500
-F 0 "TP98" H 4858 4618 50  0000 L CNN
-F 1 "TestPoint" H 4858 4527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5000 4500 50  0001 C CNN
-F 3 "~" H 5000 4500 50  0001 C CNN
-	1    4800 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP106
-U 1 1 5DA57F26
-P 5300 4500
-F 0 "TP106" H 5358 4618 50  0000 L CNN
-F 1 "TestPoint" H 5358 4527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5500 4500 50  0001 C CNN
-F 3 "~" H 5500 4500 50  0001 C CNN
-	1    5300 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP114
-U 1 1 5DA57F2C
-P 5800 4500
-F 0 "TP114" H 5858 4618 50  0000 L CNN
-F 1 "TestPoint" H 5858 4527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6000 4500 50  0001 C CNN
-F 3 "~" H 6000 4500 50  0001 C CNN
-	1    5800 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP122
-U 1 1 5DA57F32
-P 6300 4500
-F 0 "TP122" H 6358 4618 50  0000 L CNN
-F 1 "TestPoint" H 6358 4527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6500 4500 50  0001 C CNN
-F 3 "~" H 6500 4500 50  0001 C CNN
-	1    6300 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP67
-U 1 1 5DA57F38
-P 2800 5000
-F 0 "TP67" H 2858 5118 50  0000 L CNN
-F 1 "TestPoint" H 2858 5027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3000 5000 50  0001 C CNN
-F 3 "~" H 3000 5000 50  0001 C CNN
-	1    2800 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP75
-U 1 1 5DA57F3E
-P 3300 5000
-F 0 "TP75" H 3358 5118 50  0000 L CNN
-F 1 "TestPoint" H 3358 5027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3500 5000 50  0001 C CNN
-F 3 "~" H 3500 5000 50  0001 C CNN
-	1    3300 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP83
-U 1 1 5DA57F44
-P 3800 5000
-F 0 "TP83" H 3858 5118 50  0000 L CNN
-F 1 "TestPoint" H 3858 5027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4000 5000 50  0001 C CNN
-F 3 "~" H 4000 5000 50  0001 C CNN
-	1    3800 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP91
-U 1 1 5DA57F4A
-P 4300 5000
-F 0 "TP91" H 4358 5118 50  0000 L CNN
-F 1 "TestPoint" H 4358 5027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4500 5000 50  0001 C CNN
-F 3 "~" H 4500 5000 50  0001 C CNN
-	1    4300 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP99
-U 1 1 5DA57F50
-P 4800 5000
-F 0 "TP99" H 4858 5118 50  0000 L CNN
-F 1 "TestPoint" H 4858 5027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5000 5000 50  0001 C CNN
-F 3 "~" H 5000 5000 50  0001 C CNN
-	1    4800 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP107
-U 1 1 5DA57F56
-P 5300 5000
-F 0 "TP107" H 5358 5118 50  0000 L CNN
-F 1 "TestPoint" H 5358 5027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5500 5000 50  0001 C CNN
-F 3 "~" H 5500 5000 50  0001 C CNN
-	1    5300 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP115
-U 1 1 5DA57F5C
-P 5800 5000
-F 0 "TP115" H 5858 5118 50  0000 L CNN
-F 1 "TestPoint" H 5858 5027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6000 5000 50  0001 C CNN
-F 3 "~" H 6000 5000 50  0001 C CNN
-	1    5800 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP123
-U 1 1 5DA57F62
-P 6300 5000
-F 0 "TP123" H 6358 5118 50  0000 L CNN
-F 1 "TestPoint" H 6358 5027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6500 5000 50  0001 C CNN
-F 3 "~" H 6500 5000 50  0001 C CNN
-	1    6300 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP68
-U 1 1 5DA57F68
-P 2800 5500
-F 0 "TP68" H 2858 5618 50  0000 L CNN
-F 1 "TestPoint" H 2858 5527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3000 5500 50  0001 C CNN
-F 3 "~" H 3000 5500 50  0001 C CNN
-	1    2800 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP76
-U 1 1 5DA57F6E
-P 3300 5500
-F 0 "TP76" H 3358 5618 50  0000 L CNN
-F 1 "TestPoint" H 3358 5527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3500 5500 50  0001 C CNN
-F 3 "~" H 3500 5500 50  0001 C CNN
-	1    3300 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP84
-U 1 1 5DA57F74
-P 3800 5500
-F 0 "TP84" H 3858 5618 50  0000 L CNN
-F 1 "TestPoint" H 3858 5527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4000 5500 50  0001 C CNN
-F 3 "~" H 4000 5500 50  0001 C CNN
-	1    3800 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP92
-U 1 1 5DA57F7A
-P 4300 5500
-F 0 "TP92" H 4358 5618 50  0000 L CNN
-F 1 "TestPoint" H 4358 5527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4500 5500 50  0001 C CNN
-F 3 "~" H 4500 5500 50  0001 C CNN
-	1    4300 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP100
-U 1 1 5DA57F80
-P 4800 5500
-F 0 "TP100" H 4858 5618 50  0000 L CNN
-F 1 "TestPoint" H 4858 5527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5000 5500 50  0001 C CNN
-F 3 "~" H 5000 5500 50  0001 C CNN
-	1    4800 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP108
-U 1 1 5DA57F86
-P 5300 5500
-F 0 "TP108" H 5358 5618 50  0000 L CNN
-F 1 "TestPoint" H 5358 5527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5500 5500 50  0001 C CNN
-F 3 "~" H 5500 5500 50  0001 C CNN
-	1    5300 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP116
-U 1 1 5DA57F8C
-P 5800 5500
-F 0 "TP116" H 5858 5618 50  0000 L CNN
-F 1 "TestPoint" H 5858 5527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6000 5500 50  0001 C CNN
-F 3 "~" H 6000 5500 50  0001 C CNN
-	1    5800 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP124
-U 1 1 5DA57F92
-P 6300 5500
-F 0 "TP124" H 6358 5618 50  0000 L CNN
-F 1 "TestPoint" H 6358 5527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6500 5500 50  0001 C CNN
-F 3 "~" H 6500 5500 50  0001 C CNN
-	1    6300 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP69
-U 1 1 5DA57F98
-P 2800 6000
-F 0 "TP69" H 2858 6118 50  0000 L CNN
-F 1 "TestPoint" H 2858 6027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3000 6000 50  0001 C CNN
-F 3 "~" H 3000 6000 50  0001 C CNN
-	1    2800 6000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP77
-U 1 1 5DA57F9E
-P 3300 6000
-F 0 "TP77" H 3358 6118 50  0000 L CNN
-F 1 "TestPoint" H 3358 6027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3500 6000 50  0001 C CNN
-F 3 "~" H 3500 6000 50  0001 C CNN
-	1    3300 6000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP85
-U 1 1 5DA57FA4
-P 3800 6000
-F 0 "TP85" H 3858 6118 50  0000 L CNN
-F 1 "TestPoint" H 3858 6027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4000 6000 50  0001 C CNN
-F 3 "~" H 4000 6000 50  0001 C CNN
-	1    3800 6000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP93
-U 1 1 5DA57FAA
-P 4300 6000
-F 0 "TP93" H 4358 6118 50  0000 L CNN
-F 1 "TestPoint" H 4358 6027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4500 6000 50  0001 C CNN
-F 3 "~" H 4500 6000 50  0001 C CNN
-	1    4300 6000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP101
-U 1 1 5DA57FB0
-P 4800 6000
-F 0 "TP101" H 4858 6118 50  0000 L CNN
-F 1 "TestPoint" H 4858 6027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5000 6000 50  0001 C CNN
-F 3 "~" H 5000 6000 50  0001 C CNN
-	1    4800 6000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP109
-U 1 1 5DA57FB6
-P 5300 6000
-F 0 "TP109" H 5358 6118 50  0000 L CNN
-F 1 "TestPoint" H 5358 6027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5500 6000 50  0001 C CNN
-F 3 "~" H 5500 6000 50  0001 C CNN
-	1    5300 6000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP117
-U 1 1 5DA57FBC
-P 5800 6000
-F 0 "TP117" H 5858 6118 50  0000 L CNN
-F 1 "TestPoint" H 5858 6027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6000 6000 50  0001 C CNN
-F 3 "~" H 6000 6000 50  0001 C CNN
-	1    5800 6000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP125
-U 1 1 5DA57FC2
-P 6300 6000
-F 0 "TP125" H 6358 6118 50  0000 L CNN
-F 1 "TestPoint" H 6358 6027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6500 6000 50  0001 C CNN
-F 3 "~" H 6500 6000 50  0001 C CNN
-	1    6300 6000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP70
-U 1 1 5DA57FC8
-P 2800 6500
-F 0 "TP70" H 2858 6618 50  0000 L CNN
-F 1 "TestPoint" H 2858 6527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3000 6500 50  0001 C CNN
-F 3 "~" H 3000 6500 50  0001 C CNN
-	1    2800 6500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP78
-U 1 1 5DA57FCE
-P 3300 6500
-F 0 "TP78" H 3358 6618 50  0000 L CNN
-F 1 "TestPoint" H 3358 6527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3500 6500 50  0001 C CNN
-F 3 "~" H 3500 6500 50  0001 C CNN
-	1    3300 6500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP86
-U 1 1 5DA57FD4
-P 3800 6500
-F 0 "TP86" H 3858 6618 50  0000 L CNN
-F 1 "TestPoint" H 3858 6527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4000 6500 50  0001 C CNN
-F 3 "~" H 4000 6500 50  0001 C CNN
-	1    3800 6500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP94
-U 1 1 5DA57FDA
-P 4300 6500
-F 0 "TP94" H 4358 6618 50  0000 L CNN
-F 1 "TestPoint" H 4358 6527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4500 6500 50  0001 C CNN
-F 3 "~" H 4500 6500 50  0001 C CNN
-	1    4300 6500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP102
-U 1 1 5DA57FE0
-P 4800 6500
-F 0 "TP102" H 4858 6618 50  0000 L CNN
-F 1 "TestPoint" H 4858 6527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5000 6500 50  0001 C CNN
-F 3 "~" H 5000 6500 50  0001 C CNN
-	1    4800 6500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP110
-U 1 1 5DA57FE6
-P 5300 6500
-F 0 "TP110" H 5358 6618 50  0000 L CNN
-F 1 "TestPoint" H 5358 6527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5500 6500 50  0001 C CNN
-F 3 "~" H 5500 6500 50  0001 C CNN
-	1    5300 6500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP118
-U 1 1 5DA57FEC
-P 5800 6500
-F 0 "TP118" H 5858 6618 50  0000 L CNN
-F 1 "TestPoint" H 5858 6527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6000 6500 50  0001 C CNN
-F 3 "~" H 6000 6500 50  0001 C CNN
-	1    5800 6500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP126
-U 1 1 5DA57FF2
-P 6300 6500
-F 0 "TP126" H 6358 6618 50  0000 L CNN
-F 1 "TestPoint" H 6358 6527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6500 6500 50  0001 C CNN
-F 3 "~" H 6500 6500 50  0001 C CNN
-	1    6300 6500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP71
-U 1 1 5DA57FF8
-P 2800 7000
-F 0 "TP71" H 2858 7118 50  0000 L CNN
-F 1 "TestPoint" H 2858 7027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3000 7000 50  0001 C CNN
-F 3 "~" H 3000 7000 50  0001 C CNN
-	1    2800 7000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP79
-U 1 1 5DA57FFE
-P 3300 7000
-F 0 "TP79" H 3358 7118 50  0000 L CNN
-F 1 "TestPoint" H 3358 7027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3500 7000 50  0001 C CNN
-F 3 "~" H 3500 7000 50  0001 C CNN
-	1    3300 7000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP87
-U 1 1 5DA58004
-P 3800 7000
-F 0 "TP87" H 3858 7118 50  0000 L CNN
-F 1 "TestPoint" H 3858 7027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4000 7000 50  0001 C CNN
-F 3 "~" H 4000 7000 50  0001 C CNN
-	1    3800 7000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP95
-U 1 1 5DA5800A
-P 4300 7000
-F 0 "TP95" H 4358 7118 50  0000 L CNN
-F 1 "TestPoint" H 4358 7027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4500 7000 50  0001 C CNN
-F 3 "~" H 4500 7000 50  0001 C CNN
-	1    4300 7000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP103
-U 1 1 5DA58010
-P 4800 7000
-F 0 "TP103" H 4858 7118 50  0000 L CNN
-F 1 "TestPoint" H 4858 7027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5000 7000 50  0001 C CNN
-F 3 "~" H 5000 7000 50  0001 C CNN
-	1    4800 7000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP111
-U 1 1 5DA58016
-P 5300 7000
-F 0 "TP111" H 5358 7118 50  0000 L CNN
-F 1 "TestPoint" H 5358 7027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5500 7000 50  0001 C CNN
-F 3 "~" H 5500 7000 50  0001 C CNN
-	1    5300 7000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP119
-U 1 1 5DA5801C
-P 5800 7000
-F 0 "TP119" H 5858 7118 50  0000 L CNN
-F 1 "TestPoint" H 5858 7027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6000 7000 50  0001 C CNN
-F 3 "~" H 6000 7000 50  0001 C CNN
-	1    5800 7000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP127
-U 1 1 5DA58022
-P 6300 7000
-F 0 "TP127" H 6358 7118 50  0000 L CNN
-F 1 "TestPoint" H 6358 7027 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6500 7000 50  0001 C CNN
-F 3 "~" H 6500 7000 50  0001 C CNN
-	1    6300 7000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP72
-U 1 1 5DA58028
-P 2800 7500
-F 0 "TP72" H 2858 7618 50  0000 L CNN
-F 1 "TestPoint" H 2858 7527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3000 7500 50  0001 C CNN
-F 3 "~" H 3000 7500 50  0001 C CNN
-	1    2800 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP80
-U 1 1 5DA5802E
-P 3300 7500
-F 0 "TP80" H 3358 7618 50  0000 L CNN
-F 1 "TestPoint" H 3358 7527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 3500 7500 50  0001 C CNN
-F 3 "~" H 3500 7500 50  0001 C CNN
-	1    3300 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP88
-U 1 1 5DA58034
-P 3800 7500
-F 0 "TP88" H 3858 7618 50  0000 L CNN
-F 1 "TestPoint" H 3858 7527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4000 7500 50  0001 C CNN
-F 3 "~" H 4000 7500 50  0001 C CNN
-	1    3800 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP96
-U 1 1 5DA5803A
-P 4300 7500
-F 0 "TP96" H 4358 7618 50  0000 L CNN
-F 1 "TestPoint" H 4358 7527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 4500 7500 50  0001 C CNN
-F 3 "~" H 4500 7500 50  0001 C CNN
-	1    4300 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP104
-U 1 1 5DA58040
-P 4800 7500
-F 0 "TP104" H 4858 7618 50  0000 L CNN
-F 1 "TestPoint" H 4858 7527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5000 7500 50  0001 C CNN
-F 3 "~" H 5000 7500 50  0001 C CNN
-	1    4800 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP112
-U 1 1 5DA58046
-P 5300 7500
-F 0 "TP112" H 5358 7618 50  0000 L CNN
-F 1 "TestPoint" H 5358 7527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 5500 7500 50  0001 C CNN
-F 3 "~" H 5500 7500 50  0001 C CNN
-	1    5300 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP120
-U 1 1 5DA5804C
-P 5800 7500
-F 0 "TP120" H 5858 7618 50  0000 L CNN
-F 1 "TestPoint" H 5858 7527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6000 7500 50  0001 C CNN
-F 3 "~" H 6000 7500 50  0001 C CNN
-	1    5800 7500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:TestPoint TP128
-U 1 1 5DA58052
-P 6300 7500
-F 0 "TP128" H 6358 7618 50  0000 L CNN
-F 1 "TestPoint" H 6358 7527 50  0000 L CNN
-F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6500 7500 50  0001 C CNN
-F 3 "~" H 6500 7500 50  0001 C CNN
-	1    6300 7500
-	1    0    0    -1  
-$EndComp
-Text GLabel 6300 7500 3    50   Input ~ 0
+Text GLabel 6400 7300 3    50   Input ~ 0
 SR8C8
-Text GLabel 5800 7500 3    50   Input ~ 0
+Text GLabel 6200 7300 3    50   Input ~ 0
 SR8C7
-Text GLabel 5300 7500 3    50   Input ~ 0
+Text GLabel 6000 7300 3    50   Input ~ 0
 SR8C6
-Text GLabel 4800 7500 3    50   Input ~ 0
+Text GLabel 5800 7300 3    50   Input ~ 0
 SR8C5
-Text GLabel 4300 7500 3    50   Input ~ 0
+Text GLabel 5600 7300 3    50   Input ~ 0
 SR8C4
-Text GLabel 3800 7500 3    50   Input ~ 0
+Text GLabel 5400 7300 3    50   Input ~ 0
 SR8C3
-Text GLabel 3300 7500 3    50   Input ~ 0
+Text GLabel 5200 7300 3    50   Input ~ 0
 SR8C2
-Text GLabel 2800 7500 3    50   Input ~ 0
+Text GLabel 5000 7300 3    50   Input ~ 0
 SR8C1
-Text GLabel 6300 7000 3    50   Input ~ 0
+Text GLabel 6400 6700 3    50   Input ~ 0
 SR7C8
-Text GLabel 5800 7000 3    50   Input ~ 0
+Text GLabel 6200 6700 3    50   Input ~ 0
 SR7C7
-Text GLabel 5300 7000 3    50   Input ~ 0
+Text GLabel 6000 6700 3    50   Input ~ 0
 SR7C6
-Text GLabel 4800 7000 3    50   Input ~ 0
+Text GLabel 5800 6700 3    50   Input ~ 0
 SR7C5
-Text GLabel 4300 7000 3    50   Input ~ 0
+Text GLabel 5600 6700 3    50   Input ~ 0
 SR7C4
-Text GLabel 3800 7000 3    50   Input ~ 0
+Text GLabel 5400 6700 3    50   Input ~ 0
 SR7C3
-Text GLabel 3300 7000 3    50   Input ~ 0
+Text GLabel 5200 6700 3    50   Input ~ 0
 SR7C2
-Text GLabel 2800 7000 3    50   Input ~ 0
+Text GLabel 5000 6700 3    50   Input ~ 0
 SR7C1
-Text GLabel 6300 6500 3    50   Input ~ 0
+Text GLabel 6400 6100 3    50   Input ~ 0
 SR6C8
-Text GLabel 5800 6500 3    50   Input ~ 0
+Text GLabel 6200 6100 3    50   Input ~ 0
 SR6C7
-Text GLabel 5300 6500 3    50   Input ~ 0
+Text GLabel 6000 6100 3    50   Input ~ 0
 SR6C6
-Text GLabel 4800 6500 3    50   Input ~ 0
+Text GLabel 5800 6100 3    50   Input ~ 0
 SR6C5
-Text GLabel 4300 6500 3    50   Input ~ 0
+Text GLabel 5600 6100 3    50   Input ~ 0
 SR6C4
-Text GLabel 3800 6500 3    50   Input ~ 0
+Text GLabel 5400 6100 3    50   Input ~ 0
 SR6C3
-Text GLabel 3300 6500 3    50   Input ~ 0
+Text GLabel 5200 6100 3    50   Input ~ 0
 SR6C2
-Text GLabel 2800 6500 3    50   Input ~ 0
+Text GLabel 5000 6100 3    50   Input ~ 0
 SR6C1
-Text GLabel 6300 6000 3    50   Input ~ 0
+Text GLabel 6400 5500 3    50   Input ~ 0
 SR5C8
-Text GLabel 5800 6000 3    50   Input ~ 0
+Text GLabel 6200 5500 3    50   Input ~ 0
 SR5C7
-Text GLabel 5300 6000 3    50   Input ~ 0
+Text GLabel 6000 5500 3    50   Input ~ 0
 SR5C6
-Text GLabel 4800 6000 3    50   Input ~ 0
-SR5C5
-Text GLabel 4300 6000 3    50   Input ~ 0
-SR5C4
-Text GLabel 3800 6000 3    50   Input ~ 0
-SR5C3
-Text GLabel 3300 6000 3    50   Input ~ 0
-SR5C2
-Text GLabel 2800 6000 3    50   Input ~ 0
-SR5C1
-Text GLabel 6300 5500 3    50   Input ~ 0
-SR4C8
 Text GLabel 5800 5500 3    50   Input ~ 0
+SR5C5
+Text GLabel 5600 5500 3    50   Input ~ 0
+SR5C4
+Text GLabel 5400 5500 3    50   Input ~ 0
+SR5C3
+Text GLabel 5200 5500 3    50   Input ~ 0
+SR5C2
+Text GLabel 5000 5500 3    50   Input ~ 0
+SR5C1
+Text GLabel 4400 7300 3    50   Input ~ 0
+SR4C8
+Text GLabel 4200 7300 3    50   Input ~ 0
 SR4C7
-Text GLabel 5300 5500 3    50   Input ~ 0
+Text GLabel 4000 7300 3    50   Input ~ 0
 SR4C6
-Text GLabel 4800 5500 3    50   Input ~ 0
+Text GLabel 3800 7300 3    50   Input ~ 0
 SR4C5
-Text GLabel 4300 5500 3    50   Input ~ 0
+Text GLabel 3600 7300 3    50   Input ~ 0
 SR4C4
-Text GLabel 3800 5500 3    50   Input ~ 0
+Text GLabel 3400 7300 3    50   Input ~ 0
 SR4C3
-Text GLabel 3300 5500 3    50   Input ~ 0
+Text GLabel 3200 7300 3    50   Input ~ 0
 SR4C2
-Text GLabel 2800 5500 3    50   Input ~ 0
+Text GLabel 3000 7300 3    50   Input ~ 0
 SR4C1
-Text GLabel 6300 5000 3    50   Input ~ 0
+Text GLabel 4400 6700 3    50   Input ~ 0
 SR3C8
-Text GLabel 5800 5000 3    50   Input ~ 0
+Text GLabel 4200 6700 3    50   Input ~ 0
 SR3C7
-Text GLabel 5300 5000 3    50   Input ~ 0
+Text GLabel 4000 6700 3    50   Input ~ 0
 SR3C6
-Text GLabel 4800 5000 3    50   Input ~ 0
+Text GLabel 3800 6700 3    50   Input ~ 0
 SR3C5
-Text GLabel 4300 5000 3    50   Input ~ 0
+Text GLabel 3600 6700 3    50   Input ~ 0
 SR3C4
-Text GLabel 3800 5000 3    50   Input ~ 0
+Text GLabel 3400 6700 3    50   Input ~ 0
 SR3C3
-Text GLabel 3300 5000 3    50   Input ~ 0
+Text GLabel 3200 6700 3    50   Input ~ 0
 SR3C2
-Text GLabel 2800 5000 3    50   Input ~ 0
+Text GLabel 3000 6700 3    50   Input ~ 0
 SR3C1
-Text GLabel 6300 4500 3    50   Input ~ 0
+Text GLabel 4400 6100 3    50   Input ~ 0
 SR2C8
-Text GLabel 5800 4500 3    50   Input ~ 0
+Text GLabel 4200 6100 3    50   Input ~ 0
 SR2C7
-Text GLabel 5300 4500 3    50   Input ~ 0
+Text GLabel 4000 6100 3    50   Input ~ 0
 SR2C6
-Text GLabel 4800 4500 3    50   Input ~ 0
+Text GLabel 3800 6100 3    50   Input ~ 0
 SR2C5
-Text GLabel 4300 4500 3    50   Input ~ 0
+Text GLabel 3600 6100 3    50   Input ~ 0
 SR2C4
-Text GLabel 3800 4500 3    50   Input ~ 0
+Text GLabel 3400 6100 3    50   Input ~ 0
 SR2C3
-Text GLabel 3300 4500 3    50   Input ~ 0
+Text GLabel 3200 6100 3    50   Input ~ 0
 SR2C2
-Text GLabel 2800 4500 3    50   Input ~ 0
+Text GLabel 3000 6100 3    50   Input ~ 0
 SR2C1
 Wire Notes Line
-	2700 3800 2700 7800
+	2700 5000 2700 7700
 Wire Notes Line
-	2700 7800 6800 7800
+	2700 7700 6800 7700
 Wire Notes Line
-	6800 7800 6800 3800
+	6800 7700 6800 5000
 Wire Notes Line
-	6800 3800 2700 3800
-Text Notes 2700 7800 1    50   ~ 0
-Switch control signals
+	6800 5000 2700 5000
 Wire Wire Line
 	3400 1200 3000 1200
 Wire Wire Line
@@ -1517,485 +807,451 @@ Wire Wire Line
 	7400 1200 7000 1200
 Wire Wire Line
 	7000 2900 6200 2900
-Text GLabel 10800 1500 2    50   Input ~ 0
-R1_FL
-Text GLabel 10100 1000 2    50   Input ~ 0
+Text GLabel 9800 1000 2    50   Input ~ 0
 R1_SL
-Text GLabel 10800 1900 2    50   Input ~ 0
-R2_FL
-Text GLabel 10800 1800 2    50   Input ~ 0
-R2_SL
-Text GLabel 10800 2300 2    50   Input ~ 0
-R3_FL
-Text GLabel 10800 2200 2    50   Input ~ 0
-R3_SL
-Text GLabel 10800 2700 2    50   Input ~ 0
-R4_FL
-Text GLabel 10800 2600 2    50   Input ~ 0
-R4_SL
-Text GLabel 10800 3100 2    50   Input ~ 0
-R5_FL
-Text GLabel 10800 3000 2    50   Input ~ 0
-R5_SL
-Text GLabel 10800 3500 2    50   Input ~ 0
-R6_FL
-Text GLabel 10800 3400 2    50   Input ~ 0
-R6_SL
-Text GLabel 10800 3900 2    50   Input ~ 0
-R7_FL
-Text GLabel 10800 3800 2    50   Input ~ 0
-R7_SL
-Text GLabel 10800 4300 2    50   Input ~ 0
-R8_FL
-Text GLabel 10800 4200 2    50   Input ~ 0
-R8_SL
-Text GLabel 9500 1200 0    50   Input ~ 0
+Text GLabel 9200 1200 0    50   Input ~ 0
 R1SL
-Text GLabel 9500 1600 0    50   Input ~ 0
+Text GLabel 9200 1600 0    50   Input ~ 0
 R2SL
-Text GLabel 10100 4900 2    50   Input ~ 0
+Text GLabel 9800 4900 2    50   Input ~ 0
 C_SL
-Text GLabel 10100 4500 2    50   Input ~ 0
+Text GLabel 9800 4500 2    50   Input ~ 0
 C_SL
-Text GLabel 10100 3800 2    50   Input ~ 0
+Text GLabel 9800 3800 2    50   Input ~ 0
 C_SL
-Text GLabel 10100 3400 2    50   Input ~ 0
+Text GLabel 9800 3400 2    50   Input ~ 0
 C_SL
-Text GLabel 10100 2700 2    50   Input ~ 0
+Text GLabel 9800 2700 2    50   Input ~ 0
 C_SL
-Text GLabel 10100 1600 2    50   Input ~ 0
+Text GLabel 9800 1600 2    50   Input ~ 0
 C_SL
-Text GLabel 10100 1200 2    50   Input ~ 0
+Text GLabel 9800 1200 2    50   Input ~ 0
 C_SL
-Text GLabel 10100 2300 2    50   Input ~ 0
+Text GLabel 9800 2300 2    50   Input ~ 0
 C_SL
-Text GLabel 10100 1400 2    50   Input ~ 0
+Text GLabel 9800 1400 2    50   Input ~ 0
 R2_SL
-Text GLabel 10100 2100 2    50   Input ~ 0
+Text GLabel 9800 2100 2    50   Input ~ 0
 R3_SL
-Text GLabel 10100 2500 2    50   Input ~ 0
+Text GLabel 9800 2500 2    50   Input ~ 0
 R4_SL
-Text GLabel 10100 3200 2    50   Input ~ 0
+Text GLabel 9800 3200 2    50   Input ~ 0
 R5_SL
-Text GLabel 10100 4300 2    50   Input ~ 0
+Text GLabel 9800 4300 2    50   Input ~ 0
 R7_SL
-Text GLabel 10100 4700 2    50   Input ~ 0
+Text GLabel 9800 4700 2    50   Input ~ 0
 R8_SL
-Text GLabel 9500 2300 0    50   Input ~ 0
+Text GLabel 9200 2300 0    50   Input ~ 0
 R3SL
-Text GLabel 9500 2700 0    50   Input ~ 0
+Text GLabel 9200 2700 0    50   Input ~ 0
 R4SL
-Text GLabel 9500 3400 0    50   Input ~ 0
+Text GLabel 9200 3400 0    50   Input ~ 0
 R5SL
-Text GLabel 9500 3800 0    50   Input ~ 0
+Text GLabel 9200 3800 0    50   Input ~ 0
 R6SL
-Text GLabel 9500 4500 0    50   Input ~ 0
+Text GLabel 9200 4500 0    50   Input ~ 0
 R7SL
-Text GLabel 9500 4900 0    50   Input ~ 0
+Text GLabel 9200 4900 0    50   Input ~ 0
 R8SL
-Text GLabel 10100 3600 2    50   Input ~ 0
+Text GLabel 9800 3600 2    50   Input ~ 0
 R6_SL
 Wire Notes Line
-	10400 5200 10400 600 
+	10100 5200 10100 600 
 Wire Notes Line
-	10400 600  9000 600 
+	10100 600  8700 600 
 Wire Notes Line
-	9000 600  9000 5200
+	8700 600  8700 5200
 Wire Notes Line
-	9000 5200 10400 5200
-Text Notes 9000 600  0    50   ~ 0
+	8700 5200 10100 5200
+Text Notes 8700 600  0    50   ~ 0
 8 to 1 matrix switch, 60V/1.0A/0.5OHM
-Text GLabel 10800 1400 2    50   Input ~ 0
-R1_SL
 $Comp
 L power:VDD #PWR?
 U 1 1 5D5EF939
-P 9500 3200
+P 9200 3200
 AR Path="/5D997D8A/5D5EF939" Ref="#PWR?"  Part="1" 
 AR Path="/5D9777B5/5D5EF939" Ref="#PWR0107"  Part="1" 
-F 0 "#PWR0107" H 9500 3050 50  0001 C CNN
-F 1 "VDD" H 9400 3200 50  0000 C CNN
-F 2 "" H 9500 3200 50  0001 C CNN
-F 3 "" H 9500 3200 50  0001 C CNN
-	1    9500 3200
+F 0 "#PWR0107" H 9200 3050 50  0001 C CNN
+F 1 "VDD" H 9100 3200 50  0000 C CNN
+F 2 "" H 9200 3200 50  0001 C CNN
+F 3 "" H 9200 3200 50  0001 C CNN
+	1    9200 3200
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VDD #PWR?
 U 1 1 5D5EF93F
-P 9500 4300
+P 9200 4300
 AR Path="/5D997D8A/5D5EF93F" Ref="#PWR?"  Part="1" 
 AR Path="/5D9777B5/5D5EF93F" Ref="#PWR0109"  Part="1" 
-F 0 "#PWR0109" H 9500 4150 50  0001 C CNN
-F 1 "VDD" H 9400 4300 50  0000 C CNN
-F 2 "" H 9500 4300 50  0001 C CNN
-F 3 "" H 9500 4300 50  0001 C CNN
-	1    9500 4300
+F 0 "#PWR0109" H 9200 4150 50  0001 C CNN
+F 1 "VDD" H 9100 4300 50  0000 C CNN
+F 2 "" H 9200 4300 50  0001 C CNN
+F 3 "" H 9200 4300 50  0001 C CNN
+	1    9200 4300
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VDD #PWR?
 U 1 1 5D5EF945
-P 9500 4700
+P 9200 4700
 AR Path="/5D997D8A/5D5EF945" Ref="#PWR?"  Part="1" 
 AR Path="/5D9777B5/5D5EF945" Ref="#PWR0110"  Part="1" 
-F 0 "#PWR0110" H 9500 4550 50  0001 C CNN
-F 1 "VDD" H 9400 4700 50  0000 C CNN
-F 2 "" H 9500 4700 50  0001 C CNN
-F 3 "" H 9500 4700 50  0001 C CNN
-	1    9500 4700
+F 0 "#PWR0110" H 9200 4550 50  0001 C CNN
+F 1 "VDD" H 9100 4700 50  0000 C CNN
+F 2 "" H 9200 4700 50  0001 C CNN
+F 3 "" H 9200 4700 50  0001 C CNN
+	1    9200 4700
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VDD #PWR?
 U 1 1 5D5EF94B
-P 9500 2100
+P 9200 2100
 AR Path="/5D997D8A/5D5EF94B" Ref="#PWR?"  Part="1" 
 AR Path="/5D9777B5/5D5EF94B" Ref="#PWR0105"  Part="1" 
-F 0 "#PWR0105" H 9500 1950 50  0001 C CNN
-F 1 "VDD" H 9400 2100 50  0000 C CNN
-F 2 "" H 9500 2100 50  0001 C CNN
-F 3 "" H 9500 2100 50  0001 C CNN
-	1    9500 2100
+F 0 "#PWR0105" H 9200 1950 50  0001 C CNN
+F 1 "VDD" H 9100 2100 50  0000 C CNN
+F 2 "" H 9200 2100 50  0001 C CNN
+F 3 "" H 9200 2100 50  0001 C CNN
+	1    9200 2100
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VDD #PWR?
 U 1 1 5D5EF951
-P 9500 2500
+P 9200 2500
 AR Path="/5D997D8A/5D5EF951" Ref="#PWR?"  Part="1" 
 AR Path="/5D9777B5/5D5EF951" Ref="#PWR0106"  Part="1" 
-F 0 "#PWR0106" H 9500 2350 50  0001 C CNN
-F 1 "VDD" H 9400 2500 50  0000 C CNN
-F 2 "" H 9500 2500 50  0001 C CNN
-F 3 "" H 9500 2500 50  0001 C CNN
-	1    9500 2500
+F 0 "#PWR0106" H 9200 2350 50  0001 C CNN
+F 1 "VDD" H 9100 2500 50  0000 C CNN
+F 2 "" H 9200 2500 50  0001 C CNN
+F 3 "" H 9200 2500 50  0001 C CNN
+	1    9200 2500
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VDD #PWR?
 U 1 1 5D5EF957
-P 9500 1000
+P 9200 1000
 AR Path="/5D997D8A/5D5EF957" Ref="#PWR?"  Part="1" 
 AR Path="/5D9777B5/5D5EF957" Ref="#PWR0103"  Part="1" 
-F 0 "#PWR0103" H 9500 850 50  0001 C CNN
-F 1 "VDD" H 9400 1000 50  0000 C CNN
-F 2 "" H 9500 1000 50  0001 C CNN
-F 3 "" H 9500 1000 50  0001 C CNN
-	1    9500 1000
+F 0 "#PWR0103" H 9200 850 50  0001 C CNN
+F 1 "VDD" H 9100 1000 50  0000 C CNN
+F 2 "" H 9200 1000 50  0001 C CNN
+F 3 "" H 9200 1000 50  0001 C CNN
+	1    9200 1000
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VDD #PWR?
 U 1 1 5D5EF95D
-P 9500 1400
+P 9200 1400
 AR Path="/5D997D8A/5D5EF95D" Ref="#PWR?"  Part="1" 
 AR Path="/5D9777B5/5D5EF95D" Ref="#PWR0104"  Part="1" 
-F 0 "#PWR0104" H 9500 1250 50  0001 C CNN
-F 1 "VDD" H 9400 1400 50  0000 C CNN
-F 2 "" H 9500 1400 50  0001 C CNN
-F 3 "" H 9500 1400 50  0001 C CNN
-	1    9500 1400
+F 0 "#PWR0104" H 9200 1250 50  0001 C CNN
+F 1 "VDD" H 9100 1400 50  0000 C CNN
+F 2 "" H 9200 1400 50  0001 C CNN
+F 3 "" H 9200 1400 50  0001 C CNN
+	1    9200 1400
 	1    0    0    -1  
 $EndComp
-Text Notes 500  3600 0    50   ~ 0
+Text Notes 4800 3900 0    50   ~ 0
 All FORCE LO signals (probably) tied together
-Text GLabel 1800 4900 2    50   Input ~ 0
+Text GLabel 4700 4000 1    50   Input ~ 0
 C_FL
-Text GLabel 1200 6000 0    50   Input ~ 0
+Text GLabel 5900 4500 3    50   Input ~ 0
 R8_FL
-Text GLabel 1200 5700 0    50   Input ~ 0
+Text GLabel 5600 4500 3    50   Input ~ 0
 R7_FL
-Text GLabel 1200 5400 0    50   Input ~ 0
+Text GLabel 5300 4500 3    50   Input ~ 0
 R6_FL
-Text GLabel 1200 5100 0    50   Input ~ 0
+Text GLabel 5000 4500 3    50   Input ~ 0
 R5_FL
-Text GLabel 1200 4800 0    50   Input ~ 0
+Text GLabel 4700 4500 3    50   Input ~ 0
 R4_FL
-Text GLabel 1200 4500 0    50   Input ~ 0
+Text GLabel 4400 4500 3    50   Input ~ 0
 R3_FL
-Text GLabel 1200 4200 0    50   Input ~ 0
+Text GLabel 4100 4500 3    50   Input ~ 0
 R2_FL
-Text GLabel 1200 3900 0    50   Input ~ 0
+Text GLabel 3800 4500 3    50   Input ~ 0
 R1_FL
 $Comp
 L power:VDD #PWR?
 U 1 1 5D5EF96D
-P 9500 3600
+P 9200 3600
 AR Path="/5D997D8A/5D5EF96D" Ref="#PWR?"  Part="1" 
 AR Path="/5D9777B5/5D5EF96D" Ref="#PWR0108"  Part="1" 
-F 0 "#PWR0108" H 9500 3450 50  0001 C CNN
-F 1 "VDD" H 9400 3600 50  0000 C CNN
-F 2 "" H 9500 3600 50  0001 C CNN
-F 3 "" H 9500 3600 50  0001 C CNN
-	1    9500 3600
+F 0 "#PWR0108" H 9200 3450 50  0001 C CNN
+F 1 "VDD" H 9100 3600 50  0000 C CNN
+F 2 "" H 9200 3600 50  0001 C CNN
+F 3 "" H 9200 3600 50  0001 C CNN
+	1    9200 3600
 	1    0    0    -1  
 $EndComp
 $Comp
 L Relay_SolidState:ASSR-1218 U?
 U 1 1 5D5EF973
-P 9800 1100
+P 9500 1100
 AR Path="/5D997D8A/5D5EF973" Ref="U?"  Part="1" 
 AR Path="/5D9777B5/5D5EF973" Ref="U134"  Part="1" 
-F 0 "U134" H 9800 1425 50  0000 C CNN
-F 1 "ASSR-1218" H 9800 1334 50  0000 C CNN
-F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9600 900 50  0001 L CIN
-F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9750 1100 50  0001 L CNN
-	1    9800 1100
+F 0 "U134" H 9500 1425 50  0000 C CNN
+F 1 "ASSR-1218" H 9500 1334 50  0000 C CNN
+F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9300 900 50  0001 L CIN
+F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9450 1100 50  0001 L CNN
+	1    9500 1100
 	1    0    0    -1  
 $EndComp
 $Comp
 L Relay_SolidState:ASSR-1218 U?
 U 1 1 5D5EF979
-P 9800 1500
+P 9500 1500
 AR Path="/5D997D8A/5D5EF979" Ref="U?"  Part="1" 
 AR Path="/5D9777B5/5D5EF979" Ref="U135"  Part="1" 
-F 0 "U135" H 9800 1825 50  0000 C CNN
-F 1 "ASSR-1218" H 9800 1734 50  0000 C CNN
-F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9600 1300 50  0001 L CIN
-F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9750 1500 50  0001 L CNN
-	1    9800 1500
+F 0 "U135" H 9500 1825 50  0000 C CNN
+F 1 "ASSR-1218" H 9500 1734 50  0000 C CNN
+F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9300 1300 50  0001 L CIN
+F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9450 1500 50  0001 L CNN
+	1    9500 1500
 	1    0    0    -1  
 $EndComp
 $Comp
 L Relay_SolidState:ASSR-1218 U?
 U 1 1 5D5EF97F
-P 9800 2200
+P 9500 2200
 AR Path="/5D997D8A/5D5EF97F" Ref="U?"  Part="1" 
 AR Path="/5D9777B5/5D5EF97F" Ref="U136"  Part="1" 
-F 0 "U136" H 9800 2525 50  0000 C CNN
-F 1 "ASSR-1218" H 9800 2434 50  0000 C CNN
-F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9600 2000 50  0001 L CIN
-F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9750 2200 50  0001 L CNN
-	1    9800 2200
+F 0 "U136" H 9500 2525 50  0000 C CNN
+F 1 "ASSR-1218" H 9500 2434 50  0000 C CNN
+F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9300 2000 50  0001 L CIN
+F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9450 2200 50  0001 L CNN
+	1    9500 2200
 	1    0    0    -1  
 $EndComp
 $Comp
 L Relay_SolidState:ASSR-1218 U?
 U 1 1 5D5EF985
-P 9800 2600
+P 9500 2600
 AR Path="/5D997D8A/5D5EF985" Ref="U?"  Part="1" 
 AR Path="/5D9777B5/5D5EF985" Ref="U137"  Part="1" 
-F 0 "U137" H 9800 2925 50  0000 C CNN
-F 1 "ASSR-1218" H 9800 2834 50  0000 C CNN
-F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9600 2400 50  0001 L CIN
-F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9750 2600 50  0001 L CNN
-	1    9800 2600
+F 0 "U137" H 9500 2925 50  0000 C CNN
+F 1 "ASSR-1218" H 9500 2834 50  0000 C CNN
+F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9300 2400 50  0001 L CIN
+F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9450 2600 50  0001 L CNN
+	1    9500 2600
 	1    0    0    -1  
 $EndComp
 $Comp
 L Relay_SolidState:ASSR-1218 U?
 U 1 1 5D5EF98B
-P 9800 3300
+P 9500 3300
 AR Path="/5D997D8A/5D5EF98B" Ref="U?"  Part="1" 
 AR Path="/5D9777B5/5D5EF98B" Ref="U138"  Part="1" 
-F 0 "U138" H 9800 3625 50  0000 C CNN
-F 1 "ASSR-1218" H 9800 3534 50  0000 C CNN
-F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9600 3100 50  0001 L CIN
-F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9750 3300 50  0001 L CNN
-	1    9800 3300
+F 0 "U138" H 9500 3625 50  0000 C CNN
+F 1 "ASSR-1218" H 9500 3534 50  0000 C CNN
+F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9300 3100 50  0001 L CIN
+F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9450 3300 50  0001 L CNN
+	1    9500 3300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Relay_SolidState:ASSR-1218 U?
 U 1 1 5D5EF991
-P 9800 3700
+P 9500 3700
 AR Path="/5D997D8A/5D5EF991" Ref="U?"  Part="1" 
 AR Path="/5D9777B5/5D5EF991" Ref="U139"  Part="1" 
-F 0 "U139" H 9800 4025 50  0000 C CNN
-F 1 "ASSR-1218" H 9800 3934 50  0000 C CNN
-F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9600 3500 50  0001 L CIN
-F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9750 3700 50  0001 L CNN
-	1    9800 3700
+F 0 "U139" H 9500 4025 50  0000 C CNN
+F 1 "ASSR-1218" H 9500 3934 50  0000 C CNN
+F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9300 3500 50  0001 L CIN
+F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9450 3700 50  0001 L CNN
+	1    9500 3700
 	1    0    0    -1  
 $EndComp
 $Comp
 L Relay_SolidState:ASSR-1218 U?
 U 1 1 5D5EF997
-P 9800 4400
+P 9500 4400
 AR Path="/5D997D8A/5D5EF997" Ref="U?"  Part="1" 
 AR Path="/5D9777B5/5D5EF997" Ref="U140"  Part="1" 
-F 0 "U140" H 9800 4725 50  0000 C CNN
-F 1 "ASSR-1218" H 9800 4634 50  0000 C CNN
-F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9600 4200 50  0001 L CIN
-F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9750 4400 50  0001 L CNN
-	1    9800 4400
+F 0 "U140" H 9500 4725 50  0000 C CNN
+F 1 "ASSR-1218" H 9500 4634 50  0000 C CNN
+F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9300 4200 50  0001 L CIN
+F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9450 4400 50  0001 L CNN
+	1    9500 4400
 	1    0    0    -1  
 $EndComp
 $Comp
 L Relay_SolidState:ASSR-1218 U?
 U 1 1 5D5EF99D
-P 9800 4800
+P 9500 4800
 AR Path="/5D997D8A/5D5EF99D" Ref="U?"  Part="1" 
 AR Path="/5D9777B5/5D5EF99D" Ref="U141"  Part="1" 
-F 0 "U141" H 9800 5125 50  0000 C CNN
-F 1 "ASSR-1218" H 9800 5034 50  0000 C CNN
-F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9600 4600 50  0001 L CIN
-F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9750 4800 50  0001 L CNN
-	1    9800 4800
+F 0 "U141" H 9500 5125 50  0000 C CNN
+F 1 "ASSR-1218" H 9500 5034 50  0000 C CNN
+F 2 "Package_SO:SO-4_4.4x4.3mm_P2.54mm" H 9300 4600 50  0001 L CIN
+F 3 "https://docs.broadcom.com/docs/AV02-0173EN" H 9450 4800 50  0001 L CNN
+	1    9500 4800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D5EF9A3
-P 600 6400
+P 1500 6400
 AR Path="/5D5EF9A3" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D5EF9A3" Ref="J?"  Part="1" 
 AR Path="/5D9777B5/5D5EF9A3" Ref="J33"  Part="1" 
-F 0 "J33" V 564 6212 50  0000 R CNN
-F 1 "Conn_01x02" V 473 6212 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 600 6400 50  0001 C CNN
-F 3 "~" H 600 6400 50  0001 C CNN
-	1    600  6400
+F 0 "J33" V 1464 6212 50  0000 R CNN
+F 1 "Conn_01x02" V 1373 6212 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1500 6400 50  0001 C CNN
+F 3 "~" H 1500 6400 50  0001 C CNN
+	1    1500 6400
 	0    -1   -1   0   
 $EndComp
-Text GLabel 600  6600 3    50   Input ~ 0
+Text GLabel 1500 6600 3    50   Input ~ 0
 C_SL
-Text GLabel 700  6600 3    50   Input ~ 0
+Text GLabel 1600 6600 3    50   Input ~ 0
 C_FL
-Text Notes 9000 5300 0    50   ~ 0
+Text Notes 8700 5300 0    50   ~ 0
 Sense Lo Switching
 Wire Wire Line
-	1400 3900 1700 3900
+	3800 4300 3800 4000
 Wire Wire Line
-	1700 3900 1700 4200
+	3800 4000 4100 4000
 Wire Wire Line
-	1700 4200 1400 4200
+	4100 4000 4100 4300
 Wire Wire Line
-	1700 4200 1700 4500
+	4100 4000 4400 4000
 Wire Wire Line
-	1700 4500 1400 4500
-Connection ~ 1700 4200
+	4400 4000 4400 4300
+Connection ~ 4100 4000
 Wire Wire Line
-	1700 4500 1700 4800
+	4400 4000 4700 4000
 Wire Wire Line
-	1700 4800 1400 4800
-Connection ~ 1700 4500
+	4700 4000 4700 4300
+Connection ~ 4400 4000
 Wire Wire Line
-	1700 4800 1700 4900
+	5000 4000 5000 4300
+Connection ~ 4700 4000
 Wire Wire Line
-	1700 5100 1400 5100
-Connection ~ 1700 4800
+	5000 4000 5300 4000
 Wire Wire Line
-	1700 5100 1700 5400
+	5300 4000 5300 4300
+Connection ~ 5000 4000
 Wire Wire Line
-	1700 5400 1400 5400
-Connection ~ 1700 5100
+	5300 4000 5600 4000
 Wire Wire Line
-	1700 5400 1700 5700
+	5600 4000 5600 4300
+Connection ~ 5300 4000
 Wire Wire Line
-	1700 5700 1400 5700
-Connection ~ 1700 5400
+	5600 4000 5900 4000
 Wire Wire Line
-	1700 5700 1700 6000
-Wire Wire Line
-	1700 6000 1400 6000
-Connection ~ 1700 5700
+	5900 4000 5900 4300
+Connection ~ 5600 4000
 $Comp
 L Device:Jumper_NC_Small JP?
 U 1 1 5D5EF9C3
-P 1300 6000
+P 5900 4400
 AR Path="/5D997D8A/5D5EF9C3" Ref="JP?"  Part="1" 
 AR Path="/5D9777B5/5D5EF9C3" Ref="JP8"  Part="1" 
-F 0 "JP8" H 1300 6212 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 1300 6121 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 1300 6000 50  0001 C CNN
-F 3 "~" H 1300 6000 50  0001 C CNN
-	1    1300 6000
-	1    0    0    -1  
+F 0 "JP8" H 5900 4612 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 5900 4521 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 5900 4400 50  0001 C CNN
+F 3 "~" H 5900 4400 50  0001 C CNN
+	1    5900 4400
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:Jumper_NC_Small JP?
 U 1 1 5D5EF9C9
-P 1300 5700
+P 5600 4400
 AR Path="/5D997D8A/5D5EF9C9" Ref="JP?"  Part="1" 
 AR Path="/5D9777B5/5D5EF9C9" Ref="JP7"  Part="1" 
-F 0 "JP7" H 1300 5912 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 1300 5821 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 1300 5700 50  0001 C CNN
-F 3 "~" H 1300 5700 50  0001 C CNN
-	1    1300 5700
-	1    0    0    -1  
+F 0 "JP7" H 5600 4612 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 5600 4521 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 5600 4400 50  0001 C CNN
+F 3 "~" H 5600 4400 50  0001 C CNN
+	1    5600 4400
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:Jumper_NC_Small JP?
 U 1 1 5D5EF9CF
-P 1300 5400
+P 5300 4400
 AR Path="/5D997D8A/5D5EF9CF" Ref="JP?"  Part="1" 
 AR Path="/5D9777B5/5D5EF9CF" Ref="JP6"  Part="1" 
-F 0 "JP6" H 1300 5612 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 1300 5521 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 1300 5400 50  0001 C CNN
-F 3 "~" H 1300 5400 50  0001 C CNN
-	1    1300 5400
-	1    0    0    -1  
+F 0 "JP6" H 5300 4612 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 5300 4521 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 5300 4400 50  0001 C CNN
+F 3 "~" H 5300 4400 50  0001 C CNN
+	1    5300 4400
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:Jumper_NC_Small JP?
 U 1 1 5D5EF9D5
-P 1300 5100
+P 5000 4400
 AR Path="/5D997D8A/5D5EF9D5" Ref="JP?"  Part="1" 
 AR Path="/5D9777B5/5D5EF9D5" Ref="JP5"  Part="1" 
-F 0 "JP5" H 1300 5312 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 1300 5221 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 1300 5100 50  0001 C CNN
-F 3 "~" H 1300 5100 50  0001 C CNN
-	1    1300 5100
-	1    0    0    -1  
+F 0 "JP5" H 5000 4612 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 5000 4521 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 5000 4400 50  0001 C CNN
+F 3 "~" H 5000 4400 50  0001 C CNN
+	1    5000 4400
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:Jumper_NC_Small JP?
 U 1 1 5D5EF9DB
-P 1300 4800
+P 4700 4400
 AR Path="/5D997D8A/5D5EF9DB" Ref="JP?"  Part="1" 
 AR Path="/5D9777B5/5D5EF9DB" Ref="JP4"  Part="1" 
-F 0 "JP4" H 1300 5012 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 1300 4921 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 1300 4800 50  0001 C CNN
-F 3 "~" H 1300 4800 50  0001 C CNN
-	1    1300 4800
-	1    0    0    -1  
+F 0 "JP4" H 4700 4612 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 4700 4521 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 4700 4400 50  0001 C CNN
+F 3 "~" H 4700 4400 50  0001 C CNN
+	1    4700 4400
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:Jumper_NC_Small JP?
 U 1 1 5D5EF9E1
-P 1300 4500
+P 4400 4400
 AR Path="/5D997D8A/5D5EF9E1" Ref="JP?"  Part="1" 
 AR Path="/5D9777B5/5D5EF9E1" Ref="JP3"  Part="1" 
-F 0 "JP3" H 1300 4712 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 1300 4621 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 1300 4500 50  0001 C CNN
-F 3 "~" H 1300 4500 50  0001 C CNN
-	1    1300 4500
-	1    0    0    -1  
+F 0 "JP3" H 4400 4612 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 4400 4521 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 4400 4400 50  0001 C CNN
+F 3 "~" H 4400 4400 50  0001 C CNN
+	1    4400 4400
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:Jumper_NC_Small JP?
 U 1 1 5D5EF9E7
-P 1300 4200
+P 4100 4400
 AR Path="/5D997D8A/5D5EF9E7" Ref="JP?"  Part="1" 
 AR Path="/5D9777B5/5D5EF9E7" Ref="JP2"  Part="1" 
-F 0 "JP2" H 1300 4412 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 1300 4321 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 1300 4200 50  0001 C CNN
-F 3 "~" H 1300 4200 50  0001 C CNN
-	1    1300 4200
-	1    0    0    -1  
+F 0 "JP2" H 4100 4612 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 4100 4521 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 4100 4400 50  0001 C CNN
+F 3 "~" H 4100 4400 50  0001 C CNN
+	1    4100 4400
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:Jumper_NC_Small JP?
 U 1 1 5D5EF9ED
-P 1300 3900
+P 3800 4400
 AR Path="/5D997D8A/5D5EF9ED" Ref="JP?"  Part="1" 
 AR Path="/5D9777B5/5D5EF9ED" Ref="JP1"  Part="1" 
-F 0 "JP1" H 1300 4112 50  0000 C CNN
-F 1 "Jumper_NC_Small" H 1300 4021 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 1300 3900 50  0001 C CNN
-F 3 "~" H 1300 3900 50  0001 C CNN
-	1    1300 3900
-	1    0    0    -1  
+F 0 "JP1" H 3800 4612 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 3800 4521 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 3800 4400 50  0001 C CNN
+F 3 "~" H 3800 4400 50  0001 C CNN
+	1    3800 4400
+	0    -1   -1   0   
 $EndComp
-Text Notes 500  6300 0    50   ~ 0
+Text Notes 500  6200 0    50   ~ 0
 Force & Sense LO common (for connection to substrate)
 $Comp
 L power:VDD #PWR?
@@ -2078,22 +1334,8 @@ F 3 "" H 700 7100 50  0001 C CNN
 	1    700  7100
 	-1   0    0    -1  
 $EndComp
-Text GLabel 2200 1200 2    50   Input ~ 0
+Text GLabel 2700 1800 3    50   Input ~ 0
 SR1C1
-Text GLabel 6300 4000 3    50   Input ~ 0
-SR1C8
-Text GLabel 5800 4000 3    50   Input ~ 0
-SR1C7
-Text GLabel 5300 4000 3    50   Input ~ 0
-SR1C6
-Text GLabel 4800 4000 3    50   Input ~ 0
-SR1C5
-Text GLabel 4300 4000 3    50   Input ~ 0
-SR1C4
-Text GLabel 3800 4000 3    50   Input ~ 0
-SR1C3
-Text GLabel 3300 4000 3    50   Input ~ 0
-SR1C2
 Text GLabel 2200 2700 2    50   Input ~ 0
 SR2C8
 Text GLabel 2200 2600 2    50   Input ~ 0
@@ -2260,113 +1502,113 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D6C9D34
-P 10600 1400
+P 10400 1500
 AR Path="/5D6C9D34" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D6C9D34" Ref="J?"  Part="1" 
 AR Path="/5D9777B5/5D6C9D34" Ref="J36"  Part="1" 
-F 0 "J36" H 10700 1500 50  0000 R CNN
-F 1 "Conn_01x02" H 10500 1500 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10600 1400 50  0001 C CNN
-F 3 "~" H 10600 1400 50  0001 C CNN
-	1    10600 1400
+F 0 "J36" H 10500 1600 50  0000 R CNN
+F 1 "Conn_01x02" H 10300 1600 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10400 1500 50  0001 C CNN
+F 3 "~" H 10400 1500 50  0001 C CNN
+	1    10400 1500
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D6D6D84
-P 10600 1800
+P 10400 1900
 AR Path="/5D6D6D84" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D6D6D84" Ref="J?"  Part="1" 
 AR Path="/5D9777B5/5D6D6D84" Ref="J37"  Part="1" 
-F 0 "J37" H 10700 1900 50  0000 R CNN
-F 1 "Conn_01x02" H 10500 1900 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10600 1800 50  0001 C CNN
-F 3 "~" H 10600 1800 50  0001 C CNN
-	1    10600 1800
+F 0 "J37" H 10500 2000 50  0000 R CNN
+F 1 "Conn_01x02" H 10300 2000 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10400 1900 50  0001 C CNN
+F 3 "~" H 10400 1900 50  0001 C CNN
+	1    10400 1900
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D6D6FB5
-P 10600 2200
+P 10400 2300
 AR Path="/5D6D6FB5" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D6D6FB5" Ref="J?"  Part="1" 
 AR Path="/5D9777B5/5D6D6FB5" Ref="J38"  Part="1" 
-F 0 "J38" H 10700 2300 50  0000 R CNN
-F 1 "Conn_01x02" H 10500 2300 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10600 2200 50  0001 C CNN
-F 3 "~" H 10600 2200 50  0001 C CNN
-	1    10600 2200
+F 0 "J38" H 10500 2400 50  0000 R CNN
+F 1 "Conn_01x02" H 10300 2400 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10400 2300 50  0001 C CNN
+F 3 "~" H 10400 2300 50  0001 C CNN
+	1    10400 2300
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D6D738F
-P 10600 2600
+P 10400 2700
 AR Path="/5D6D738F" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D6D738F" Ref="J?"  Part="1" 
 AR Path="/5D9777B5/5D6D738F" Ref="J39"  Part="1" 
-F 0 "J39" H 10700 2700 50  0000 R CNN
-F 1 "Conn_01x02" H 10500 2700 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10600 2600 50  0001 C CNN
-F 3 "~" H 10600 2600 50  0001 C CNN
-	1    10600 2600
+F 0 "J39" H 10500 2800 50  0000 R CNN
+F 1 "Conn_01x02" H 10300 2800 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10400 2700 50  0001 C CNN
+F 3 "~" H 10400 2700 50  0001 C CNN
+	1    10400 2700
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D6D7494
-P 10600 3000
+P 10400 3100
 AR Path="/5D6D7494" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D6D7494" Ref="J?"  Part="1" 
 AR Path="/5D9777B5/5D6D7494" Ref="J40"  Part="1" 
-F 0 "J40" H 10700 3100 50  0000 R CNN
-F 1 "Conn_01x02" H 10500 3100 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10600 3000 50  0001 C CNN
-F 3 "~" H 10600 3000 50  0001 C CNN
-	1    10600 3000
+F 0 "J40" H 10500 3200 50  0000 R CNN
+F 1 "Conn_01x02" H 10300 3200 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10400 3100 50  0001 C CNN
+F 3 "~" H 10400 3100 50  0001 C CNN
+	1    10400 3100
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D6D764D
-P 10600 3400
+P 10400 3500
 AR Path="/5D6D764D" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D6D764D" Ref="J?"  Part="1" 
 AR Path="/5D9777B5/5D6D764D" Ref="J41"  Part="1" 
-F 0 "J41" H 10700 3500 50  0000 R CNN
-F 1 "Conn_01x02" H 10500 3500 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10600 3400 50  0001 C CNN
-F 3 "~" H 10600 3400 50  0001 C CNN
-	1    10600 3400
+F 0 "J41" H 10500 3600 50  0000 R CNN
+F 1 "Conn_01x02" H 10300 3600 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10400 3500 50  0001 C CNN
+F 3 "~" H 10400 3500 50  0001 C CNN
+	1    10400 3500
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D6D784C
-P 10600 3800
+P 10400 3900
 AR Path="/5D6D784C" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D6D784C" Ref="J?"  Part="1" 
 AR Path="/5D9777B5/5D6D784C" Ref="J42"  Part="1" 
-F 0 "J42" H 10700 3900 50  0000 R CNN
-F 1 "Conn_01x02" H 10500 3900 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10600 3800 50  0001 C CNN
-F 3 "~" H 10600 3800 50  0001 C CNN
-	1    10600 3800
+F 0 "J42" H 10500 4000 50  0000 R CNN
+F 1 "Conn_01x02" H 10300 4000 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10400 3900 50  0001 C CNN
+F 3 "~" H 10400 3900 50  0001 C CNN
+	1    10400 3900
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J?
 U 1 1 5D6D7A82
-P 10600 4200
+P 10400 4300
 AR Path="/5D6D7A82" Ref="J?"  Part="1" 
 AR Path="/5D997D8A/5D6D7A82" Ref="J?"  Part="1" 
 AR Path="/5D9777B5/5D6D7A82" Ref="J43"  Part="1" 
-F 0 "J43" H 10700 4300 50  0000 R CNN
-F 1 "Conn_01x02" H 10500 4300 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10600 4200 50  0001 C CNN
-F 3 "~" H 10600 4200 50  0001 C CNN
-	1    10600 4200
+F 0 "J43" H 10500 4400 50  0000 R CNN
+F 1 "Conn_01x02" H 10300 4400 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10400 4300 50  0001 C CNN
+F 3 "~" H 10400 4300 50  0001 C CNN
+	1    10400 4300
 	-1   0    0    -1  
 $EndComp
 $Comp
@@ -2595,11 +1837,6 @@ Wire Wire Line
 Wire Wire Line
 	6900 3900 8400 3900
 Connection ~ 6900 4700
-Wire Wire Line
-	1800 4900 1700 4900
-Connection ~ 1700 4900
-Wire Wire Line
-	1700 4900 1700 5100
 $Comp
 L Device:Jumper_NO_Small JP10
 U 1 1 5D7DB4FE
@@ -2668,14 +1905,8 @@ Wire Wire Line
 	10700 6000 10500 6000
 Wire Wire Line
 	10500 5900 10700 5900
-Text GLabel 10700 6000 2    50   Input ~ 0
-CLOCK
-Text GLabel 10700 5900 2    50   Input ~ 0
-LATCH
 Wire Wire Line
 	10500 5800 10700 5800
-Text GLabel 10700 5800 2    50   Input ~ 0
-DATA_OUT
 Wire Wire Line
 	10600 5700 10600 5600
 Wire Wire Line
@@ -2709,6 +1940,374 @@ F 1 "Conn_01x05" H 10380 5851 50  0001 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 10300 5900 50  0001 C CNN
 F 3 "~" H 10300 5900 50  0001 C CNN
 	1    10300 5900
+	-1   0    0    -1  
+$EndComp
+Text GLabel 10700 5800 2    50   Input ~ 0
+DATA_OUT
+Text GLabel 10700 5900 2    50   Input ~ 0
+LATCH
+Text GLabel 10700 6000 2    50   Input ~ 0
+CLOCK
+Text GLabel 10600 1500 2    50   Input ~ 0
+R1_SL
+Text GLabel 10600 4300 2    50   Input ~ 0
+R8_SL
+Text GLabel 10600 4400 2    50   Input ~ 0
+R8_FL
+Text GLabel 10600 3900 2    50   Input ~ 0
+R7_SL
+Text GLabel 10600 4000 2    50   Input ~ 0
+R7_FL
+Text GLabel 10600 3500 2    50   Input ~ 0
+R6_SL
+Text GLabel 10600 3600 2    50   Input ~ 0
+R6_FL
+Text GLabel 10600 3100 2    50   Input ~ 0
+R5_SL
+Text GLabel 10600 3200 2    50   Input ~ 0
+R5_FL
+Text GLabel 10600 2700 2    50   Input ~ 0
+R4_SL
+Text GLabel 10600 2800 2    50   Input ~ 0
+R4_FL
+Text GLabel 10600 2300 2    50   Input ~ 0
+R3_SL
+Text GLabel 10600 2400 2    50   Input ~ 0
+R3_FL
+Text GLabel 10600 1900 2    50   Input ~ 0
+R2_SL
+Text GLabel 10600 2000 2    50   Input ~ 0
+R2_FL
+Text GLabel 10600 1600 2    50   Input ~ 0
+R1_FL
+Text GLabel 900  3900 2    50   Input ~ 0
+R1_SL
+Text GLabel 900  4900 2    50   Input ~ 0
+R6_SL
+Text GLabel 900  5000 2    50   Input ~ 0
+R6_FL
+Text GLabel 900  4700 2    50   Input ~ 0
+R5_SL
+Text GLabel 900  4800 2    50   Input ~ 0
+R5_FL
+Text GLabel 900  4500 2    50   Input ~ 0
+R4_SL
+Text GLabel 900  4600 2    50   Input ~ 0
+R4_FL
+Text GLabel 900  4300 2    50   Input ~ 0
+R3_SL
+Text GLabel 900  4400 2    50   Input ~ 0
+R3_FL
+Text GLabel 900  4100 2    50   Input ~ 0
+R2_SL
+Text GLabel 900  4200 2    50   Input ~ 0
+R2_FL
+Text GLabel 900  4000 2    50   Input ~ 0
+R1_FL
+Text GLabel 1600 4500 2    50   Input ~ 0
+DATA_IN
+Text GLabel 1600 4700 2    50   Input ~ 0
+LATCH
+Text GLabel 1600 4600 2    50   Input ~ 0
+CLOCK
+Text GLabel 1600 4400 2    50   Input ~ 0
+DATA_OUT
+Text GLabel 900  3700 2    50   Input ~ 0
+C_SL
+Text GLabel 900  3800 2    50   Input ~ 0
+C_FL
+$Comp
+L power:GND #PWR?
+U 1 1 5DA0DD29
+P 1700 4900
+AR Path="/5DA0DD29" Ref="#PWR?"  Part="1" 
+AR Path="/5D997D8A/5DA0DD29" Ref="#PWR?"  Part="1" 
+AR Path="/5D9777B5/5DA0DD29" Ref="#PWR0113"  Part="1" 
+F 0 "#PWR0113" H 1700 4650 50  0001 C CNN
+F 1 "GND" H 1600 4900 50  0000 C CNN
+F 2 "" H 1700 4900 50  0001 C CNN
+F 3 "" H 1700 4900 50  0001 C CNN
+	1    1700 4900
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1700 4900 1700 4800
+Wire Wire Line
+	1700 4800 1600 4800
+Wire Wire Line
+	1600 4200 1800 4200
+Wire Wire Line
+	1600 4300 2000 4300
+Wire Wire Line
+	4700 4000 5000 4000
+Text Notes 2100 5600 2    50   ~ 0
+Aux connectors to card edge adapter
+$Comp
+L Connector_Generic:Conn_01x15 J49
+U 1 1 5DA80423
+P 5700 5300
+F 0 "J49" V 5700 6200 50  0000 C CNN
+F 1 "Conn_01x15" H 5700 4500 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 5700 5300 50  0001 C CNN
+F 3 "~" H 5700 5300 50  0001 C CNN
+F 4 "812-22-064-30-000101 millmax" H 5700 5300 50  0001 C CNN "mfg_part"
+	1    5700 5300
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 5100 5500
+NoConn ~ 5300 5500
+NoConn ~ 5500 5500
+NoConn ~ 5700 5500
+NoConn ~ 5900 5500
+NoConn ~ 6100 5500
+NoConn ~ 6300 5500
+$Comp
+L Connector_Generic:Conn_01x15 J50
+U 1 1 5DAAC326
+P 5700 5900
+F 0 "J50" V 5700 6800 50  0000 C CNN
+F 1 "Conn_01x15" H 5700 5100 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 5700 5900 50  0001 C CNN
+F 3 "~" H 5700 5900 50  0001 C CNN
+F 4 "812-22-064-30-000101 millmax" H 5700 5900 50  0001 C CNN "mfg_part"
+	1    5700 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x15 J51
+U 1 1 5DAB1FC5
+P 5700 6500
+F 0 "J51" V 5700 7400 50  0000 C CNN
+F 1 "Conn_01x15" H 5700 5700 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 5700 6500 50  0001 C CNN
+F 3 "~" H 5700 6500 50  0001 C CNN
+F 4 "812-22-064-30-000101 millmax" H 5700 6500 50  0001 C CNN "mfg_part"
+	1    5700 6500
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 5100 6700
+NoConn ~ 5300 6700
+NoConn ~ 5500 6700
+NoConn ~ 5700 6700
+NoConn ~ 5900 6700
+NoConn ~ 6100 6700
+NoConn ~ 6300 6700
+$Comp
+L Connector_Generic:Conn_01x15 J52
+U 1 1 5DAB1FD2
+P 5700 7100
+F 0 "J52" V 5700 8000 50  0000 C CNN
+F 1 "Conn_01x15" H 5700 6300 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 5700 7100 50  0001 C CNN
+F 3 "~" H 5700 7100 50  0001 C CNN
+F 4 "812-22-064-30-000101 millmax" H 5700 7100 50  0001 C CNN "mfg_part"
+	1    5700 7100
+	0    -1   -1   0   
+$EndComp
+Text GLabel 3000 5500 3    50   Input ~ 0
+SR1C1
+Text GLabel 4400 5500 3    50   Input ~ 0
+SR1C8
+Text GLabel 4200 5500 3    50   Input ~ 0
+SR1C7
+Text GLabel 4000 5500 3    50   Input ~ 0
+SR1C6
+Text GLabel 3800 5500 3    50   Input ~ 0
+SR1C5
+Text GLabel 3600 5500 3    50   Input ~ 0
+SR1C4
+Text GLabel 3400 5500 3    50   Input ~ 0
+SR1C3
+Text GLabel 3200 5500 3    50   Input ~ 0
+SR1C2
+$Comp
+L Connector_Generic:Conn_01x15 J45
+U 1 1 5DACBF9C
+P 3700 5300
+F 0 "J45" V 3700 6200 50  0000 C CNN
+F 1 "Conn_01x15" H 3700 4500 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 3700 5300 50  0001 C CNN
+F 3 "~" H 3700 5300 50  0001 C CNN
+F 4 "812-22-064-30-000101 millmax" V 3700 5300 50  0001 C CNN "mfg_part"
+	1    3700 5300
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 3100 5500
+NoConn ~ 3300 5500
+NoConn ~ 3500 5500
+NoConn ~ 3700 5500
+NoConn ~ 3900 5500
+NoConn ~ 4100 5500
+NoConn ~ 4300 5500
+$Comp
+L Connector_Generic:Conn_01x15 J46
+U 1 1 5DACBFA9
+P 3700 5900
+F 0 "J46" V 3700 6800 50  0000 C CNN
+F 1 "Conn_01x15" H 3700 5100 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 3700 5900 50  0001 C CNN
+F 3 "~" H 3700 5900 50  0001 C CNN
+F 4 "812-22-064-30-000101 millmax" H 3700 5900 50  0001 C CNN "mfg_part"
+	1    3700 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x15 J47
+U 1 1 5DACBFB7
+P 3700 6500
+F 0 "J47" V 3700 7400 50  0000 C CNN
+F 1 "Conn_01x15" H 3700 5700 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 3700 6500 50  0001 C CNN
+F 3 "~" H 3700 6500 50  0001 C CNN
+F 4 "812-22-064-30-000101 millmax" H 3700 6500 50  0001 C CNN "mfg_part"
+	1    3700 6500
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 3100 6700
+NoConn ~ 3300 6700
+NoConn ~ 3500 6700
+NoConn ~ 3700 6700
+NoConn ~ 3900 6700
+NoConn ~ 4100 6700
+NoConn ~ 4300 6700
+$Comp
+L Connector_Generic:Conn_01x15 J48
+U 1 1 5DACBFC4
+P 3700 7100
+F 0 "J48" V 3700 8000 50  0000 C CNN
+F 1 "Conn_01x15" H 3700 6300 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 3700 7100 50  0001 C CNN
+F 3 "~" H 3700 7100 50  0001 C CNN
+F 4 "812-22-064-30-000101 millmax" H 3700 7100 50  0001 C CNN "mfg_part"
+	1    3700 7100
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 5100 7300
+NoConn ~ 5300 7300
+NoConn ~ 5500 7300
+NoConn ~ 5700 7300
+NoConn ~ 5900 7300
+NoConn ~ 6100 7300
+NoConn ~ 6300 7300
+NoConn ~ 6300 6100
+NoConn ~ 6100 6100
+NoConn ~ 5900 6100
+NoConn ~ 5700 6100
+NoConn ~ 5500 6100
+NoConn ~ 5300 6100
+NoConn ~ 5100 6100
+NoConn ~ 3100 7300
+NoConn ~ 3300 7300
+NoConn ~ 3500 7300
+NoConn ~ 3700 7300
+NoConn ~ 3900 7300
+NoConn ~ 4100 7300
+NoConn ~ 4300 7300
+NoConn ~ 4300 6100
+NoConn ~ 4100 6100
+NoConn ~ 3900 6100
+NoConn ~ 3700 6100
+NoConn ~ 3500 6100
+NoConn ~ 3300 6100
+NoConn ~ 3100 6100
+Text Notes 5800 5000 2    50   ~ 0
+Switch control signals, spring pin strips extend to 0.255 in, compress to 0.2 in
+$Comp
+L Device:R_Small_US R?
+U 1 1 5DBE7600
+P 2700 1600
+AR Path="/5DBE7600" Ref="R?"  Part="1" 
+AR Path="/5D997D8A/5DBE7600" Ref="R?"  Part="1" 
+AR Path="/5D9777B5/5DBE7600" Ref="R11"  Part="1" 
+F 0 "R11" V 2600 1500 50  0000 C CNN
+F 1 "0R" V 2600 1700 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 2700 1600 50  0001 C CNN
+F 3 "~" H 2700 1600 50  0001 C CNN
+	1    2700 1600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 1700 2700 1800
+$Comp
+L Device:Jumper_NC_Small JP?
+U 1 1 5DBF6154
+P 2800 1600
+AR Path="/5D997D8A/5DBF6154" Ref="JP?"  Part="1" 
+AR Path="/5D9777B5/5DBF6154" Ref="JP13"  Part="1" 
+F 0 "JP13" H 2800 1700 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 2800 1721 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 2800 1600 50  0001 C CNN
+F 3 "~" H 2800 1600 50  0001 C CNN
+	1    2800 1600
+	0    1    1    0   
+$EndComp
+Connection ~ 2700 1500
+Connection ~ 2700 1700
+Wire Wire Line
+	2800 1500 2700 1500
+Wire Wire Line
+	2800 1700 2700 1700
+Wire Wire Line
+	2200 1200 2700 1200
+Wire Wire Line
+	2700 1200 2700 1500
+$Comp
+L Connector_Generic:Conn_01x18 J44
+U 1 1 5DC2BC76
+P 700 4500
+F 0 "J44" H 618 5517 50  0000 C CNN
+F 1 "Conn_01x18" H 618 5426 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical" H 700 4500 50  0001 C CNN
+F 3 "~" H 700 4500 50  0001 C CNN
+	1    700  4500
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 4100 1800 4200
+Wire Wire Line
+	2000 4100 2000 4300
+$Comp
+L power:VSS #PWR0115
+U 1 1 5DA0E3CD
+P 2000 4100
+F 0 "#PWR0115" H 2000 3950 50  0001 C CNN
+F 1 "VSS" H 2017 4273 50  0000 C CNN
+F 2 "" H 2000 4100 50  0001 C CNN
+F 3 "" H 2000 4100 50  0001 C CNN
+	1    2000 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VDD #PWR?
+U 1 1 5DA0E091
+P 1800 4100
+AR Path="/5D997D8A/5DA0E091" Ref="#PWR?"  Part="1" 
+AR Path="/5DA0E091" Ref="#PWR?"  Part="1" 
+AR Path="/5D9777B5/5DA0E091" Ref="#PWR0114"  Part="1" 
+F 0 "#PWR0114" H 1800 3950 50  0001 C CNN
+F 1 "VDD" H 1817 4273 50  0000 C CNN
+F 2 "" H 1800 4100 50  0001 C CNN
+F 3 "" H 1800 4100 50  0001 C CNN
+	1    1800 4100
+	-1   0    0    -1  
+$EndComp
+Text GLabel 900  5200 2    50   Input ~ 0
+R7_FL
+Text GLabel 900  5100 2    50   Input ~ 0
+R7_SL
+Text GLabel 900  5400 2    50   Input ~ 0
+R8_FL
+Text GLabel 900  5300 2    50   Input ~ 0
+R8_SL
+$Comp
+L Connector_Generic:Conn_01x07 J56
+U 1 1 5DC47C03
+P 1400 4500
+F 0 "J56" H 1318 5017 50  0000 C CNN
+F 1 "Conn_01x07" H 1318 4926 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" H 1400 4500 50  0001 C CNN
+F 3 "~" H 1400 4500 50  0001 C CNN
+	1    1400 4500
 	-1   0    0    -1  
 $EndComp
 $EndSCHEMATC

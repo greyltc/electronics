@@ -1,4 +1,4 @@
-16821134551588070
+16928307068554070
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -7379,197 +7379,197 @@ DSUB-62-HD_Male_Vertical_P2.41x1.98mm_MountingHoles
 63
 Connector_FFC-FPC
 Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-6S-0.5SH, 6 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-6S-0.5SH, 6 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 8
 7
 Connector_FFC-FPC
 Hirose_FH12-8S-0.5SH_1x08-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-8S-0.5SH, 8 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-8S-0.5SH, 8 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 10
 9
 Connector_FFC-FPC
 Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-10S-0.5SH, 10 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-10S-0.5SH, 10 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 12
 11
 Connector_FFC-FPC
 Hirose_FH12-11S-0.5SH_1x11-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-11S-0.5SH, 11 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-11S-0.5SH, 11 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 13
 12
 Connector_FFC-FPC
 Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-12S-0.5SH, 12 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-12S-0.5SH, 12 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 14
 13
 Connector_FFC-FPC
 Hirose_FH12-13S-0.5SH_1x13-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-13S-0.5SH, 13 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-13S-0.5SH, 13 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 15
 14
 Connector_FFC-FPC
 Hirose_FH12-14S-0.5SH_1x14-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-14S-0.5SH, 14 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-14S-0.5SH, 14 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 16
 15
 Connector_FFC-FPC
 Hirose_FH12-15S-0.5SH_1x15-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-15S-0.5SH, 15 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-15S-0.5SH, 15 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 17
 16
 Connector_FFC-FPC
 Hirose_FH12-16S-0.5SH_1x16-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-16S-0.5SH, 16 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-16S-0.5SH, 16 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 18
 17
 Connector_FFC-FPC
 Hirose_FH12-17S-0.5SH_1x17-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-17S-0.5SH, 17 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-17S-0.5SH, 17 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 19
 18
 Connector_FFC-FPC
 Hirose_FH12-18S-0.5SH_1x18-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-18S-0.5SH, 18 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-18S-0.5SH, 18 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 20
 19
 Connector_FFC-FPC
 Hirose_FH12-19S-0.5SH_1x19-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-19S-0.5SH, 19 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-19S-0.5SH, 19 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 21
 20
 Connector_FFC-FPC
 Hirose_FH12-20S-0.5SH_1x20-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-20S-0.5SH, 20 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-20S-0.5SH, 20 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 22
 21
 Connector_FFC-FPC
 Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-22S-0.5SH, 22 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-22S-0.5SH, 22 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 24
 23
 Connector_FFC-FPC
 Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-24S-0.5SH, 24 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-24S-0.5SH, 24 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 26
 25
 Connector_FFC-FPC
 Hirose_FH12-25S-0.5SH_1x25-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-25S-0.5SH, 25 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-25S-0.5SH, 25 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 27
 26
 Connector_FFC-FPC
 Hirose_FH12-26S-0.5SH_1x26-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-26S-0.5SH, 26 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-26S-0.5SH, 26 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 28
 27
 Connector_FFC-FPC
 Hirose_FH12-28S-0.5SH_1x28-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-28S-0.5SH, 28 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-28S-0.5SH, 28 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 30
 29
 Connector_FFC-FPC
 Hirose_FH12-30S-0.5SH_1x30-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-30S-0.5SH, 30 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-30S-0.5SH, 30 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 32
 31
 Connector_FFC-FPC
 Hirose_FH12-32S-0.5SH_1x32-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-32S-0.5SH, 32 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-32S-0.5SH, 32 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 34
 33
 Connector_FFC-FPC
 Hirose_FH12-33S-0.5SH_1x33-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-33S-0.5SH, 33 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-33S-0.5SH, 33 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 35
 34
 Connector_FFC-FPC
 Hirose_FH12-34S-0.5SH_1x34-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-34S-0.5SH, 34 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-34S-0.5SH, 34 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 36
 35
 Connector_FFC-FPC
 Hirose_FH12-35S-0.5SH_1x35-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-35S-0.5SH, 35 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-35S-0.5SH, 35 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 37
 36
 Connector_FFC-FPC
 Hirose_FH12-36S-0.5SH_1x36-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-36S-0.5SH, 36 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-36S-0.5SH, 36 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 38
 37
 Connector_FFC-FPC
 Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 42
 41
 Connector_FFC-FPC
 Hirose_FH12-45S-0.5SH_1x45-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-45S-0.5SH, 45 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-45S-0.5SH, 45 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 47
 46
 Connector_FFC-FPC
 Hirose_FH12-50S-0.5SH_1x50-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-50S-0.5SH, 50 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-50S-0.5SH, 50 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 52
 51
 Connector_FFC-FPC
 Hirose_FH12-53S-0.5SH_1x53-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-53S-0.5SH, 53 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose FH12, FFC/FPC connector, FH12-53S-0.5SH, 53 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
 0
 55
 54
@@ -9002,415 +9002,520 @@ connector Hirose 40pin receptacle vertical
 42
 42
 Connector_Hirose
+Hirose_DF11-4DP-2DSA_2x02_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-4DP-2DSA, 2 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+4
+4
+Connector_Hirose
+Hirose_DF11-6DP-2DSA_2x03_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-6DP-2DSA, 3 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+6
+6
+Connector_Hirose
+Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-8DP-2DSA, 4 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+8
+8
+Connector_Hirose
+Hirose_DF11-10DP-2DSA_2x05_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-10DP-2DSA, 5 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+10
+10
+Connector_Hirose
+Hirose_DF11-12DP-2DSA_2x06_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-12DP-2DSA, 6 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+12
+12
+Connector_Hirose
+Hirose_DF11-14DP-2DSA_2x07_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-14DP-2DSA, 7 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+14
+14
+Connector_Hirose
+Hirose_DF11-16DP-2DSA_2x08_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-16DP-2DSA, 8 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+16
+16
+Connector_Hirose
+Hirose_DF11-18DP-2DSA_2x09_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-18DP-2DSA, 9 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+18
+18
+Connector_Hirose
+Hirose_DF11-20DP-2DSA_2x10_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-20DP-2DSA, 10 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+20
+20
+Connector_Hirose
+Hirose_DF11-22DP-2DSA_2x11_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-22DP-2DSA, 11 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+22
+22
+Connector_Hirose
+Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-24DP-2DSA, 12 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+24
+24
+Connector_Hirose
+Hirose_DF11-26DP-2DSA_2x13_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-26DP-2DSA, 13 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+26
+26
+Connector_Hirose
+Hirose_DF11-28DP-2DSA_2x14_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-28DP-2DSA, 14 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+28
+28
+Connector_Hirose
+Hirose_DF11-30DP-2DSA_2x15_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-30DP-2DSA, 15 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+30
+30
+Connector_Hirose
+Hirose_DF11-32DP-2DSA_2x16_P2.00mm_Vertical
+Hirose DF11 through hole, DF11-32DP-2DSA, 16 Pins per row (https://www.hirose.com/product/document?clcode=&productname=&series=DF11&documenttype=Catalog&lang=en&documentid=D31688_en), generated with kicad-footprint-generator
+connector Hirose DF11 vertical
+0
+32
+32
+Connector_Hirose
 Hirose_DF12_DF12C3.0-10DS-0.5V_2x05_P0.50mm_Vertical
 Hirose DF12C SMD, DF12C3.0-10DS-0.5V, 10 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 20
 10
 Connector_Hirose
 Hirose_DF12_DF12C3.0-14DS-0.5V_2x07_P0.50mm_Vertical
 Hirose DF12C SMD, DF12C3.0-14DS-0.5V, 14 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 28
 14
 Connector_Hirose
 Hirose_DF12_DF12C3.0-20DS-0.5V_2x10_P0.50mm_Vertical
 Hirose DF12C SMD, DF12C3.0-20DS-0.5V, 20 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 40
 20
 Connector_Hirose
 Hirose_DF12_DF12C3.0-30DS-0.5V_2x15_P0.50mm_Vertical
 Hirose DF12C SMD, DF12C3.0-30DS-0.5V, 30 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 60
 30
 Connector_Hirose
 Hirose_DF12_DF12C3.0-32DS-0.5V_2x16_P0.50mm_Vertical
 Hirose DF12C SMD, DF12C3.0-32DS-0.5V, 32 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 64
 32
 Connector_Hirose
 Hirose_DF12_DF12C3.0-36DS-0.5V_2x18_P0.50mm_Vertical
 Hirose DF12C SMD, DF12C3.0-36DS-0.5V, 36 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 72
 36
 Connector_Hirose
 Hirose_DF12_DF12C3.0-40DS-0.5V_2x20_P0.50mm_Vertical
 Hirose DF12C SMD, DF12C3.0-40DS-0.5V, 40 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 80
 40
 Connector_Hirose
 Hirose_DF12_DF12C3.0-50DS-0.5V_2x25_P0.50mm_Vertical
 Hirose DF12C SMD, DF12C3.0-50DS-0.5V, 50 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 100
 50
 Connector_Hirose
 Hirose_DF12_DF12C3.0-60DS-0.5V_2x30_P0.50mm_Vertical
 Hirose DF12C SMD, DF12C3.0-60DS-0.5V, 60 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0694-9-81&productname=DF12C(3.0)-50DS-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000994748), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 120
 60
 Connector_Hirose
 Hirose_DF12_DF12E3.0-10DP-0.5V_2x05_P0.50mm_Vertical
 Hirose DF12E SMD, DF12E3.0-10DP-0.5V, 10 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 20
 10
 Connector_Hirose
 Hirose_DF12_DF12E3.0-14DP-0.5V_2x07_P0.50mm_Vertical
 Hirose DF12E SMD, DF12E3.0-14DP-0.5V, 14 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 28
 14
 Connector_Hirose
 Hirose_DF12_DF12E3.0-20DP-0.5V_2x10_P0.50mm_Vertical
 Hirose DF12E SMD, DF12E3.0-20DP-0.5V, 20 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 40
 20
 Connector_Hirose
 Hirose_DF12_DF12E3.0-30DP-0.5V_2x15_P0.50mm_Vertical
 Hirose DF12E SMD, DF12E3.0-30DP-0.5V, 30 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 60
 30
 Connector_Hirose
 Hirose_DF12_DF12E3.0-32DP-0.5V_2x16_P0.50mm_Vertical
 Hirose DF12E SMD, DF12E3.0-32DP-0.5V, 32 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 64
 32
 Connector_Hirose
 Hirose_DF12_DF12E3.0-36DP-0.5V_2x18_P0.50mm_Vertical
 Hirose DF12E SMD, DF12E3.0-36DP-0.5V, 36 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 72
 36
 Connector_Hirose
 Hirose_DF12_DF12E3.0-40DP-0.5V_2x20_P0.50mm_Vertical
 Hirose DF12E SMD, DF12E3.0-40DP-0.5V, 40 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 80
 40
 Connector_Hirose
 Hirose_DF12_DF12E3.0-50DP-0.5V_2x25_P0.50mm_Vertical
 Hirose DF12E SMD, DF12E3.0-50DP-0.5V, 50 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 100
 50
 Connector_Hirose
 Hirose_DF12_DF12E3.0-60DP-0.5V_2x30_P0.50mm_Vertical
 Hirose DF12E SMD, DF12E3.0-60DP-0.5V, 60 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 120
 60
 Connector_Hirose
 Hirose_DF12_DF12E3.0-80DP-0.5V_2x40_P0.50mm_Vertical
 Hirose DF12E SMD, DF12E3.0-80DP-0.5V, 80 Pins per row (https://www.hirose.com/product/document?clcode=CL0537-0834-6-81&productname=DF12E(3.0)-50DP-0.5V(81)&series=DF12&documenttype=2DDrawing&lang=en&documentid=0000992393), generated with kicad-footprint-generator
-connector Hirose DF12 side entry
+connector Hirose DF12 vertical
 0
 160
 80
 Connector_Hirose
 Hirose_DF13-02P-1.25DSA_1x02_P1.25mm_Vertical
-Molex DF13 through hole, DF13-02P-1.25DSA, 2 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-02P-1.25DSA, 2 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 2
 2
 Connector_Hirose
 Hirose_DF13-02P-1.25DS_1x02_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-02P-1.25DS, 2 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-02P-1.25DS, 2 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 2
 2
 Connector_Hirose
 Hirose_DF13-03P-1.25DSA_1x03_P1.25mm_Vertical
-Molex DF13 through hole, DF13-03P-1.25DSA, 3 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-03P-1.25DSA, 3 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 3
 3
 Connector_Hirose
 Hirose_DF13-03P-1.25DS_1x03_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-03P-1.25DS, 3 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-03P-1.25DS, 3 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 3
 3
 Connector_Hirose
 Hirose_DF13-04P-1.25DSA_1x04_P1.25mm_Vertical
-Molex DF13 through hole, DF13-04P-1.25DSA, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-04P-1.25DSA, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 4
 4
 Connector_Hirose
 Hirose_DF13-04P-1.25DS_1x04_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-04P-1.25DS, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-04P-1.25DS, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 4
 4
 Connector_Hirose
 Hirose_DF13-05P-1.25DSA_1x05_P1.25mm_Vertical
-Molex DF13 through hole, DF13-05P-1.25DSA, 5 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-05P-1.25DSA, 5 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 5
 5
 Connector_Hirose
 Hirose_DF13-05P-1.25DS_1x05_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-05P-1.25DS, 5 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-05P-1.25DS, 5 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 5
 5
 Connector_Hirose
 Hirose_DF13-06P-1.25DSA_1x06_P1.25mm_Vertical
-Molex DF13 through hole, DF13-06P-1.25DSA, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-06P-1.25DSA, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 6
 6
 Connector_Hirose
 Hirose_DF13-06P-1.25DS_1x06_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-06P-1.25DS, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-06P-1.25DS, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 6
 6
 Connector_Hirose
 Hirose_DF13-07P-1.25DSA_1x07_P1.25mm_Vertical
-Molex DF13 through hole, DF13-07P-1.25DSA, 7 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-07P-1.25DSA, 7 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 7
 7
 Connector_Hirose
 Hirose_DF13-07P-1.25DS_1x07_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-07P-1.25DS, 7 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-07P-1.25DS, 7 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 7
 7
 Connector_Hirose
 Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical
-Molex DF13 through hole, DF13-08P-1.25DSA, 8 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-08P-1.25DSA, 8 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 8
 8
 Connector_Hirose
 Hirose_DF13-08P-1.25DS_1x08_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-08P-1.25DS, 8 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-08P-1.25DS, 8 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 8
 8
 Connector_Hirose
 Hirose_DF13-09P-1.25DSA_1x09_P1.25mm_Vertical
-Molex DF13 through hole, DF13-09P-1.25DSA, 9 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-09P-1.25DSA, 9 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 9
 9
 Connector_Hirose
 Hirose_DF13-09P-1.25DS_1x09_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-09P-1.25DS, 9 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-09P-1.25DS, 9 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 9
 9
 Connector_Hirose
 Hirose_DF13-10P-1.25DSA_1x10_P1.25mm_Vertical
-Molex DF13 through hole, DF13-10P-1.25DSA, 10 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-10P-1.25DSA, 10 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 10
 10
 Connector_Hirose
 Hirose_DF13-10P-1.25DS_1x10_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-10P-1.25DS, 10 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-10P-1.25DS, 10 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 10
 10
 Connector_Hirose
 Hirose_DF13-11P-1.25DSA_1x11_P1.25mm_Vertical
-Molex DF13 through hole, DF13-11P-1.25DSA, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-11P-1.25DSA, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 11
 11
 Connector_Hirose
 Hirose_DF13-11P-1.25DS_1x11_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-11P-1.25DS, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-11P-1.25DS, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 11
 11
 Connector_Hirose
 Hirose_DF13-12P-1.25DSA_1x12_P1.25mm_Vertical
-Molex DF13 through hole, DF13-12P-1.25DSA, 12 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-12P-1.25DSA, 12 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 12
 12
 Connector_Hirose
 Hirose_DF13-12P-1.25DS_1x12_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-12P-1.25DS, 12 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-12P-1.25DS, 12 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 12
 12
 Connector_Hirose
 Hirose_DF13-13P-1.25DSA_1x13_P1.25mm_Vertical
-Molex DF13 through hole, DF13-13P-1.25DSA, 13 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-13P-1.25DSA, 13 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 13
 13
 Connector_Hirose
 Hirose_DF13-14P-1.25DSA_1x14_P1.25mm_Vertical
-Molex DF13 through hole, DF13-14P-1.25DSA, 14 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-14P-1.25DSA, 14 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 14
 14
 Connector_Hirose
 Hirose_DF13-14P-1.25DS_1x14_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-14P-1.25DS, 14 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-14P-1.25DS, 14 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 14
 14
 Connector_Hirose
 Hirose_DF13-15P-1.25DSA_1x15_P1.25mm_Vertical
-Molex DF13 through hole, DF13-15P-1.25DSA, 15 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
-connector Hirose  side entry
+Hirose DF13 through hole, DF13-15P-1.25DSA, 15 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator
+connector Hirose DF13 vertical
 0
 15
 15
 Connector_Hirose
 Hirose_DF13-15P-1.25DS_1x15_P1.25mm_Horizontal
-Molex DF13 through hole, DF13-15P-1.25DS, 15 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose  top entry
+Hirose DF13 through hole, DF13-15P-1.25DS, 15 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
+connector Hirose DF13 horizontal
 0
 15
 15
 Connector_Hirose
 Hirose_DF13C_CL535-0402-2-51_1x02-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0402-2-51, 2 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0402-2-51, 2 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 4
 3
 Connector_Hirose
 Hirose_DF13C_CL535-0403-5-51_1x03-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0403-5-51, 3 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0403-5-51, 3 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 5
 4
 Connector_Hirose
 Hirose_DF13C_CL535-0404-8-51_1x04-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0404-8-51, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0404-8-51, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 6
 5
 Connector_Hirose
 Hirose_DF13C_CL535-0405-0-51_1x05-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0405-0-51, 5 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0405-0-51, 5 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 7
 6
 Connector_Hirose
 Hirose_DF13C_CL535-0406-3-51_1x06-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0406-3-51, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0406-3-51, 6 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 8
 7
 Connector_Hirose
 Hirose_DF13C_CL535-0407-6-51_1x07-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0407-6-51, 7 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0407-6-51, 7 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 9
 8
 Connector_Hirose
 Hirose_DF13C_CL535-0408-9-51_1x08-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0408-9-51, 8 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0408-9-51, 8 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 10
 9
 Connector_Hirose
 Hirose_DF13C_CL535-0409-1-51_1x09-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0409-1-51, 9 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0409-1-51, 9 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 11
 10
 Connector_Hirose
 Hirose_DF13C_CL535-0410-4-51_1x10-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0410-4-51, 10 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0410-4-51, 10 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 12
 11
 Connector_Hirose
 Hirose_DF13C_CL535-0411-3-51_1x11-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0411-3-51, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0411-3-51, 11 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 13
 12
 Connector_Hirose
 Hirose_DF13C_CL535-0412-6-51_1x12-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0412-6-51, 12 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0412-6-51, 12 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 14
 13
 Connector_Hirose
 Hirose_DF13C_CL535-0414-1-51_1x14-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0414-1-51, 14 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0414-1-51, 14 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 16
 15
 Connector_Hirose
 Hirose_DF13C_CL535-0415-4-51_1x15-1MP_P1.25mm_Vertical
-Molex DF13C SMD, CL535-0415-4-51, 15 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
-connector Hirose DF13C side entry
+Hirose DF13C SMD, CL535-0415-4-51, 15 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13C-10P-1.25V%2851%29/), generated with kicad-footprint-generator
+connector Hirose DF13C vertical
 0
 17
 16
@@ -9506,54 +9611,12 @@ connector Hirose  top entry
 17
 16
 Connector_Hirose
-Hirose_DF63-1P-3.96DSA_1x01_P3.96mm_Horizontal
-Hirose DF63 through hole, DF63-1P-3.96DSA, 1 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-1
-1
-Connector_Hirose
-Hirose_DF63-2P-3.96DSA_1x02_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-2P-3.96DSA, 2 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-2
-2
-Connector_Hirose
-Hirose_DF63-3P-3.96DSA_1x03_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-3P-3.96DSA, 3 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-3
-3
-Connector_Hirose
-Hirose_DF63-4P-3.96DSA_1x04_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-4P-3.96DSA, 4 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-4
-4
-Connector_Hirose
-Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-5P-3.96DSA, 5 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-5
-5
-Connector_Hirose
 Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical
 Hirose DF63 through hole, DF63-5P-3.96DSA, 5 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
 connector Hirose DF63 vertical
 0
 5
 5
-Connector_Hirose
-Hirose_DF63-6P-3.96DSA_1x06_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-6P-3.96DSA, 6 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-6
-6
 Connector_Hirose
 Hirose_DF63-6P-3.96DSA_1x06_P3.96mm_Vertical
 Hirose DF63 through hole, DF63-6P-3.96DSA, 6 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
@@ -15123,6 +15186,202 @@ Connector_Molex
 Molex_MicroClasp_55932-1530_1x15_P2.00mm_Vertical
 Molex MicroClasp Wire-to-Board System, 55932-1530, 15 Pins (http://www.molex.com/pdm_docs/sd/559320530_sd.pdf), generated with kicad-footprint-generator
 connector Molex MicroClasp side entry
+0
+15
+15
+Connector_Molex
+Molex_MicroClasp_55935-0210_1x02_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0210, with PCB locator, 2 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+2
+2
+Connector_Molex
+Molex_MicroClasp_55935-0230_1x02_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0230, 2 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+2
+2
+Connector_Molex
+Molex_MicroClasp_55935-0310_1x03_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0310, with PCB locator, 3 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+3
+3
+Connector_Molex
+Molex_MicroClasp_55935-0330_1x03_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0330, 3 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+3
+3
+Connector_Molex
+Molex_MicroClasp_55935-0410_1x04_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0410, with PCB locator, 4 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+4
+4
+Connector_Molex
+Molex_MicroClasp_55935-0430_1x04_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0430, 4 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+4
+4
+Connector_Molex
+Molex_MicroClasp_55935-0510_1x05_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0510, with PCB locator, 5 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+5
+5
+Connector_Molex
+Molex_MicroClasp_55935-0530_1x05_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0530, 5 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+5
+5
+Connector_Molex
+Molex_MicroClasp_55935-0610_1x06_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0610, with PCB locator, 6 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+6
+6
+Connector_Molex
+Molex_MicroClasp_55935-0630_1x06_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0630, 6 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+6
+6
+Connector_Molex
+Molex_MicroClasp_55935-0710_1x07_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0710, with PCB locator, 7 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+7
+7
+Connector_Molex
+Molex_MicroClasp_55935-0730_1x07_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0730, 7 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+7
+7
+Connector_Molex
+Molex_MicroClasp_55935-0810_1x08_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0810, with PCB locator, 8 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+8
+8
+Connector_Molex
+Molex_MicroClasp_55935-0830_1x08_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0830, 8 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+8
+8
+Connector_Molex
+Molex_MicroClasp_55935-0910_1x09_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0910, with PCB locator, 9 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+9
+9
+Connector_Molex
+Molex_MicroClasp_55935-0930_1x09_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0930, 9 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+9
+9
+Connector_Molex
+Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1010, with PCB locator, 10 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+10
+10
+Connector_Molex
+Molex_MicroClasp_55935-1030_1x10_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1030, 10 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+10
+10
+Connector_Molex
+Molex_MicroClasp_55935-1110_1x11_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1110, with PCB locator, 11 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+11
+11
+Connector_Molex
+Molex_MicroClasp_55935-1130_1x11_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1130, 11 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+11
+11
+Connector_Molex
+Molex_MicroClasp_55935-1210_1x12_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1210, with PCB locator, 12 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+12
+12
+Connector_Molex
+Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1230, 12 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+12
+12
+Connector_Molex
+Molex_MicroClasp_55935-1310_1x13_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1310, with PCB locator, 13 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+13
+13
+Connector_Molex
+Molex_MicroClasp_55935-1330_1x13_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1330, 13 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+13
+13
+Connector_Molex
+Molex_MicroClasp_55935-1410_1x14_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1410, with PCB locator, 14 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+14
+14
+Connector_Molex
+Molex_MicroClasp_55935-1430_1x14_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1430, 14 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+14
+14
+Connector_Molex
+Molex_MicroClasp_55935-1510_1x15_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1510, with PCB locator, 15 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+15
+15
+Connector_Molex
+Molex_MicroClasp_55935-1530_1x15_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1530, 15 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
 0
 15
 15
@@ -40089,6 +40348,13 @@ USB Type-C Receptacle Through-hole Right angle
 20
 17
 Connector_USB
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+Connector_USB
 USB_C_Receptacle_JAE_DX07S024WJ1R350
 http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117219.pdf
 USB C Type-C Receptacle SMD
@@ -44884,6 +45150,13 @@ Fuse TE5 Littelfuse/Wickmann No. 460 No560
 2
 2
 Fuse
+Fuse_Schurter_UMT250
+Surface Mount Fuse, 3 x 10.1 mm, Time-Lag T, 250 VAC, 125 VDC (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UMT_250.pdf)
+Schurter fuse smd
+0
+2
+2
+Fuse
 Fuse_SunFuse-6HP
 SunFuse Ceramic Slow Blow Fuse 6H_6HP.PDF
 UL/CSA 6x32mm Ceramic Slow Blow Fuse
@@ -48671,6 +48944,13 @@ LED SMD right angle  CCA
 3
 3
 LED_SMD
+LED_Osram_Lx_P47F_D2mm_ReverseMount
+OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
+LED ReverseMount Reverse
+0
+4
+2
+LED_SMD
 LED_PLCC-2
 LED PLCC-2 SMD package
 LED PLCC-2 SMD
@@ -52087,6 +52367,20 @@ LFCSP 16 0.65
 21
 17
 Package_CSP
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+21
+17
+Package_CSP
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+31
+17
+Package_CSP
 LFCSP-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
 20-Lead Frame Chip Scale Package - 4x4x0.9 mm Body [LFCSP], (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_20_6.pdf)
 LFCSP 0.5
@@ -54250,6 +54544,20 @@ QFN DFN_QFN
 91
 49
 Package_DFN_QFN
+QFN-48-1EP_8x8mm_P0.5mm_EP6.2x6.2mm
+QFN, 48 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+74
+49
+Package_DFN_QFN
+QFN-48-1EP_8x8mm_P0.5mm_EP6.2x6.2mm_ThermalVias
+QFN, 48 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+111
+49
+Package_DFN_QFN
 QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm
 QFN, 52 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_52_05-08-1729.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
@@ -54571,6 +54879,20 @@ TQFN NoLead
 0
 21
 17
+Package_DFN_QFN
+TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+25
+21
+Package_DFN_QFN
+TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm_ThermalVias
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+35
+21
 Package_DFN_QFN
 TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack
 TQFN, 24 Pin (https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
@@ -64277,6 +64599,13 @@ Relay_THT
 Relay_SPDT_Finder_34.51_Vertical
 Relay SPDT, Finder Type34.51, vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
 Relay SPDT Finder
+0
+5
+5
+Relay_THT
+Relay_SPDT_Finder_36.11
+FINDER 36.11, SPDT relay, 10A, https://gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf
+spdt relay
 0
 5
 5

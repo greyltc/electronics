@@ -4,7 +4,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 1 3
+Sheet 1 4
 Title ""
 Date ""
 Rev ""
@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 6200 5500 1100 700 
+S 6100 4200 1100 700 
 U 5D997D8A
 F0 "SWITCHES" 50
 F1 "SWITCHES.sch" 50
@@ -56,7 +56,7 @@ F 3 "~" H 1300 10900 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Sheet
-S 8000 5500 1100 700 
+S 7900 4200 1100 700 
 U 5D9777B5
 F0 "switch_control" 50
 F1 "switch_control.sch" 50
@@ -94,6 +94,12 @@ F 3 "" H 1700 10900 50  0001 C CNN
 	1    1700 10900
 	1    0    0    -1  
 $EndComp
-Text Notes 7300 5300 0    50   ~ 0
+Text Notes 7200 4000 0    50   ~ 0
 See sub-schematics
+$Sheet
+S 9700 4200 1100 700 
+U 5D627455
+F0 "board_edge_adapter" 50
+F1 "board_edge_adapter.sch" 50
+$EndSheet
 $EndSCHEMATC
