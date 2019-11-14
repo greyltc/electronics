@@ -1,4 +1,4 @@
 *.bak
 *.kicad_pcb-bak
 *.sch-bak
-output/*
+*/output/*

@@ -134,7 +134,7 @@
     (add_net "Net-(J3-Pad1)")
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D298)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D298)
     (at -9.45 -8.25 90)
     (path /5DC96554)
     (fp_text reference J1 (at 1.75 2 180) (layer F.SilkS)
@@ -143,7 +143,7 @@
     (fp_text value PIX1 (at 0 -2.4 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
       (net 1 "Net-(J1-Pad1)"))
     (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
       (offset (xyz 0 0 -2.1))
@@ -157,7 +157,7 @@
     )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D187)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D187)
     (at -9.45 -1.25 90)
     (path /5DC96210)
     (fp_text reference J2 (at 1.75 0.45 180) (layer F.SilkS)
@@ -166,7 +166,7 @@
     (fp_text value PIX2 (at 0 -2.4 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
       (net 2 "Net-(J2-Pad1)"))
     (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
       (offset (xyz 0 0 -2.1))
@@ -180,7 +180,7 @@
     )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D17B)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D17B)
     (at -9.45 5.75 90)
     (path /5DC959BD)
     (fp_text reference J3 (at 1.75 0.45 180) (layer F.SilkS)
@@ -189,7 +189,7 @@
     (fp_text value PIX3 (at 0 -2.4 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
       (net 3 "Net-(J3-Pad1)"))
     (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
       (offset (xyz 0 0 -2.1))
@@ -203,7 +203,7 @@
     )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D27A)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D27A)
     (at 9.45 -8.25 90)
     (path /5DC98D77)
     (fp_text reference J4 (at 0.75 -2 180) (layer F.SilkS)
@@ -212,7 +212,7 @@
     (fp_text value PIX4 (at 0 -2.4 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
       (net 4 "Net-(J10-Pad3)"))
     (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
       (offset (xyz 0 0 -2.1))
@@ -226,7 +226,7 @@
     )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D289)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D289)
     (at 9.45 -1.25 90)
     (path /5DC98D71)
     (fp_text reference J5 (at 1.75 -0.45 180) (layer F.SilkS)
@@ -235,7 +235,7 @@
     (fp_text value PIX5 (at 0 -2.4 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
       (net 5 "Net-(J10-Pad6)"))
     (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
       (offset (xyz 0 0 -2.1))
@@ -249,7 +249,7 @@
     )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D2D4)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D2D4)
     (at 9.45 5.75 90)
     (path /5DC98D6B)
     (fp_text reference J6 (at 1.75 -0.45) (layer F.SilkS)
@@ -258,8 +258,238 @@
     (fp_text value PIX6 (at 0 -2.4 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
       (net 6 "Net-(J10-Pad9)"))
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
+      (offset (xyz 0 0 -2.1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 90 0))
+    )
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D2A4)
+    (at -1.25 -11 90)
+    (path /5DCA1A30)
+    (fp_text reference J8 (at 0 -2) (layer F.SilkS)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value TOP_TCE (at 0 -2.4 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
+      (net 12 "Net-(J10-Pad2)"))
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
+      (offset (xyz 0 0 -2.1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 90 0))
+    )
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D2B3)
+    (at 1.25 11 90)
+    (path /5DCA2000)
+    (fp_text reference J9 (at 0 2 180) (layer F.SilkS)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value BOT_TCE (at 0 -2.4 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
+      (net 7 "Net-(J10-Pad12)"))
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
+      (offset (xyz 0 0 -2.1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 90 0))
+    )
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D26E)
+    (at -9.45 -5.75 90)
+    (path /5DCA753D)
+    (fp_text reference J11 (at 0 2 90) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value PIX1 (at 0 -2.4 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
+      (net 11 "Net-(J11-Pad1)"))
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
+      (offset (xyz 0 0 -2.1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 90 0))
+    )
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D2F5)
+    (at -9.45 1.25 90)
+    (path /5DCA7448)
+    (fp_text reference J12 (at 0 2 90) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value PIX2 (at 0 -2.4 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
+      (net 10 "Net-(J12-Pad1)"))
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
+      (offset (xyz 0 0 -2.1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 90 0))
+    )
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D133)
+    (at -9.45 8.25 90)
+    (path /5DCA736A)
+    (fp_text reference J13 (at 0 2 90) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value PIX3 (at 0 -2.4 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
+      (net 9 "Net-(J13-Pad1)"))
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
+      (offset (xyz 0 0 -2.1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 90 0))
+    )
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D13F)
+    (at -1.25 11 90)
+    (path /5DCA714A)
+    (fp_text reference J14 (at 0 2 90) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value BOT_TCE (at 0 -2.4 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
+      (net 8 "Net-(J10-Pad11)"))
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
+      (offset (xyz 0 0 -2.1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 90 0))
+    )
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D14B)
+    (at 1 -11 90)
+    (path /5DCA7045)
+    (fp_text reference J15 (at 0 2 90) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value TOP_TCE (at 0 -2.4 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
+      (net 13 "Net-(J10-Pad1)"))
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
+      (offset (xyz 0 0 -2.1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 90 0))
+    )
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D157)
+    (at 9.45 -5.75 90)
+    (path /5DCA7B46)
+    (fp_text reference J16 (at 0 -2 90) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value PIX4 (at 0 -2.4 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
+      (net 16 "Net-(J10-Pad4)"))
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
+      (offset (xyz 0 0 -2.1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 90 0))
+    )
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D163)
+    (at 9.45 1.25 90)
+    (path /5DCA8034)
+    (fp_text reference J17 (at 0 2 90) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value PIX5 (at 0 -2.4 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
+      (net 15 "Net-(J10-Pad7)"))
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
+      (offset (xyz 0 0 -2.1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 90 0))
+    )
+    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module custom:spring_pin (layer F.Cu) (tedit 5DCD1F24) (tstamp 5DC3D16F)
+    (at 9.45 8.25 90)
+    (path /5DCA815E)
+    (fp_text reference J18 (at 0 -2 90) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value PIX6 (at 0 -2.4 90) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.5) (layers *.Cu *.Mask)
+      (net 14 "Net-(J10-Pad10)"))
     (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
       (offset (xyz 0 0 -2.1))
       (scale (xyz 1 1 1))
@@ -330,52 +560,6 @@
     )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D2A4)
-    (at -1.25 -11 90)
-    (path /5DCA1A30)
-    (fp_text reference J8 (at 0 -2) (layer F.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value TOP_TCE (at 0 -2.4 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
-      (net 12 "Net-(J10-Pad2)"))
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
-      (offset (xyz 0 0 -2.1))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D2B3)
-    (at 1.25 11 90)
-    (path /5DCA2000)
-    (fp_text reference J9 (at 0 2 180) (layer F.SilkS)
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value BOT_TCE (at 0 -2.4 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
-      (net 7 "Net-(J10-Pad12)"))
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
-      (offset (xyz 0 0 -2.1))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
   (module Connector_PinHeader_2.00mm:PinHeader_1x12_P2.00mm_Vertical (layer B.Cu) (tedit 59FED667) (tstamp 5DC3D22C)
     (at 11.7 -11 180)
     (descr "Through hole straight pin header, 1x12, 2.00mm pitch, single row")
@@ -434,194 +618,10 @@
     )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D26E)
-    (at -9.45 -5.75 90)
-    (path /5DCA753D)
-    (fp_text reference J11 (at 0 2 90) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value PIX1 (at 0 -2.4 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
-      (net 11 "Net-(J11-Pad1)"))
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
-      (offset (xyz 0 0 -2.1))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D2F5)
-    (at -9.45 1.25 90)
-    (path /5DCA7448)
-    (fp_text reference J12 (at 0 2 90) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value PIX2 (at 0 -2.4 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
-      (net 10 "Net-(J12-Pad1)"))
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
-      (offset (xyz 0 0 -2.1))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D133)
-    (at -9.45 8.25 90)
-    (path /5DCA736A)
-    (fp_text reference J13 (at 0 2 90) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value PIX3 (at 0 -2.4 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
-      (net 9 "Net-(J13-Pad1)"))
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
-      (offset (xyz 0 0 -2.1))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D13F)
-    (at -1.25 11 90)
-    (path /5DCA714A)
-    (fp_text reference J14 (at 0 2 90) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value BOT_TCE (at 0 -2.4 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
-      (net 8 "Net-(J10-Pad11)"))
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
-      (offset (xyz 0 0 -2.1))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D14B)
-    (at 1 -11 90)
-    (path /5DCA7045)
-    (fp_text reference J15 (at 0 2 90) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value TOP_TCE (at 0 -2.4 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
-      (net 13 "Net-(J10-Pad1)"))
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
-      (offset (xyz 0 0 -2.1))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D157)
-    (at 9.45 -5.75 90)
-    (path /5DCA7B46)
-    (fp_text reference J16 (at 0 -2 90) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value PIX4 (at 0 -2.4 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
-      (net 16 "Net-(J10-Pad4)"))
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
-      (offset (xyz 0 0 -2.1))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D163)
-    (at 9.45 1.25 90)
-    (path /5DCA8034)
-    (fp_text reference J17 (at 0 2 90) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value PIX5 (at 0 -2.4 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
-      (net 15 "Net-(J10-Pad7)"))
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
-      (offset (xyz 0 0 -2.1))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-  (module custom:spring_pin (layer F.Cu) (tedit 5DC37D5A) (tstamp 5DC3D16F)
-    (at 9.45 8.25 90)
-    (path /5DCA815E)
-    (fp_text reference J18 (at 0 -2 90) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value PIX6 (at 0 -2.4 90) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 thru_hole circle (at 0 0 90) (size 1.9 1.9) (drill 1.63) (layers *.Cu *.Mask)
-      (net 14 "Net-(J10-Pad10)"))
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.step
-      (offset (xyz 0 0 -2.1))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-  )
-
-  (gr_text 45f1e60 (at -7 12) (layer B.SilkS) (tstamp 5DC47E7F)
+  (gr_text dc568a0 (at -7 12) (layer B.SilkS) (tstamp 5DC47E7F)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text 45f1e60 (at -7 12) (layer F.SilkS)
+  (gr_text dc568a0 (at -7 12) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_line (start 8 8) (end -8 8) (layer Edge.Cuts) (width 0.05) (tstamp 5DC3D41D))
