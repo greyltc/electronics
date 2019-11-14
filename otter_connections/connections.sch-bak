@@ -1,0 +1,2697 @@
+EESchema Schematic File Version 4
+LIBS:swift_connections-cache
+EELAYER 30 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 1 1
+Title "Conceptual Signal Flow Diagram"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5D8124CE
+P 3000 2900
+F 0 "J?" H 3080 2846 50  0001 L CNN
+F 1 "Conn_01x02" H 3080 2801 50  0001 L CNN
+F 2 "" H 3000 2900 50  0001 C CNN
+F 3 "~" H 3000 2900 50  0001 C CNN
+	1    3000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5D812FF8
+P 3000 3300
+F 0 "J?" H 3080 3246 50  0001 L CNN
+F 1 "Conn_01x02" H 3080 3201 50  0001 L CNN
+F 2 "" H 3000 3300 50  0001 C CNN
+F 3 "~" H 3000 3300 50  0001 C CNN
+	1    3000 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5D81312F
+P 3000 3700
+F 0 "J?" H 3080 3646 50  0001 L CNN
+F 1 "Conn_01x02" H 3080 3601 50  0001 L CNN
+F 2 "" H 3000 3700 50  0001 C CNN
+F 3 "~" H 3000 3700 50  0001 C CNN
+	1    3000 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5D814B09
+P 3500 2900
+F 0 "J?" H 3580 2846 50  0001 L CNN
+F 1 "Conn_01x02" H 3580 2801 50  0001 L CNN
+F 2 "" H 3500 2900 50  0001 C CNN
+F 3 "~" H 3500 2900 50  0001 C CNN
+	1    3500 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5D814B0F
+P 3500 3300
+F 0 "J?" H 3580 3246 50  0001 L CNN
+F 1 "Conn_01x02" H 3580 3201 50  0001 L CNN
+F 2 "" H 3500 3300 50  0001 C CNN
+F 3 "~" H 3500 3300 50  0001 C CNN
+	1    3500 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5D814B15
+P 3500 3700
+F 0 "J?" H 3580 3646 50  0001 L CNN
+F 1 "Conn_01x02" H 3580 3601 50  0001 L CNN
+F 2 "" H 3500 3700 50  0001 C CNN
+F 3 "~" H 3500 3700 50  0001 C CNN
+	1    3500 3700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5D814B57
+P 3300 4000
+F 0 "J?" V 3218 4080 50  0001 L CNN
+F 1 "Conn_01x02" H 3380 3901 50  0001 L CNN
+F 2 "" H 3300 4000 50  0001 C CNN
+F 3 "~" H 3300 4000 50  0001 C CNN
+	1    3300 4000
+	0    1    -1   0   
+$EndComp
+Wire Notes Line
+	2900 2700 2900 4100
+Wire Notes Line
+	2900 4100 3600 4100
+Wire Notes Line
+	3600 4100 3600 2700
+Wire Notes Line
+	3600 2700 2900 2700
+Wire Notes Line
+	4600 2700 4600 4100
+Wire Notes Line
+	4600 4100 5300 4100
+Wire Notes Line
+	5300 4100 5300 2700
+Wire Notes Line
+	5300 2700 4600 2700
+Wire Notes Line
+	5800 2700 5800 4100
+Wire Notes Line
+	5800 4100 6500 4100
+Wire Notes Line
+	6500 4100 6500 2700
+Wire Notes Line
+	6500 2700 5800 2700
+Wire Notes Line
+	6900 2700 6900 4100
+Wire Notes Line
+	6900 4100 7600 4100
+Wire Notes Line
+	7600 4100 7600 2700
+Wire Notes Line
+	7600 2700 6900 2700
+Wire Notes Line
+	8100 2700 8100 4100
+Wire Notes Line
+	8100 4100 8800 4100
+Wire Notes Line
+	8800 4100 8800 2700
+Wire Notes Line
+	8800 2700 8100 2700
+Wire Notes Line
+	2900 5300 2900 6700
+Wire Notes Line
+	2900 6700 3600 6700
+Wire Notes Line
+	3600 6700 3600 5300
+Wire Notes Line
+	3600 5300 2900 5300
+Wire Notes Line
+	4200 5300 4200 6700
+Wire Notes Line
+	4200 6700 4900 6700
+Wire Notes Line
+	4900 6700 4900 5300
+Wire Notes Line
+	4900 5300 4200 5300
+Wire Notes Line
+	5400 5300 5400 6700
+Wire Notes Line
+	5400 6700 6100 6700
+Wire Notes Line
+	6100 6700 6100 5300
+Wire Notes Line
+	6100 5300 5400 5300
+Wire Notes Line
+	6700 5300 6700 6700
+Wire Notes Line
+	6700 6700 7400 6700
+Wire Notes Line
+	7400 6700 7400 5300
+Wire Notes Line
+	7400 5300 6700 5300
+Wire Notes Line
+	7900 5300 7900 6700
+Wire Notes Line
+	7900 6700 8600 6700
+Wire Notes Line
+	8600 6700 8600 5300
+Wire Notes Line
+	8600 5300 7900 5300
+$Comp
+L Connector_Generic:Conn_01x04 J?
+U 1 1 5D858ED2
+P 21800 7500
+F 0 "J?" H 21880 7446 50  0001 L CNN
+F 1 "Conn_01x04" H 21880 7401 50  0001 L CNN
+F 2 "" H 21800 7500 50  0001 C CNN
+F 3 "~" H 21800 7500 50  0001 C CNN
+	1    21800 7500
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	21700 7200 21700 7900
+Wire Notes Line
+	21700 7900 22600 7900
+Wire Notes Line
+	22600 7900 22600 7200
+Wire Notes Line
+	22600 7200 21700 7200
+Text Notes 21700 7200 0    50   ~ 0
+2400 Sourcemeter
+Text Label 21100 7700 0    50   ~ 0
+JV_FORCE_LO
+Text Label 21100 7600 0    50   ~ 0
+JV_SENSE_LO
+Text Label 21100 7500 0    50   ~ 0
+JV_SENSE_HI
+Text Label 21100 7400 0    50   ~ 0
+JV_FORCE_HI
+$Comp
+L New_Library:big_mux U?
+U 1 1 5D921B93
+P 11900 7900
+F 0 "U?" H 11600 14100 50  0001 C CNN
+F 1 "big_mux" H 12200 14100 50  0000 C CNN
+F 2 "" H 11100 8000 50  0001 C CNN
+F 3 "" H 11100 8000 50  0001 C CNN
+	1    11900 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L New_Library:big_mux U?
+U 1 1 5D96E6DD
+P 13700 7900
+F 0 "U?" H 13400 14100 50  0001 C CNN
+F 1 "big_mux" H 14000 14100 50  0000 C CNN
+F 2 "" H 12900 8000 50  0001 C CNN
+F 3 "" H 12900 8000 50  0001 C CNN
+	1    13700 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Analog_Switch:ADG419BN U?
+U 1 1 5D9A5500
+P 17200 7400
+F 0 "U?" H 17200 7642 50  0001 C CNN
+F 1 "ADG419BN" H 17200 7551 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 17200 7100 50  0001 C CNN
+F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf" H 17200 7200 50  0001 C CNN
+	1    17200 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Analog_Switch:ADG419BN U?
+U 1 1 5D9A5E6F
+P 17200 8000
+F 0 "U?" H 17200 8242 50  0001 C CNN
+F 1 "ADG419BN" H 17200 8151 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 17200 7700 50  0001 C CNN
+F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf" H 17200 7800 50  0001 C CNN
+	1    17200 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Analog_Switch:ADG419BN U?
+U 1 1 5D9B1BB8
+P 17200 8600
+F 0 "U?" H 17200 8842 50  0001 C CNN
+F 1 "ADG419BN" H 17200 8751 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 17200 8300 50  0001 C CNN
+F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf" H 17200 8400 50  0001 C CNN
+	1    17200 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Analog_Switch:ADG419BN U?
+U 1 1 5D9B2361
+P 17200 9200
+F 0 "U?" H 17200 9442 50  0001 C CNN
+F 1 "ADG419BN" H 17200 9351 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 17200 8900 50  0001 C CNN
+F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADG419.pdf" H 17200 9000 50  0001 C CNN
+	1    17200 9200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	19700 8600 17500 8600
+Wire Wire Line
+	19800 9200 17500 9200
+Wire Notes Line
+	9100 13400 9100 2600
+Wire Notes Line
+	9100 2600 2500 2600
+Wire Notes Line
+	2500 2600 2500 13400
+Text Notes 2500 2600 0    50   ~ 0
+Environmental Chamber
+Wire Wire Line
+	12600 7900 12400 7900
+Text Notes 16700 7200 0    50   ~ 0
+External 4x DPDT JV/EQE selection relay
+Wire Notes Line
+	16700 9800 16700 7200
+Wire Notes Line
+	16700 7200 17800 7200
+Wire Notes Line
+	17800 7200 17800 9800
+Wire Notes Line
+	17800 9800 16700 9800
+Wire Notes Line
+	15100 1500 15100 14700
+Wire Notes Line
+	9900 14700 9900 1500
+Wire Notes Line
+	9900 1500 15100 1500
+Wire Wire Line
+	14400 14100 12600 14100
+Wire Wire Line
+	12600 14100 12600 7900
+Text Notes 9900 1500 0    50   ~ 0
+Multiplexer Box
+Wire Wire Line
+	14900 14500 14900 9300
+Wire Wire Line
+	14900 9300 16900 9300
+Wire Wire Line
+	14600 8700 14600 14300
+Wire Wire Line
+	14600 14300 11400 14300
+Wire Wire Line
+	11400 14300 11400 8700
+Wire Wire Line
+	11400 8700 10100 8700
+Wire Wire Line
+	14600 8700 16900 8700
+Wire Wire Line
+	10200 8900 11300 8900
+Wire Wire Line
+	11300 8900 11300 14500
+Connection ~ 10200 8900
+Wire Wire Line
+	11300 14500 14900 14500
+Wire Wire Line
+	14200 7900 14300 7900
+Wire Wire Line
+	11500 2000 2400 2000
+Wire Wire Line
+	2400 2900 2800 2900
+Wire Wire Line
+	11500 2100 2200 2100
+Wire Wire Line
+	2200 3300 2800 3300
+Wire Wire Line
+	2800 3700 2100 3700
+Wire Wire Line
+	2100 2200 11500 2200
+Wire Wire Line
+	11500 2300 3800 2300
+Wire Wire Line
+	3800 2900 3700 2900
+Wire Wire Line
+	3700 3300 3900 3300
+Wire Wire Line
+	3900 2400 11500 2400
+Wire Wire Line
+	11500 2500 4000 2500
+Wire Wire Line
+	4000 3700 3700 3700
+Wire Wire Line
+	2800 3000 1400 3000
+Wire Wire Line
+	2800 3400 1300 3400
+Wire Wire Line
+	2800 3800 1200 3800
+Wire Wire Line
+	3700 3000 4100 3000
+Wire Wire Line
+	3700 3400 4200 3400
+Wire Wire Line
+	3700 3800 4300 3800
+Wire Wire Line
+	13200 800  13200 2000
+Wire Wire Line
+	13200 2000 13300 2000
+Wire Wire Line
+	1400 800  13200 800 
+Wire Wire Line
+	13300 2100 13100 2100
+Wire Wire Line
+	13100 2100 13100 900 
+Wire Wire Line
+	1300 900  13100 900 
+Wire Wire Line
+	13300 2200 13000 2200
+Wire Wire Line
+	13000 2200 13000 1000
+Wire Wire Line
+	1200 1000 13000 1000
+Wire Wire Line
+	13300 2300 12900 2300
+Wire Wire Line
+	12900 2300 12900 1100
+Wire Wire Line
+	4100 1100 12900 1100
+Wire Wire Line
+	13300 2400 12800 2400
+Wire Wire Line
+	12800 2400 12800 1200
+Wire Wire Line
+	4200 1200 12800 1200
+Wire Wire Line
+	13300 2500 12700 2500
+Wire Wire Line
+	12700 2500 12700 1300
+Wire Wire Line
+	4300 1300 12700 1300
+Text Label 15600 8700 0    50   ~ 0
+ALL_SUBSTRATES_SENSE_LO
+Text Label 15600 9300 0    50   ~ 0
+ALL_SUBSTRATES_FORCE_LO
+Text Label 6900 2000 0    50   ~ 0
+SUBSTRATE_01_CELL_1_FORCE_HI
+Text Label 6900 2100 0    50   ~ 0
+SUBSTRATE_01_CELL_2_FORCE_HI
+Text Label 6900 2200 0    50   ~ 0
+SUBSTRATE_01_CELL_3_FORCE_HI
+Text Label 6900 2300 0    50   ~ 0
+SUBSTRATE_01_CELL_4_FORCE_HI
+Text Label 6900 2400 0    50   ~ 0
+SUBSTRATE_01_CELL_5_FORCE_HI
+Text Label 6900 2500 0    50   ~ 0
+SUBSTRATE_01_CELL_6_FORCE_HI
+Text Notes 11600 1900 0    50   ~ 0
+FORCE_HI_1_TO_120_MUX
+Text Notes 13400 1900 0    50   ~ 0
+SENSE_HI_1_TO_120_MUX
+Text Label 6900 800  0    50   ~ 0
+SUBSTRATE_01_CELL_1_SENSE_HI
+Text Label 6900 900  0    50   ~ 0
+SUBSTRATE_01_CELL_2_SENSE_HI
+Text Label 6900 1000 0    50   ~ 0
+SUBSTRATE_01_CELL_3_SENSE_HI
+Text Label 6900 1100 0    50   ~ 0
+SUBSTRATE_01_CELL_4_SENSE_HI
+Text Label 6900 1200 0    50   ~ 0
+SUBSTRATE_01_CELL_5_SENSE_HI
+Text Label 6900 1300 0    50   ~ 0
+SUBSTRATE_01_CELL_6_SENSE_HI
+Text Label 10000 13400 0    50   ~ 0
+SUBSTRATE_20_CELL_1_FORCE_HI
+Text Label 10000 13500 0    50   ~ 0
+SUBSTRATE_20_CELL_2_FORCE_HI
+Text Label 10000 13600 0    50   ~ 0
+SUBSTRATE_20_CELL_3_FORCE_HI
+Text Label 10000 13700 0    50   ~ 0
+SUBSTRATE_20_CELL_4_FORCE_HI
+Text Label 10000 13800 0    50   ~ 0
+SUBSTRATE_20_CELL_5_FORCE_HI
+Text Label 10000 13900 0    50   ~ 0
+SUBSTRATE_20_CELL_6_FORCE_HI
+Text Label 9700 14900 0    50   ~ 0
+SUBSTRATE_20_CELL_1_SENSE_HI
+Text Label 9700 15000 0    50   ~ 0
+SUBSTRATE_20_CELL_2_SENSE_HI
+Text Label 9700 15100 0    50   ~ 0
+SUBSTRATE_20_CELL_3_SENSE_HI
+Text Label 9700 15200 0    50   ~ 0
+SUBSTRATE_20_CELL_4_SENSE_HI
+Text Label 9700 15300 0    50   ~ 0
+SUBSTRATE_20_CELL_5_SENSE_HI
+Text Label 9700 15400 0    50   ~ 0
+SUBSTRATE_20_CELL_6_SENSE_HI
+Text Notes 2900 2700 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 4600 2700 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 5800 2700 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 6900 2700 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 8100 2700 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 2900 5300 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 4200 5300 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 5400 5300 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 6700 5300 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 7900 5300 0    50   ~ 0
+Substrate Adapter PCB
+Wire Wire Line
+	13300 13900 13200 13900
+Wire Wire Line
+	13200 13900 13200 15400
+Wire Wire Line
+	13300 13800 13100 13800
+Wire Wire Line
+	13100 13800 13100 15300
+Wire Wire Line
+	13300 13700 13000 13700
+Wire Wire Line
+	13000 13700 13000 15200
+Wire Wire Line
+	13300 13600 12900 13600
+Wire Wire Line
+	12900 13600 12900 15100
+Wire Wire Line
+	13300 13500 12800 13500
+Wire Wire Line
+	12800 13500 12800 15000
+Wire Wire Line
+	13300 13400 12700 13400
+Wire Wire Line
+	12700 13400 12700 14900
+Wire Wire Line
+	7200 14900 12700 14900
+Wire Wire Line
+	7000 15100 12900 15100
+Wire Wire Line
+	8600 15200 13000 15200
+Wire Wire Line
+	8700 15300 13100 15300
+Wire Wire Line
+	8800 15400 13200 15400
+Wire Wire Line
+	7100 15000 12800 15000
+Wire Wire Line
+	19600 8000 17500 8000
+Wire Wire Line
+	19600 7500 19600 8000
+Wire Wire Line
+	19700 7600 19700 8600
+Wire Wire Line
+	19800 7700 19800 9200
+Wire Wire Line
+	17500 7400 21600 7400
+Wire Wire Line
+	19600 7500 21600 7500
+Wire Wire Line
+	19700 7600 21600 7600
+Wire Wire Line
+	19800 7700 21600 7700
+Wire Notes Line
+	19200 9800 19200 10500
+Wire Notes Line
+	19200 10500 20100 10500
+Wire Notes Line
+	20100 10500 20100 9800
+Wire Notes Line
+	20100 9800 19200 9800
+Text Notes 18900 9800 0    50   ~ 0
+DC Biasing Transimpediance Amplifier
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E022882
+P 20000 10300
+F 0 "J?" H 20080 10292 50  0001 L CNN
+F 1 "BIAS_SETPOINT" H 20400 10300 50  0000 C CNN
+F 2 "" H 20000 10300 50  0001 C CNN
+F 3 "~" H 20000 10300 50  0001 C CNN
+	1    20000 10300
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	20400 10400 20200 10400
+Wire Wire Line
+	20500 10300 20200 10300
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E097D09
+P 20000 9900
+F 0 "J?" H 20080 9892 50  0001 L CNN
+F 1 "OUT" H 20200 9900 50  0000 C CNN
+F 2 "" H 20000 9900 50  0001 C CNN
+F 3 "~" H 20000 9900 50  0001 C CNN
+	1    20000 9900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E09BBD9
+P 19300 9900
+F 0 "J?" H 19380 9892 50  0001 L CNN
+F 1 "IN" H 19400 9900 50  0000 C CNN
+F 2 "" H 19300 9900 50  0001 C CNN
+F 3 "~" H 19300 9900 50  0001 C CNN
+	1    19300 9900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	19100 9900 18400 9900
+Wire Wire Line
+	18400 9900 18400 7600
+Wire Wire Line
+	18400 7600 17500 7600
+Wire Wire Line
+	19100 10000 18300 10000
+Wire Wire Line
+	18300 10000 18300 9400
+Wire Wire Line
+	18300 9400 17500 9400
+Wire Wire Line
+	20200 10000 20900 10000
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5DFAED95
+P 22300 11000
+F 0 "J?" H 22380 10992 50  0001 L CNN
+F 1 "AUX OUT 1" H 22600 10900 50  0000 C CNN
+F 2 "" H 22300 11000 50  0001 C CNN
+F 3 "~" H 22300 11000 50  0001 C CNN
+	1    22300 11000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5DF9CD05
+P 21600 10200
+F 0 "J?" H 21680 10192 50  0001 L CNN
+F 1 "A/I" H 21680 10146 50  0000 L CNN
+F 2 "" H 21600 10200 50  0001 C CNN
+F 3 "~" H 21600 10200 50  0001 C CNN
+	1    21600 10200
+	1    0    0    -1  
+$EndComp
+Text Notes 21500 10100 0    50   ~ 0
+SR830 EQE Lock-In Amp
+Wire Notes Line
+	22400 10100 21500 10100
+Wire Notes Line
+	22400 11200 22400 10100
+Wire Notes Line
+	21500 11200 22400 11200
+Wire Notes Line
+	21500 10100 21500 11200
+Wire Wire Line
+	22500 11100 22600 11100
+Wire Wire Line
+	22600 11100 22600 11300
+Wire Wire Line
+	22600 11300 20400 11300
+Wire Wire Line
+	20400 10400 20400 11300
+Wire Wire Line
+	20500 11400 22700 11400
+Wire Wire Line
+	22700 11400 22700 11000
+Wire Wire Line
+	22700 11000 22500 11000
+Wire Wire Line
+	20500 10300 20500 11400
+Wire Wire Line
+	20900 10300 20900 10000
+Wire Wire Line
+	20900 10300 21400 10300
+Wire Wire Line
+	21000 10200 21400 10200
+Wire Wire Line
+	21000 9900 20200 9900
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E18B2F2
+P 21600 10600
+F 0 "J?" H 21680 10592 50  0001 L CNN
+F 1 "B" H 21680 10546 50  0000 L CNN
+F 2 "" H 21600 10600 50  0001 C CNN
+F 3 "~" H 21600 10600 50  0001 C CNN
+	1    21600 10600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	21400 10600 21200 10600
+Wire Wire Line
+	21200 10600 21200 8200
+Wire Wire Line
+	21200 8200 17500 8200
+Wire Wire Line
+	21000 10200 21000 9900
+Wire Wire Line
+	21400 10700 21100 10700
+Wire Wire Line
+	21100 10700 21100 8800
+Wire Wire Line
+	21100 8800 17500 8800
+Wire Notes Line
+	15500 16000 15500 700 
+Wire Notes Line
+	15500 700  900  700 
+Wire Notes Line
+	900  700  900  16000
+Wire Notes Line
+	900  16000 15500 16000
+Text Notes 900  700  0    50   ~ 0
+This all gets moved on the X-Y stage and is targeted for fitting into your the glovebox load lock
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5D828096
+P 22300 10400
+F 0 "J?" H 22380 10392 50  0001 L CNN
+F 1 "AUX IN 1" H 22600 10300 50  0000 C CNN
+F 2 "" H 22300 10400 50  0001 C CNN
+F 3 "~" H 22300 10400 50  0001 C CNN
+	1    22300 10400
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	22500 10400 22700 10400
+Wire Wire Line
+	22700 10400 22700 9700
+Wire Wire Line
+	22500 10500 22800 10500
+Wire Wire Line
+	22800 10500 22800 9600
+Wire Wire Line
+	22800 9600 22500 9600
+$Comp
+L Device:D_Photo D?
+U 1 1 5D850EFF
+P 22200 9200
+F 0 "D?" V 22150 9121 50  0001 R CNN
+F 1 "D_Photo" V 22105 9122 50  0001 R CNN
+F 2 "" H 22150 9200 50  0001 C CNN
+F 3 "~" H 22150 9200 50  0001 C CNN
+	1    22200 9200
+	-1   0    0    -1  
+$EndComp
+Text Notes 22800 9000 2    50   ~ 0
+EQE Intensity Reference Diode
+Wire Wire Line
+	22000 9700 22000 9200
+Wire Wire Line
+	22000 9200 22100 9200
+Wire Wire Line
+	22000 9700 22700 9700
+Wire Wire Line
+	22400 9200 22500 9200
+Wire Wire Line
+	22500 9200 22500 9600
+Text Label 15900 7500 0    50   ~ 0
+CELL_FORCE_HI
+Text Label 15900 8100 0    50   ~ 0
+CELL_SENSE_HI
+NoConn ~ 17200 7800
+NoConn ~ 17200 8400
+NoConn ~ 17200 9000
+NoConn ~ 17200 9600
+Text Label 20700 11300 0    50   ~ 0
+EQE_BIAS_SETPOINT_PLUS
+Text Label 20200 10000 0    50   ~ 0
+EQE_CURRENT_MINUS
+Text Label 20300 8200 0    50   ~ 0
+EQE_VOLTAGE_PLUS
+Text Label 20300 8800 0    50   ~ 0
+EQE_VOLTAGE_MINUS
+Text Label 20700 11400 0    50   ~ 0
+EQE_BIAS_SETPOINT_MINUS
+Text Label 20200 9900 0    50   ~ 0
+EQE_CURRENT_PLUS
+Wire Wire Line
+	16900 7500 14400 7500
+Wire Wire Line
+	14400 7500 14400 14100
+Wire Wire Line
+	14300 7900 14300 8100
+Wire Wire Line
+	14300 8100 16900 8100
+Wire Wire Line
+	9700 13400 11500 13400
+Wire Wire Line
+	11500 13500 9600 13500
+Wire Wire Line
+	9500 13600 11500 13600
+Wire Wire Line
+	11500 13700 9400 13700
+Wire Wire Line
+	11500 13800 9300 13800
+Wire Wire Line
+	9200 13900 11500 13900
+Wire Wire Line
+	8300 9500 8300 9400
+Wire Wire Line
+	8200 9600 8200 9400
+Wire Wire Line
+	7100 9700 7100 9400
+Wire Wire Line
+	7000 9800 7000 9400
+Wire Wire Line
+	5800 9900 5800 9400
+Wire Wire Line
+	5700 10000 5700 9400
+Wire Wire Line
+	4600 10100 4600 9400
+Wire Wire Line
+	4500 10200 4500 9400
+Wire Wire Line
+	3300 10300 3300 9400
+Wire Wire Line
+	3200 9400 3200 10400
+Wire Wire Line
+	10200 9500 8300 9500
+Wire Wire Line
+	8200 9600 10100 9600
+Wire Wire Line
+	10200 9700 7100 9700
+Wire Wire Line
+	7000 9800 10100 9800
+Wire Wire Line
+	10200 9900 5800 9900
+Wire Wire Line
+	5700 10000 10100 10000
+Wire Wire Line
+	10200 10100 4600 10100
+Wire Wire Line
+	4500 10200 10100 10200
+Wire Wire Line
+	10200 10300 3300 10300
+Wire Wire Line
+	3200 10400 10100 10400
+Wire Wire Line
+	7400 10600 7500 10600
+Wire Wire Line
+	7500 10600 7500 11000
+Wire Wire Line
+	3000 13300 3000 12300
+Wire Wire Line
+	10100 13300 3000 13300
+Wire Wire Line
+	3100 12300 3100 13200
+Wire Wire Line
+	4100 13100 4100 12300
+Wire Wire Line
+	10100 13100 4100 13100
+Wire Wire Line
+	4200 13000 10200 13000
+Wire Wire Line
+	4200 12300 4200 13000
+Wire Wire Line
+	5200 12900 10100 12900
+Wire Wire Line
+	5200 12300 5200 12900
+Wire Wire Line
+	6400 12700 10100 12700
+Wire Wire Line
+	6400 12300 6400 12700
+Wire Wire Line
+	5300 12800 10200 12800
+Wire Wire Line
+	5300 12300 5300 12800
+Wire Wire Line
+	6500 12600 10200 12600
+Wire Wire Line
+	6500 12300 6500 12600
+Wire Wire Line
+	8100 12400 10200 12400
+Wire Wire Line
+	8100 12300 8100 12400
+Wire Wire Line
+	8000 12500 10100 12500
+Wire Wire Line
+	8000 12300 8000 12500
+Wire Wire Line
+	7500 10500 7500 10600
+Wire Wire Line
+	7300 10700 9500 10700
+Wire Wire Line
+	7300 11800 7300 10700
+Wire Wire Line
+	7600 11800 7300 11800
+Wire Wire Line
+	7100 11500 7600 11500
+Wire Wire Line
+	7400 11400 7600 11400
+Wire Wire Line
+	7400 10600 7400 11400
+Wire Wire Line
+	7500 10500 9700 10500
+Wire Wire Line
+	7600 11000 7500 11000
+Wire Wire Line
+	8500 11900 8800 11900
+Wire Wire Line
+	8700 11500 8500 11500
+Wire Wire Line
+	8500 11100 8600 11100
+Wire Wire Line
+	7600 11900 7000 11900
+Wire Wire Line
+	7600 11100 7200 11100
+Wire Wire Line
+	8500 11000 9400 11000
+Wire Wire Line
+	8500 11400 9300 11400
+Wire Wire Line
+	8500 11800 9200 11800
+Text Notes 7700 10800 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 6100 10800 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 4900 10800 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 3800 10800 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 2700 10800 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 2900 7900 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 4200 7900 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 5400 7900 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 6700 7900 0    50   ~ 0
+Substrate Adapter PCB
+Text Notes 7900 7900 0    50   ~ 0
+Substrate Adapter PCB
+Wire Notes Line
+	2500 13400 9100 13400
+Wire Notes Line
+	8400 10800 7700 10800
+Wire Notes Line
+	8400 12200 8400 10800
+Wire Notes Line
+	7700 12200 8400 12200
+Wire Notes Line
+	7700 10800 7700 12200
+Wire Notes Line
+	6800 10800 6100 10800
+Wire Notes Line
+	6800 12200 6800 10800
+Wire Notes Line
+	6100 12200 6800 12200
+Wire Notes Line
+	6100 10800 6100 12200
+Wire Notes Line
+	5600 10800 4900 10800
+Wire Notes Line
+	5600 12200 5600 10800
+Wire Notes Line
+	4900 12200 5600 12200
+Wire Notes Line
+	4900 10800 4900 12200
+Wire Notes Line
+	4500 10800 3800 10800
+Wire Notes Line
+	4500 12200 4500 10800
+Wire Notes Line
+	3800 12200 4500 12200
+Wire Notes Line
+	3800 10800 3800 12200
+Wire Notes Line
+	3400 10800 2700 10800
+Wire Notes Line
+	3400 12200 3400 10800
+Wire Notes Line
+	2700 12200 3400 12200
+Wire Notes Line
+	2700 10800 2700 12200
+Wire Notes Line
+	8600 7900 7900 7900
+Wire Notes Line
+	8600 9300 8600 7900
+Wire Notes Line
+	7900 9300 8600 9300
+Wire Notes Line
+	7900 7900 7900 9300
+Wire Notes Line
+	7400 7900 6700 7900
+Wire Notes Line
+	7400 9300 7400 7900
+Wire Notes Line
+	6700 9300 7400 9300
+Wire Notes Line
+	6700 7900 6700 9300
+Wire Notes Line
+	6100 7900 5400 7900
+Wire Notes Line
+	6100 9300 6100 7900
+Wire Notes Line
+	5400 9300 6100 9300
+Wire Notes Line
+	5400 7900 5400 9300
+Wire Notes Line
+	4900 7900 4200 7900
+Wire Notes Line
+	4900 9300 4900 7900
+Wire Notes Line
+	4200 9300 4900 9300
+Wire Notes Line
+	4200 7900 4200 9300
+Wire Notes Line
+	3600 7900 2900 7900
+Wire Notes Line
+	3600 9300 3600 7900
+Wire Notes Line
+	2900 9300 3600 9300
+Wire Notes Line
+	2900 7900 2900 9300
+Wire Wire Line
+	3100 13200 10200 13200
+Wire Wire Line
+	10200 8900 10200 9500
+Connection ~ 7500 10600
+Wire Wire Line
+	7500 10600 9600 10600
+Connection ~ 10100 9600
+Wire Wire Line
+	10100 9600 10100 9800
+Connection ~ 10100 9800
+Wire Wire Line
+	10100 9800 10100 10000
+Connection ~ 10100 10000
+Wire Wire Line
+	10100 10000 10100 10200
+Connection ~ 10100 10200
+Wire Wire Line
+	10100 10200 10100 10400
+Connection ~ 10100 10400
+Wire Wire Line
+	10100 10400 10100 12500
+Connection ~ 10100 12500
+Wire Wire Line
+	10100 12500 10100 12700
+Connection ~ 10100 12700
+Wire Wire Line
+	10100 12700 10100 12900
+Connection ~ 10100 12900
+Wire Wire Line
+	10100 12900 10100 13100
+Connection ~ 10100 13100
+Wire Wire Line
+	10100 13100 10100 13300
+Connection ~ 10200 9500
+Wire Wire Line
+	10200 9500 10200 9700
+Connection ~ 10200 9700
+Wire Wire Line
+	10200 9700 10200 9900
+Connection ~ 10200 9900
+Wire Wire Line
+	10200 9900 10200 10100
+Connection ~ 10200 10100
+Wire Wire Line
+	10200 10100 10200 10300
+Connection ~ 10200 10300
+Wire Wire Line
+	10200 10300 10200 12400
+Connection ~ 10200 12400
+Wire Wire Line
+	10200 12400 10200 12600
+Connection ~ 10200 12600
+Wire Wire Line
+	10200 12600 10200 12800
+Connection ~ 10200 12800
+Wire Wire Line
+	10200 12800 10200 13000
+Connection ~ 10200 13000
+Wire Wire Line
+	10200 13000 10200 13200
+Wire Wire Line
+	9700 13400 9700 10500
+Wire Wire Line
+	9600 10600 9600 13500
+Wire Wire Line
+	9500 13600 9500 10700
+Wire Wire Line
+	9400 11000 9400 13700
+Wire Wire Line
+	9300 13800 9300 11400
+Wire Wire Line
+	9200 11800 9200 13900
+Wire Wire Line
+	8800 11900 8800 15400
+Wire Wire Line
+	8700 15300 8700 11500
+Wire Wire Line
+	8600 11100 8600 15200
+Wire Wire Line
+	7200 14900 7200 11100
+Wire Wire Line
+	7100 11500 7100 15000
+Wire Wire Line
+	7000 15100 7000 11900
+Wire Wire Line
+	8500 4200 8500 4300
+Wire Wire Line
+	8500 4300 10200 4300
+Wire Wire Line
+	10200 4300 10200 4500
+Wire Wire Line
+	8400 4200 8400 4400
+Wire Wire Line
+	8400 4400 10100 4400
+Wire Wire Line
+	10100 4400 10100 4600
+Wire Wire Line
+	10200 4500 7300 4500
+Wire Wire Line
+	7300 4500 7300 4200
+Connection ~ 10200 4500
+Wire Wire Line
+	10200 4500 10200 4700
+Wire Wire Line
+	7200 4200 7200 4600
+Wire Wire Line
+	7200 4600 10100 4600
+Connection ~ 10100 4600
+Wire Wire Line
+	10100 4600 10100 4800
+Wire Wire Line
+	10200 4700 6200 4700
+Wire Wire Line
+	6200 4700 6200 4200
+Connection ~ 10200 4700
+Wire Wire Line
+	10200 4700 10200 4900
+Wire Wire Line
+	6100 4200 6100 4800
+Wire Wire Line
+	6100 4800 10100 4800
+Connection ~ 10100 4800
+Wire Wire Line
+	10100 4800 10100 5000
+Wire Wire Line
+	10200 4900 5000 4900
+Wire Wire Line
+	5000 4900 5000 4200
+Connection ~ 10200 4900
+Wire Wire Line
+	10200 4900 10200 5100
+Wire Wire Line
+	4900 4200 4900 5000
+Wire Wire Line
+	4900 5000 10100 5000
+Connection ~ 10100 5000
+Wire Wire Line
+	10100 5000 10100 5200
+Wire Wire Line
+	10200 5100 3300 5100
+Wire Wire Line
+	3300 5100 3300 4200
+Connection ~ 10200 5100
+Wire Wire Line
+	3200 4200 3200 5200
+Wire Wire Line
+	3200 5200 10100 5200
+Connection ~ 10100 5200
+Wire Wire Line
+	4000 2500 4000 3700
+Wire Wire Line
+	4300 3800 4300 1300
+Wire Wire Line
+	4200 1200 4200 3400
+Wire Wire Line
+	4100 3000 4100 1100
+Wire Wire Line
+	3900 2400 3900 3300
+Wire Wire Line
+	3800 2900 3800 2300
+Wire Wire Line
+	2400 2000 2400 2900
+Wire Wire Line
+	2200 2100 2200 3300
+Wire Wire Line
+	2100 2200 2100 3700
+Wire Wire Line
+	1400 3000 1400 800 
+Wire Wire Line
+	1300 900  1300 3400
+Wire Wire Line
+	1200 3800 1200 1000
+Wire Wire Line
+	10200 5100 10200 6900
+Wire Wire Line
+	3200 6800 3200 7800
+Wire Wire Line
+	3200 7800 10100 7800
+Wire Wire Line
+	10100 7600 4500 7600
+Wire Wire Line
+	4500 7600 4500 6800
+Wire Wire Line
+	5700 6800 5700 7400
+Wire Wire Line
+	5700 7400 10100 7400
+Connection ~ 10100 7400
+Wire Wire Line
+	10100 7400 10100 7600
+Wire Wire Line
+	10100 7200 7000 7200
+Wire Wire Line
+	7000 7200 7000 6800
+Connection ~ 10100 7200
+Wire Wire Line
+	8200 6800 8200 7000
+Wire Wire Line
+	8200 7000 10100 7000
+Connection ~ 10100 7000
+Wire Wire Line
+	10100 7000 10100 7200
+Wire Wire Line
+	10100 5200 10100 7000
+Wire Wire Line
+	8300 6800 8300 6900
+Wire Wire Line
+	8300 6900 10200 6900
+Connection ~ 10200 6900
+Wire Wire Line
+	10200 6900 10200 7100
+Wire Wire Line
+	10200 7100 7100 7100
+Wire Wire Line
+	7100 7100 7100 6800
+Connection ~ 10200 7100
+Wire Wire Line
+	10200 7100 10200 7300
+Wire Wire Line
+	10100 7200 10100 7400
+Wire Wire Line
+	10200 7300 5800 7300
+Wire Wire Line
+	5800 7300 5800 6800
+Connection ~ 10200 7300
+Wire Wire Line
+	10200 7300 10200 7500
+Wire Wire Line
+	4600 6800 4600 7500
+Wire Wire Line
+	4600 7500 10200 7500
+Connection ~ 10200 7500
+Wire Wire Line
+	10200 7500 10200 7700
+Wire Wire Line
+	10100 8700 10100 9600
+Wire Wire Line
+	10100 7600 10100 7800
+Connection ~ 10100 7600
+Wire Wire Line
+	10100 7800 10100 8700
+Connection ~ 10100 7800
+Connection ~ 10100 8700
+Wire Wire Line
+	3300 6800 3300 7700
+Wire Wire Line
+	3300 7700 10200 7700
+Connection ~ 10200 7700
+Wire Wire Line
+	10200 7700 10200 8900
+Wire Notes Line
+	15100 14700 9900 14700
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E85A1AB
+P 4700 2900
+F 0 "J?" H 4780 2846 50  0001 L CNN
+F 1 "Conn_01x02" H 4780 2801 50  0001 L CNN
+F 2 "" H 4700 2900 50  0001 C CNN
+F 3 "~" H 4700 2900 50  0001 C CNN
+	1    4700 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E85A1B1
+P 4700 3300
+F 0 "J?" H 4780 3246 50  0001 L CNN
+F 1 "Conn_01x02" H 4780 3201 50  0001 L CNN
+F 2 "" H 4700 3300 50  0001 C CNN
+F 3 "~" H 4700 3300 50  0001 C CNN
+	1    4700 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E85A1B7
+P 4700 3700
+F 0 "J?" H 4780 3646 50  0001 L CNN
+F 1 "Conn_01x02" H 4780 3601 50  0001 L CNN
+F 2 "" H 4700 3700 50  0001 C CNN
+F 3 "~" H 4700 3700 50  0001 C CNN
+	1    4700 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E85A1BD
+P 5200 2900
+F 0 "J?" H 5280 2846 50  0001 L CNN
+F 1 "Conn_01x02" H 5280 2801 50  0001 L CNN
+F 2 "" H 5200 2900 50  0001 C CNN
+F 3 "~" H 5200 2900 50  0001 C CNN
+	1    5200 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E85A1C3
+P 5200 3300
+F 0 "J?" H 5280 3246 50  0001 L CNN
+F 1 "Conn_01x02" H 5280 3201 50  0001 L CNN
+F 2 "" H 5200 3300 50  0001 C CNN
+F 3 "~" H 5200 3300 50  0001 C CNN
+	1    5200 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E85A1C9
+P 5200 3700
+F 0 "J?" H 5280 3646 50  0001 L CNN
+F 1 "Conn_01x02" H 5280 3601 50  0001 L CNN
+F 2 "" H 5200 3700 50  0001 C CNN
+F 3 "~" H 5200 3700 50  0001 C CNN
+	1    5200 3700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E85A1CF
+P 5000 4000
+F 0 "J?" V 4918 4080 50  0001 L CNN
+F 1 "Conn_01x02" H 5080 3901 50  0001 L CNN
+F 2 "" H 5000 4000 50  0001 C CNN
+F 3 "~" H 5000 4000 50  0001 C CNN
+	1    5000 4000
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8771FB
+P 5900 2900
+F 0 "J?" H 5980 2846 50  0001 L CNN
+F 1 "Conn_01x02" H 5980 2801 50  0001 L CNN
+F 2 "" H 5900 2900 50  0001 C CNN
+F 3 "~" H 5900 2900 50  0001 C CNN
+	1    5900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E877201
+P 5900 3300
+F 0 "J?" H 5980 3246 50  0001 L CNN
+F 1 "Conn_01x02" H 5980 3201 50  0001 L CNN
+F 2 "" H 5900 3300 50  0001 C CNN
+F 3 "~" H 5900 3300 50  0001 C CNN
+	1    5900 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E877207
+P 5900 3700
+F 0 "J?" H 5980 3646 50  0001 L CNN
+F 1 "Conn_01x02" H 5980 3601 50  0001 L CNN
+F 2 "" H 5900 3700 50  0001 C CNN
+F 3 "~" H 5900 3700 50  0001 C CNN
+	1    5900 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E87720D
+P 6400 2900
+F 0 "J?" H 6480 2846 50  0001 L CNN
+F 1 "Conn_01x02" H 6480 2801 50  0001 L CNN
+F 2 "" H 6400 2900 50  0001 C CNN
+F 3 "~" H 6400 2900 50  0001 C CNN
+	1    6400 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E877213
+P 6400 3300
+F 0 "J?" H 6480 3246 50  0001 L CNN
+F 1 "Conn_01x02" H 6480 3201 50  0001 L CNN
+F 2 "" H 6400 3300 50  0001 C CNN
+F 3 "~" H 6400 3300 50  0001 C CNN
+	1    6400 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E877219
+P 6400 3700
+F 0 "J?" H 6480 3646 50  0001 L CNN
+F 1 "Conn_01x02" H 6480 3601 50  0001 L CNN
+F 2 "" H 6400 3700 50  0001 C CNN
+F 3 "~" H 6400 3700 50  0001 C CNN
+	1    6400 3700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E87721F
+P 6200 4000
+F 0 "J?" V 6118 4080 50  0001 L CNN
+F 1 "Conn_01x02" H 6280 3901 50  0001 L CNN
+F 2 "" H 6200 4000 50  0001 C CNN
+F 3 "~" H 6200 4000 50  0001 C CNN
+	1    6200 4000
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8949B9
+P 7000 2900
+F 0 "J?" H 7080 2846 50  0001 L CNN
+F 1 "Conn_01x02" H 7080 2801 50  0001 L CNN
+F 2 "" H 7000 2900 50  0001 C CNN
+F 3 "~" H 7000 2900 50  0001 C CNN
+	1    7000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8949BF
+P 7000 3300
+F 0 "J?" H 7080 3246 50  0001 L CNN
+F 1 "Conn_01x02" H 7080 3201 50  0001 L CNN
+F 2 "" H 7000 3300 50  0001 C CNN
+F 3 "~" H 7000 3300 50  0001 C CNN
+	1    7000 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8949C5
+P 7000 3700
+F 0 "J?" H 7080 3646 50  0001 L CNN
+F 1 "Conn_01x02" H 7080 3601 50  0001 L CNN
+F 2 "" H 7000 3700 50  0001 C CNN
+F 3 "~" H 7000 3700 50  0001 C CNN
+	1    7000 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8949CB
+P 7500 2900
+F 0 "J?" H 7580 2846 50  0001 L CNN
+F 1 "Conn_01x02" H 7580 2801 50  0001 L CNN
+F 2 "" H 7500 2900 50  0001 C CNN
+F 3 "~" H 7500 2900 50  0001 C CNN
+	1    7500 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8949D1
+P 7500 3300
+F 0 "J?" H 7580 3246 50  0001 L CNN
+F 1 "Conn_01x02" H 7580 3201 50  0001 L CNN
+F 2 "" H 7500 3300 50  0001 C CNN
+F 3 "~" H 7500 3300 50  0001 C CNN
+	1    7500 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8949D7
+P 7500 3700
+F 0 "J?" H 7580 3646 50  0001 L CNN
+F 1 "Conn_01x02" H 7580 3601 50  0001 L CNN
+F 2 "" H 7500 3700 50  0001 C CNN
+F 3 "~" H 7500 3700 50  0001 C CNN
+	1    7500 3700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8949DD
+P 7300 4000
+F 0 "J?" V 7218 4080 50  0001 L CNN
+F 1 "Conn_01x02" H 7380 3901 50  0001 L CNN
+F 2 "" H 7300 4000 50  0001 C CNN
+F 3 "~" H 7300 4000 50  0001 C CNN
+	1    7300 4000
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8B1EB1
+P 8200 2900
+F 0 "J?" H 8280 2846 50  0001 L CNN
+F 1 "Conn_01x02" H 8280 2801 50  0001 L CNN
+F 2 "" H 8200 2900 50  0001 C CNN
+F 3 "~" H 8200 2900 50  0001 C CNN
+	1    8200 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8B1EB7
+P 8200 3300
+F 0 "J?" H 8280 3246 50  0001 L CNN
+F 1 "Conn_01x02" H 8280 3201 50  0001 L CNN
+F 2 "" H 8200 3300 50  0001 C CNN
+F 3 "~" H 8200 3300 50  0001 C CNN
+	1    8200 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8B1EBD
+P 8200 3700
+F 0 "J?" H 8280 3646 50  0001 L CNN
+F 1 "Conn_01x02" H 8280 3601 50  0001 L CNN
+F 2 "" H 8200 3700 50  0001 C CNN
+F 3 "~" H 8200 3700 50  0001 C CNN
+	1    8200 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8B1EC3
+P 8700 2900
+F 0 "J?" H 8780 2846 50  0001 L CNN
+F 1 "Conn_01x02" H 8780 2801 50  0001 L CNN
+F 2 "" H 8700 2900 50  0001 C CNN
+F 3 "~" H 8700 2900 50  0001 C CNN
+	1    8700 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8B1EC9
+P 8700 3300
+F 0 "J?" H 8780 3246 50  0001 L CNN
+F 1 "Conn_01x02" H 8780 3201 50  0001 L CNN
+F 2 "" H 8700 3300 50  0001 C CNN
+F 3 "~" H 8700 3300 50  0001 C CNN
+	1    8700 3300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8B1ECF
+P 8700 3700
+F 0 "J?" H 8780 3646 50  0001 L CNN
+F 1 "Conn_01x02" H 8780 3601 50  0001 L CNN
+F 2 "" H 8700 3700 50  0001 C CNN
+F 3 "~" H 8700 3700 50  0001 C CNN
+	1    8700 3700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8B1ED5
+P 8500 4000
+F 0 "J?" V 8418 4080 50  0001 L CNN
+F 1 "Conn_01x02" H 8580 3901 50  0001 L CNN
+F 2 "" H 8500 4000 50  0001 C CNN
+F 3 "~" H 8500 4000 50  0001 C CNN
+	1    8500 4000
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8CF132
+P 3000 5500
+F 0 "J?" H 3080 5446 50  0001 L CNN
+F 1 "Conn_01x02" H 3080 5401 50  0001 L CNN
+F 2 "" H 3000 5500 50  0001 C CNN
+F 3 "~" H 3000 5500 50  0001 C CNN
+	1    3000 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8CF138
+P 3000 5900
+F 0 "J?" H 3080 5846 50  0001 L CNN
+F 1 "Conn_01x02" H 3080 5801 50  0001 L CNN
+F 2 "" H 3000 5900 50  0001 C CNN
+F 3 "~" H 3000 5900 50  0001 C CNN
+	1    3000 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8CF13E
+P 3000 6300
+F 0 "J?" H 3080 6246 50  0001 L CNN
+F 1 "Conn_01x02" H 3080 6201 50  0001 L CNN
+F 2 "" H 3000 6300 50  0001 C CNN
+F 3 "~" H 3000 6300 50  0001 C CNN
+	1    3000 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8CF144
+P 3500 5500
+F 0 "J?" H 3580 5446 50  0001 L CNN
+F 1 "Conn_01x02" H 3580 5401 50  0001 L CNN
+F 2 "" H 3500 5500 50  0001 C CNN
+F 3 "~" H 3500 5500 50  0001 C CNN
+	1    3500 5500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8CF14A
+P 3500 5900
+F 0 "J?" H 3580 5846 50  0001 L CNN
+F 1 "Conn_01x02" H 3580 5801 50  0001 L CNN
+F 2 "" H 3500 5900 50  0001 C CNN
+F 3 "~" H 3500 5900 50  0001 C CNN
+	1    3500 5900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8CF150
+P 3500 6300
+F 0 "J?" H 3580 6246 50  0001 L CNN
+F 1 "Conn_01x02" H 3580 6201 50  0001 L CNN
+F 2 "" H 3500 6300 50  0001 C CNN
+F 3 "~" H 3500 6300 50  0001 C CNN
+	1    3500 6300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8CF156
+P 3300 6600
+F 0 "J?" V 3218 6680 50  0001 L CNN
+F 1 "Conn_01x02" H 3380 6501 50  0001 L CNN
+F 2 "" H 3300 6600 50  0001 C CNN
+F 3 "~" H 3300 6600 50  0001 C CNN
+	1    3300 6600
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8EC1F4
+P 4300 5500
+F 0 "J?" H 4380 5446 50  0001 L CNN
+F 1 "Conn_01x02" H 4380 5401 50  0001 L CNN
+F 2 "" H 4300 5500 50  0001 C CNN
+F 3 "~" H 4300 5500 50  0001 C CNN
+	1    4300 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8EC1FA
+P 4300 5900
+F 0 "J?" H 4380 5846 50  0001 L CNN
+F 1 "Conn_01x02" H 4380 5801 50  0001 L CNN
+F 2 "" H 4300 5900 50  0001 C CNN
+F 3 "~" H 4300 5900 50  0001 C CNN
+	1    4300 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8EC200
+P 4300 6300
+F 0 "J?" H 4380 6246 50  0001 L CNN
+F 1 "Conn_01x02" H 4380 6201 50  0001 L CNN
+F 2 "" H 4300 6300 50  0001 C CNN
+F 3 "~" H 4300 6300 50  0001 C CNN
+	1    4300 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8EC206
+P 4800 5500
+F 0 "J?" H 4880 5446 50  0001 L CNN
+F 1 "Conn_01x02" H 4880 5401 50  0001 L CNN
+F 2 "" H 4800 5500 50  0001 C CNN
+F 3 "~" H 4800 5500 50  0001 C CNN
+	1    4800 5500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8EC20C
+P 4800 5900
+F 0 "J?" H 4880 5846 50  0001 L CNN
+F 1 "Conn_01x02" H 4880 5801 50  0001 L CNN
+F 2 "" H 4800 5900 50  0001 C CNN
+F 3 "~" H 4800 5900 50  0001 C CNN
+	1    4800 5900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8EC212
+P 4800 6300
+F 0 "J?" H 4880 6246 50  0001 L CNN
+F 1 "Conn_01x02" H 4880 6201 50  0001 L CNN
+F 2 "" H 4800 6300 50  0001 C CNN
+F 3 "~" H 4800 6300 50  0001 C CNN
+	1    4800 6300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E8EC218
+P 4600 6600
+F 0 "J?" V 4518 6680 50  0001 L CNN
+F 1 "Conn_01x02" H 4680 6501 50  0001 L CNN
+F 2 "" H 4600 6600 50  0001 C CNN
+F 3 "~" H 4600 6600 50  0001 C CNN
+	1    4600 6600
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E90959F
+P 5500 5500
+F 0 "J?" H 5580 5446 50  0001 L CNN
+F 1 "Conn_01x02" H 5580 5401 50  0001 L CNN
+F 2 "" H 5500 5500 50  0001 C CNN
+F 3 "~" H 5500 5500 50  0001 C CNN
+	1    5500 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9095A5
+P 5500 5900
+F 0 "J?" H 5580 5846 50  0001 L CNN
+F 1 "Conn_01x02" H 5580 5801 50  0001 L CNN
+F 2 "" H 5500 5900 50  0001 C CNN
+F 3 "~" H 5500 5900 50  0001 C CNN
+	1    5500 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9095AB
+P 5500 6300
+F 0 "J?" H 5580 6246 50  0001 L CNN
+F 1 "Conn_01x02" H 5580 6201 50  0001 L CNN
+F 2 "" H 5500 6300 50  0001 C CNN
+F 3 "~" H 5500 6300 50  0001 C CNN
+	1    5500 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9095B1
+P 6000 5500
+F 0 "J?" H 6080 5446 50  0001 L CNN
+F 1 "Conn_01x02" H 6080 5401 50  0001 L CNN
+F 2 "" H 6000 5500 50  0001 C CNN
+F 3 "~" H 6000 5500 50  0001 C CNN
+	1    6000 5500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9095B7
+P 6000 5900
+F 0 "J?" H 6080 5846 50  0001 L CNN
+F 1 "Conn_01x02" H 6080 5801 50  0001 L CNN
+F 2 "" H 6000 5900 50  0001 C CNN
+F 3 "~" H 6000 5900 50  0001 C CNN
+	1    6000 5900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9095BD
+P 6000 6300
+F 0 "J?" H 6080 6246 50  0001 L CNN
+F 1 "Conn_01x02" H 6080 6201 50  0001 L CNN
+F 2 "" H 6000 6300 50  0001 C CNN
+F 3 "~" H 6000 6300 50  0001 C CNN
+	1    6000 6300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9095C3
+P 5800 6600
+F 0 "J?" V 5718 6680 50  0001 L CNN
+F 1 "Conn_01x02" H 5880 6501 50  0001 L CNN
+F 2 "" H 5800 6600 50  0001 C CNN
+F 3 "~" H 5800 6600 50  0001 C CNN
+	1    5800 6600
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E926FD4
+P 6800 5500
+F 0 "J?" H 6880 5446 50  0001 L CNN
+F 1 "Conn_01x02" H 6880 5401 50  0001 L CNN
+F 2 "" H 6800 5500 50  0001 C CNN
+F 3 "~" H 6800 5500 50  0001 C CNN
+	1    6800 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E926FDA
+P 6800 5900
+F 0 "J?" H 6880 5846 50  0001 L CNN
+F 1 "Conn_01x02" H 6880 5801 50  0001 L CNN
+F 2 "" H 6800 5900 50  0001 C CNN
+F 3 "~" H 6800 5900 50  0001 C CNN
+	1    6800 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E926FE0
+P 6800 6300
+F 0 "J?" H 6880 6246 50  0001 L CNN
+F 1 "Conn_01x02" H 6880 6201 50  0001 L CNN
+F 2 "" H 6800 6300 50  0001 C CNN
+F 3 "~" H 6800 6300 50  0001 C CNN
+	1    6800 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E926FE6
+P 7300 5500
+F 0 "J?" H 7380 5446 50  0001 L CNN
+F 1 "Conn_01x02" H 7380 5401 50  0001 L CNN
+F 2 "" H 7300 5500 50  0001 C CNN
+F 3 "~" H 7300 5500 50  0001 C CNN
+	1    7300 5500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E926FEC
+P 7300 5900
+F 0 "J?" H 7380 5846 50  0001 L CNN
+F 1 "Conn_01x02" H 7380 5801 50  0001 L CNN
+F 2 "" H 7300 5900 50  0001 C CNN
+F 3 "~" H 7300 5900 50  0001 C CNN
+	1    7300 5900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E926FF2
+P 7300 6300
+F 0 "J?" H 7380 6246 50  0001 L CNN
+F 1 "Conn_01x02" H 7380 6201 50  0001 L CNN
+F 2 "" H 7300 6300 50  0001 C CNN
+F 3 "~" H 7300 6300 50  0001 C CNN
+	1    7300 6300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E926FF8
+P 7100 6600
+F 0 "J?" V 7018 6680 50  0001 L CNN
+F 1 "Conn_01x02" H 7180 6501 50  0001 L CNN
+F 2 "" H 7100 6600 50  0001 C CNN
+F 3 "~" H 7100 6600 50  0001 C CNN
+	1    7100 6600
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E944278
+P 8000 5500
+F 0 "J?" H 8080 5446 50  0001 L CNN
+F 1 "Conn_01x02" H 8080 5401 50  0001 L CNN
+F 2 "" H 8000 5500 50  0001 C CNN
+F 3 "~" H 8000 5500 50  0001 C CNN
+	1    8000 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E94427E
+P 8000 5900
+F 0 "J?" H 8080 5846 50  0001 L CNN
+F 1 "Conn_01x02" H 8080 5801 50  0001 L CNN
+F 2 "" H 8000 5900 50  0001 C CNN
+F 3 "~" H 8000 5900 50  0001 C CNN
+	1    8000 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E944284
+P 8000 6300
+F 0 "J?" H 8080 6246 50  0001 L CNN
+F 1 "Conn_01x02" H 8080 6201 50  0001 L CNN
+F 2 "" H 8000 6300 50  0001 C CNN
+F 3 "~" H 8000 6300 50  0001 C CNN
+	1    8000 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E94428A
+P 8500 5500
+F 0 "J?" H 8580 5446 50  0001 L CNN
+F 1 "Conn_01x02" H 8580 5401 50  0001 L CNN
+F 2 "" H 8500 5500 50  0001 C CNN
+F 3 "~" H 8500 5500 50  0001 C CNN
+	1    8500 5500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E944290
+P 8500 5900
+F 0 "J?" H 8580 5846 50  0001 L CNN
+F 1 "Conn_01x02" H 8580 5801 50  0001 L CNN
+F 2 "" H 8500 5900 50  0001 C CNN
+F 3 "~" H 8500 5900 50  0001 C CNN
+	1    8500 5900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E944296
+P 8500 6300
+F 0 "J?" H 8580 6246 50  0001 L CNN
+F 1 "Conn_01x02" H 8580 6201 50  0001 L CNN
+F 2 "" H 8500 6300 50  0001 C CNN
+F 3 "~" H 8500 6300 50  0001 C CNN
+	1    8500 6300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E94429C
+P 8300 6600
+F 0 "J?" V 8218 6680 50  0001 L CNN
+F 1 "Conn_01x02" H 8380 6501 50  0001 L CNN
+F 2 "" H 8300 6600 50  0001 C CNN
+F 3 "~" H 8300 6600 50  0001 C CNN
+	1    8300 6600
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E962314
+P 8000 8100
+F 0 "J?" H 8080 8046 50  0001 L CNN
+F 1 "Conn_01x02" H 8080 8001 50  0001 L CNN
+F 2 "" H 8000 8100 50  0001 C CNN
+F 3 "~" H 8000 8100 50  0001 C CNN
+	1    8000 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E96231A
+P 8000 8500
+F 0 "J?" H 8080 8446 50  0001 L CNN
+F 1 "Conn_01x02" H 8080 8401 50  0001 L CNN
+F 2 "" H 8000 8500 50  0001 C CNN
+F 3 "~" H 8000 8500 50  0001 C CNN
+	1    8000 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E962320
+P 8000 8900
+F 0 "J?" H 8080 8846 50  0001 L CNN
+F 1 "Conn_01x02" H 8080 8801 50  0001 L CNN
+F 2 "" H 8000 8900 50  0001 C CNN
+F 3 "~" H 8000 8900 50  0001 C CNN
+	1    8000 8900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E962326
+P 8500 8100
+F 0 "J?" H 8580 8046 50  0001 L CNN
+F 1 "Conn_01x02" H 8580 8001 50  0001 L CNN
+F 2 "" H 8500 8100 50  0001 C CNN
+F 3 "~" H 8500 8100 50  0001 C CNN
+	1    8500 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E96232C
+P 8500 8500
+F 0 "J?" H 8580 8446 50  0001 L CNN
+F 1 "Conn_01x02" H 8580 8401 50  0001 L CNN
+F 2 "" H 8500 8500 50  0001 C CNN
+F 3 "~" H 8500 8500 50  0001 C CNN
+	1    8500 8500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E962332
+P 8500 8900
+F 0 "J?" H 8580 8846 50  0001 L CNN
+F 1 "Conn_01x02" H 8580 8801 50  0001 L CNN
+F 2 "" H 8500 8900 50  0001 C CNN
+F 3 "~" H 8500 8900 50  0001 C CNN
+	1    8500 8900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E962338
+P 8300 9200
+F 0 "J?" V 8218 9280 50  0001 L CNN
+F 1 "Conn_01x02" H 8380 9101 50  0001 L CNN
+F 2 "" H 8300 9200 50  0001 C CNN
+F 3 "~" H 8300 9200 50  0001 C CNN
+	1    8300 9200
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E97F8A1
+P 6800 8100
+F 0 "J?" H 6880 8046 50  0001 L CNN
+F 1 "Conn_01x02" H 6880 8001 50  0001 L CNN
+F 2 "" H 6800 8100 50  0001 C CNN
+F 3 "~" H 6800 8100 50  0001 C CNN
+	1    6800 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E97F8A7
+P 6800 8500
+F 0 "J?" H 6880 8446 50  0001 L CNN
+F 1 "Conn_01x02" H 6880 8401 50  0001 L CNN
+F 2 "" H 6800 8500 50  0001 C CNN
+F 3 "~" H 6800 8500 50  0001 C CNN
+	1    6800 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E97F8AD
+P 6800 8900
+F 0 "J?" H 6880 8846 50  0001 L CNN
+F 1 "Conn_01x02" H 6880 8801 50  0001 L CNN
+F 2 "" H 6800 8900 50  0001 C CNN
+F 3 "~" H 6800 8900 50  0001 C CNN
+	1    6800 8900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E97F8B3
+P 7300 8100
+F 0 "J?" H 7380 8046 50  0001 L CNN
+F 1 "Conn_01x02" H 7380 8001 50  0001 L CNN
+F 2 "" H 7300 8100 50  0001 C CNN
+F 3 "~" H 7300 8100 50  0001 C CNN
+	1    7300 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E97F8B9
+P 7300 8500
+F 0 "J?" H 7380 8446 50  0001 L CNN
+F 1 "Conn_01x02" H 7380 8401 50  0001 L CNN
+F 2 "" H 7300 8500 50  0001 C CNN
+F 3 "~" H 7300 8500 50  0001 C CNN
+	1    7300 8500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E97F8BF
+P 7300 8900
+F 0 "J?" H 7380 8846 50  0001 L CNN
+F 1 "Conn_01x02" H 7380 8801 50  0001 L CNN
+F 2 "" H 7300 8900 50  0001 C CNN
+F 3 "~" H 7300 8900 50  0001 C CNN
+	1    7300 8900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E97F8C5
+P 7100 9200
+F 0 "J?" V 7018 9280 50  0001 L CNN
+F 1 "Conn_01x02" H 7180 9101 50  0001 L CNN
+F 2 "" H 7100 9200 50  0001 C CNN
+F 3 "~" H 7100 9200 50  0001 C CNN
+	1    7100 9200
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E99CD99
+P 5500 8100
+F 0 "J?" H 5580 8046 50  0001 L CNN
+F 1 "Conn_01x02" H 5580 8001 50  0001 L CNN
+F 2 "" H 5500 8100 50  0001 C CNN
+F 3 "~" H 5500 8100 50  0001 C CNN
+	1    5500 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E99CD9F
+P 5500 8500
+F 0 "J?" H 5580 8446 50  0001 L CNN
+F 1 "Conn_01x02" H 5580 8401 50  0001 L CNN
+F 2 "" H 5500 8500 50  0001 C CNN
+F 3 "~" H 5500 8500 50  0001 C CNN
+	1    5500 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E99CDA5
+P 5500 8900
+F 0 "J?" H 5580 8846 50  0001 L CNN
+F 1 "Conn_01x02" H 5580 8801 50  0001 L CNN
+F 2 "" H 5500 8900 50  0001 C CNN
+F 3 "~" H 5500 8900 50  0001 C CNN
+	1    5500 8900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E99CDAB
+P 6000 8100
+F 0 "J?" H 6080 8046 50  0001 L CNN
+F 1 "Conn_01x02" H 6080 8001 50  0001 L CNN
+F 2 "" H 6000 8100 50  0001 C CNN
+F 3 "~" H 6000 8100 50  0001 C CNN
+	1    6000 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E99CDB1
+P 6000 8500
+F 0 "J?" H 6080 8446 50  0001 L CNN
+F 1 "Conn_01x02" H 6080 8401 50  0001 L CNN
+F 2 "" H 6000 8500 50  0001 C CNN
+F 3 "~" H 6000 8500 50  0001 C CNN
+	1    6000 8500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E99CDB7
+P 6000 8900
+F 0 "J?" H 6080 8846 50  0001 L CNN
+F 1 "Conn_01x02" H 6080 8801 50  0001 L CNN
+F 2 "" H 6000 8900 50  0001 C CNN
+F 3 "~" H 6000 8900 50  0001 C CNN
+	1    6000 8900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E99CDBD
+P 5800 9200
+F 0 "J?" V 5718 9280 50  0001 L CNN
+F 1 "Conn_01x02" H 5880 9101 50  0001 L CNN
+F 2 "" H 5800 9200 50  0001 C CNN
+F 3 "~" H 5800 9200 50  0001 C CNN
+	1    5800 9200
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9BA1D9
+P 4300 8100
+F 0 "J?" H 4380 8046 50  0001 L CNN
+F 1 "Conn_01x02" H 4380 8001 50  0001 L CNN
+F 2 "" H 4300 8100 50  0001 C CNN
+F 3 "~" H 4300 8100 50  0001 C CNN
+	1    4300 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9BA1DF
+P 4300 8500
+F 0 "J?" H 4380 8446 50  0001 L CNN
+F 1 "Conn_01x02" H 4380 8401 50  0001 L CNN
+F 2 "" H 4300 8500 50  0001 C CNN
+F 3 "~" H 4300 8500 50  0001 C CNN
+	1    4300 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9BA1E5
+P 4300 8900
+F 0 "J?" H 4380 8846 50  0001 L CNN
+F 1 "Conn_01x02" H 4380 8801 50  0001 L CNN
+F 2 "" H 4300 8900 50  0001 C CNN
+F 3 "~" H 4300 8900 50  0001 C CNN
+	1    4300 8900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9BA1EB
+P 4800 8100
+F 0 "J?" H 4880 8046 50  0001 L CNN
+F 1 "Conn_01x02" H 4880 8001 50  0001 L CNN
+F 2 "" H 4800 8100 50  0001 C CNN
+F 3 "~" H 4800 8100 50  0001 C CNN
+	1    4800 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9BA1F1
+P 4800 8500
+F 0 "J?" H 4880 8446 50  0001 L CNN
+F 1 "Conn_01x02" H 4880 8401 50  0001 L CNN
+F 2 "" H 4800 8500 50  0001 C CNN
+F 3 "~" H 4800 8500 50  0001 C CNN
+	1    4800 8500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9BA1F7
+P 4800 8900
+F 0 "J?" H 4880 8846 50  0001 L CNN
+F 1 "Conn_01x02" H 4880 8801 50  0001 L CNN
+F 2 "" H 4800 8900 50  0001 C CNN
+F 3 "~" H 4800 8900 50  0001 C CNN
+	1    4800 8900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9BA1FD
+P 4600 9200
+F 0 "J?" V 4518 9280 50  0001 L CNN
+F 1 "Conn_01x02" H 4680 9101 50  0001 L CNN
+F 2 "" H 4600 9200 50  0001 C CNN
+F 3 "~" H 4600 9200 50  0001 C CNN
+	1    4600 9200
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9D6EAB
+P 3000 8100
+F 0 "J?" H 3080 8046 50  0001 L CNN
+F 1 "Conn_01x02" H 3080 8001 50  0001 L CNN
+F 2 "" H 3000 8100 50  0001 C CNN
+F 3 "~" H 3000 8100 50  0001 C CNN
+	1    3000 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9D6EB1
+P 3000 8500
+F 0 "J?" H 3080 8446 50  0001 L CNN
+F 1 "Conn_01x02" H 3080 8401 50  0001 L CNN
+F 2 "" H 3000 8500 50  0001 C CNN
+F 3 "~" H 3000 8500 50  0001 C CNN
+	1    3000 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9D6EB7
+P 3000 8900
+F 0 "J?" H 3080 8846 50  0001 L CNN
+F 1 "Conn_01x02" H 3080 8801 50  0001 L CNN
+F 2 "" H 3000 8900 50  0001 C CNN
+F 3 "~" H 3000 8900 50  0001 C CNN
+	1    3000 8900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9D6EBD
+P 3500 8100
+F 0 "J?" H 3580 8046 50  0001 L CNN
+F 1 "Conn_01x02" H 3580 8001 50  0001 L CNN
+F 2 "" H 3500 8100 50  0001 C CNN
+F 3 "~" H 3500 8100 50  0001 C CNN
+	1    3500 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9D6EC3
+P 3500 8500
+F 0 "J?" H 3580 8446 50  0001 L CNN
+F 1 "Conn_01x02" H 3580 8401 50  0001 L CNN
+F 2 "" H 3500 8500 50  0001 C CNN
+F 3 "~" H 3500 8500 50  0001 C CNN
+	1    3500 8500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9D6EC9
+P 3500 8900
+F 0 "J?" H 3580 8846 50  0001 L CNN
+F 1 "Conn_01x02" H 3580 8801 50  0001 L CNN
+F 2 "" H 3500 8900 50  0001 C CNN
+F 3 "~" H 3500 8900 50  0001 C CNN
+	1    3500 8900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9D6ECF
+P 3300 9200
+F 0 "J?" V 3218 9280 50  0001 L CNN
+F 1 "Conn_01x02" H 3380 9101 50  0001 L CNN
+F 2 "" H 3300 9200 50  0001 C CNN
+F 3 "~" H 3300 9200 50  0001 C CNN
+	1    3300 9200
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9F46FE
+P 2800 11000
+F 0 "J?" H 2880 10946 50  0001 L CNN
+F 1 "Conn_01x02" H 2880 10901 50  0001 L CNN
+F 2 "" H 2800 11000 50  0001 C CNN
+F 3 "~" H 2800 11000 50  0001 C CNN
+	1    2800 11000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9F4704
+P 2800 11400
+F 0 "J?" H 2880 11346 50  0001 L CNN
+F 1 "Conn_01x02" H 2880 11301 50  0001 L CNN
+F 2 "" H 2800 11400 50  0001 C CNN
+F 3 "~" H 2800 11400 50  0001 C CNN
+	1    2800 11400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9F470A
+P 2800 11800
+F 0 "J?" H 2880 11746 50  0001 L CNN
+F 1 "Conn_01x02" H 2880 11701 50  0001 L CNN
+F 2 "" H 2800 11800 50  0001 C CNN
+F 3 "~" H 2800 11800 50  0001 C CNN
+	1    2800 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9F4710
+P 3300 11000
+F 0 "J?" H 3380 10946 50  0001 L CNN
+F 1 "Conn_01x02" H 3380 10901 50  0001 L CNN
+F 2 "" H 3300 11000 50  0001 C CNN
+F 3 "~" H 3300 11000 50  0001 C CNN
+	1    3300 11000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9F4716
+P 3300 11400
+F 0 "J?" H 3380 11346 50  0001 L CNN
+F 1 "Conn_01x02" H 3380 11301 50  0001 L CNN
+F 2 "" H 3300 11400 50  0001 C CNN
+F 3 "~" H 3300 11400 50  0001 C CNN
+	1    3300 11400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9F471C
+P 3300 11800
+F 0 "J?" H 3380 11746 50  0001 L CNN
+F 1 "Conn_01x02" H 3380 11701 50  0001 L CNN
+F 2 "" H 3300 11800 50  0001 C CNN
+F 3 "~" H 3300 11800 50  0001 C CNN
+	1    3300 11800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E9F4722
+P 3100 12100
+F 0 "J?" V 3018 12180 50  0001 L CNN
+F 1 "Conn_01x02" H 3180 12001 50  0001 L CNN
+F 2 "" H 3100 12100 50  0001 C CNN
+F 3 "~" H 3100 12100 50  0001 C CNN
+	1    3100 12100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA1197F
+P 3900 11000
+F 0 "J?" H 3980 10946 50  0001 L CNN
+F 1 "Conn_01x02" H 3980 10901 50  0001 L CNN
+F 2 "" H 3900 11000 50  0001 C CNN
+F 3 "~" H 3900 11000 50  0001 C CNN
+	1    3900 11000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA11985
+P 3900 11400
+F 0 "J?" H 3980 11346 50  0001 L CNN
+F 1 "Conn_01x02" H 3980 11301 50  0001 L CNN
+F 2 "" H 3900 11400 50  0001 C CNN
+F 3 "~" H 3900 11400 50  0001 C CNN
+	1    3900 11400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA1198B
+P 3900 11800
+F 0 "J?" H 3980 11746 50  0001 L CNN
+F 1 "Conn_01x02" H 3980 11701 50  0001 L CNN
+F 2 "" H 3900 11800 50  0001 C CNN
+F 3 "~" H 3900 11800 50  0001 C CNN
+	1    3900 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA11991
+P 4400 11000
+F 0 "J?" H 4480 10946 50  0001 L CNN
+F 1 "Conn_01x02" H 4480 10901 50  0001 L CNN
+F 2 "" H 4400 11000 50  0001 C CNN
+F 3 "~" H 4400 11000 50  0001 C CNN
+	1    4400 11000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA11997
+P 4400 11400
+F 0 "J?" H 4480 11346 50  0001 L CNN
+F 1 "Conn_01x02" H 4480 11301 50  0001 L CNN
+F 2 "" H 4400 11400 50  0001 C CNN
+F 3 "~" H 4400 11400 50  0001 C CNN
+	1    4400 11400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA1199D
+P 4400 11800
+F 0 "J?" H 4480 11746 50  0001 L CNN
+F 1 "Conn_01x02" H 4480 11701 50  0001 L CNN
+F 2 "" H 4400 11800 50  0001 C CNN
+F 3 "~" H 4400 11800 50  0001 C CNN
+	1    4400 11800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA119A3
+P 4200 12100
+F 0 "J?" V 4118 12180 50  0001 L CNN
+F 1 "Conn_01x02" H 4280 12001 50  0001 L CNN
+F 2 "" H 4200 12100 50  0001 C CNN
+F 3 "~" H 4200 12100 50  0001 C CNN
+	1    4200 12100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA2F3B4
+P 5000 11000
+F 0 "J?" H 5080 10946 50  0001 L CNN
+F 1 "Conn_01x02" H 5080 10901 50  0001 L CNN
+F 2 "" H 5000 11000 50  0001 C CNN
+F 3 "~" H 5000 11000 50  0001 C CNN
+	1    5000 11000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA2F3BA
+P 5000 11400
+F 0 "J?" H 5080 11346 50  0001 L CNN
+F 1 "Conn_01x02" H 5080 11301 50  0001 L CNN
+F 2 "" H 5000 11400 50  0001 C CNN
+F 3 "~" H 5000 11400 50  0001 C CNN
+	1    5000 11400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA2F3C0
+P 5000 11800
+F 0 "J?" H 5080 11746 50  0001 L CNN
+F 1 "Conn_01x02" H 5080 11701 50  0001 L CNN
+F 2 "" H 5000 11800 50  0001 C CNN
+F 3 "~" H 5000 11800 50  0001 C CNN
+	1    5000 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA2F3C6
+P 5500 11000
+F 0 "J?" H 5580 10946 50  0001 L CNN
+F 1 "Conn_01x02" H 5580 10901 50  0001 L CNN
+F 2 "" H 5500 11000 50  0001 C CNN
+F 3 "~" H 5500 11000 50  0001 C CNN
+	1    5500 11000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA2F3CC
+P 5500 11400
+F 0 "J?" H 5580 11346 50  0001 L CNN
+F 1 "Conn_01x02" H 5580 11301 50  0001 L CNN
+F 2 "" H 5500 11400 50  0001 C CNN
+F 3 "~" H 5500 11400 50  0001 C CNN
+	1    5500 11400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA2F3D2
+P 5500 11800
+F 0 "J?" H 5580 11746 50  0001 L CNN
+F 1 "Conn_01x02" H 5580 11701 50  0001 L CNN
+F 2 "" H 5500 11800 50  0001 C CNN
+F 3 "~" H 5500 11800 50  0001 C CNN
+	1    5500 11800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA2F3D8
+P 5300 12100
+F 0 "J?" V 5218 12180 50  0001 L CNN
+F 1 "Conn_01x02" H 5380 12001 50  0001 L CNN
+F 2 "" H 5300 12100 50  0001 C CNN
+F 3 "~" H 5300 12100 50  0001 C CNN
+	1    5300 12100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA4C889
+P 6200 11000
+F 0 "J?" H 6280 10946 50  0001 L CNN
+F 1 "Conn_01x02" H 6280 10901 50  0001 L CNN
+F 2 "" H 6200 11000 50  0001 C CNN
+F 3 "~" H 6200 11000 50  0001 C CNN
+	1    6200 11000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA4C88F
+P 6200 11400
+F 0 "J?" H 6280 11346 50  0001 L CNN
+F 1 "Conn_01x02" H 6280 11301 50  0001 L CNN
+F 2 "" H 6200 11400 50  0001 C CNN
+F 3 "~" H 6200 11400 50  0001 C CNN
+	1    6200 11400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA4C895
+P 6200 11800
+F 0 "J?" H 6280 11746 50  0001 L CNN
+F 1 "Conn_01x02" H 6280 11701 50  0001 L CNN
+F 2 "" H 6200 11800 50  0001 C CNN
+F 3 "~" H 6200 11800 50  0001 C CNN
+	1    6200 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA4C89B
+P 6700 11000
+F 0 "J?" H 6780 10946 50  0001 L CNN
+F 1 "Conn_01x02" H 6780 10901 50  0001 L CNN
+F 2 "" H 6700 11000 50  0001 C CNN
+F 3 "~" H 6700 11000 50  0001 C CNN
+	1    6700 11000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA4C8A1
+P 6700 11400
+F 0 "J?" H 6780 11346 50  0001 L CNN
+F 1 "Conn_01x02" H 6780 11301 50  0001 L CNN
+F 2 "" H 6700 11400 50  0001 C CNN
+F 3 "~" H 6700 11400 50  0001 C CNN
+	1    6700 11400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA4C8A7
+P 6700 11800
+F 0 "J?" H 6780 11746 50  0001 L CNN
+F 1 "Conn_01x02" H 6780 11701 50  0001 L CNN
+F 2 "" H 6700 11800 50  0001 C CNN
+F 3 "~" H 6700 11800 50  0001 C CNN
+	1    6700 11800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA4C8AD
+P 6500 12100
+F 0 "J?" V 6418 12180 50  0001 L CNN
+F 1 "Conn_01x02" H 6580 12001 50  0001 L CNN
+F 2 "" H 6500 12100 50  0001 C CNN
+F 3 "~" H 6500 12100 50  0001 C CNN
+	1    6500 12100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA69EAB
+P 7800 11000
+F 0 "J?" H 7880 10946 50  0001 L CNN
+F 1 "Conn_01x02" H 7880 10901 50  0001 L CNN
+F 2 "" H 7800 11000 50  0001 C CNN
+F 3 "~" H 7800 11000 50  0001 C CNN
+	1    7800 11000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA69EB1
+P 7800 11400
+F 0 "J?" H 7880 11346 50  0001 L CNN
+F 1 "Conn_01x02" H 7880 11301 50  0001 L CNN
+F 2 "" H 7800 11400 50  0001 C CNN
+F 3 "~" H 7800 11400 50  0001 C CNN
+	1    7800 11400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA69EB7
+P 7800 11800
+F 0 "J?" H 7880 11746 50  0001 L CNN
+F 1 "Conn_01x02" H 7880 11701 50  0001 L CNN
+F 2 "" H 7800 11800 50  0001 C CNN
+F 3 "~" H 7800 11800 50  0001 C CNN
+	1    7800 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA69EBD
+P 8300 11000
+F 0 "J?" H 8380 10946 50  0001 L CNN
+F 1 "Conn_01x02" H 8380 10901 50  0001 L CNN
+F 2 "" H 8300 11000 50  0001 C CNN
+F 3 "~" H 8300 11000 50  0001 C CNN
+	1    8300 11000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA69EC3
+P 8300 11400
+F 0 "J?" H 8380 11346 50  0001 L CNN
+F 1 "Conn_01x02" H 8380 11301 50  0001 L CNN
+F 2 "" H 8300 11400 50  0001 C CNN
+F 3 "~" H 8300 11400 50  0001 C CNN
+	1    8300 11400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA69EC9
+P 8300 11800
+F 0 "J?" H 8380 11746 50  0001 L CNN
+F 1 "Conn_01x02" H 8380 11701 50  0001 L CNN
+F 2 "" H 8300 11800 50  0001 C CNN
+F 3 "~" H 8300 11800 50  0001 C CNN
+	1    8300 11800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5EA69ECF
+P 8100 12100
+F 0 "J?" V 8018 12180 50  0001 L CNN
+F 1 "Conn_01x02" H 8180 12001 50  0001 L CNN
+F 2 "" H 8100 12100 50  0001 C CNN
+F 3 "~" H 8100 12100 50  0001 C CNN
+	1    8100 12100
+	0    1    -1   0   
+$EndComp
+$EndSCHEMATC
