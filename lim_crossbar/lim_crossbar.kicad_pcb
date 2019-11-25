@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 31)
+    (drawings 33)
     (tracks 395)
     (zones 0)
     (modules 13)
@@ -36,7 +36,7 @@
   )
 
   (setup
-    (last_trace_width 1)
+    (last_trace_width 0.25)
     (user_trace_width 0.3)
     (user_trace_width 0.4)
     (user_trace_width 0.5)
@@ -91,7 +91,7 @@
       (plotinvisibletext false)
       (padsonsilk false)
       (subtractmaskfromsilk false)
-      (outputformat 3)
+      (outputformat 1)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
@@ -851,6 +851,12 @@
       ))
   )
 
+  (gr_text 365180b (at -71 -27.93) (layer B.SilkS) (tstamp 5DDBB44D)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text 365180b (at -71 -27.93) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_line (start 64.875 -10) (end -64.875 -10) (layer Edge.Cuts) (width 0.05) (tstamp 5DD7C4E1))
   (gr_line (start 76.785 -10) (end 82 -10) (layer Edge.Cuts) (width 0.05) (tstamp 5DD7C334))
   (gr_arc (start 82 -11) (end 82 -10) (angle -90) (layer Edge.Cuts) (width 0.05) (tstamp 5DD7C331))
@@ -1279,7 +1285,7 @@
   (segment (start -60.2 -11.43) (end -74.7 -25.93) (width 1) (layer F.Cu) (net 35))
   (segment (start 0 -11.43) (end -60.2 -11.43) (width 1) (layer F.Cu) (net 35))
 
-  (zone (net 35) (net_name GND) (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 35) (net_name GND) (layer F.Cu) (tstamp 5DDBB456) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -1522,7 +1528,7 @@
       )
     )
   )
-  (zone (net 35) (net_name GND) (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 35) (net_name GND) (layer B.Cu) (tstamp 5DDBB453) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
