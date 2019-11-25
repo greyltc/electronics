@@ -489,49 +489,173 @@ Entry Wire Line
 Wire Wire Line
 	3600 5000 3600 5500
 $Comp
-L Mechanical:MountingHole H3
+L Mechanical:MountingHole_Pad H3
 U 1 1 5DD450A6
-P 10100 1800
-F 0 "H3" H 10200 1846 50  0000 L CNN
-F 1 "MountingHole" H 10200 1755 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 10100 1800 50  0001 C CNN
-F 3 "~" H 10100 1800 50  0001 C CNN
-	1    10100 1800
+P 10100 1700
+F 0 "H3" H 10200 1746 50  0000 L CNN
+F 1 "MountingHole" H 10200 1655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 10100 1700 50  0001 C CNN
+F 3 "~" H 10100 1700 50  0001 C CNN
+	1    10100 1700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H4
+L Mechanical:MountingHole_Pad H4
 U 1 1 5DD458A4
 P 10100 2300
 F 0 "H4" H 10200 2346 50  0000 L CNN
 F 1 "MountingHole" H 10200 2255 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 10100 2300 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 10100 2300 50  0001 C CNN
 F 3 "~" H 10100 2300 50  0001 C CNN
 	1    10100 2300
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H1
+L Mechanical:MountingHole_Pad H1
 U 1 1 5DD45E4A
 P 1400 1800
 F 0 "H1" H 1500 1846 50  0000 L CNN
 F 1 "MountingHole" H 1500 1755 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 1400 1800 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 1400 1800 50  0001 C CNN
 F 3 "~" H 1400 1800 50  0001 C CNN
 	1    1400 1800
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H2
+L Mechanical:MountingHole_Pad H2
 U 1 1 5DD46130
 P 1400 2500
 F 0 "H2" H 1500 2546 50  0000 L CNN
 F 1 "MountingHole" H 1500 2455 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 1400 2500 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 1400 2500 50  0001 C CNN
 F 3 "~" H 1400 2500 50  0001 C CNN
 	1    1400 2500
 	1    0    0    -1  
 $EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5DDBD733
+P 800 2800
+F 0 "#PWR0101" H 800 2550 50  0001 C CNN
+F 1 "GND" H 805 2627 50  0000 C CNN
+F 2 "" H 800 2800 50  0001 C CNN
+F 3 "" H 800 2800 50  0001 C CNN
+	1    800  2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NC_Small JP1
+U 1 1 5DDBE971
+P 1000 2100
+F 0 "JP1" H 1000 2312 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 1000 2221 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 1000 2100 50  0001 C CNN
+F 3 "~" H 1000 2100 50  0001 C CNN
+	1    1000 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NC_Small JP2
+U 1 1 5DDBF432
+P 1000 2700
+F 0 "JP2" H 1000 2912 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 1000 2821 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 1000 2700 50  0001 C CNN
+F 3 "~" H 1000 2700 50  0001 C CNN
+	1    1000 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  2700 800  2700
+Wire Wire Line
+	800  2700 800  2800
+Wire Wire Line
+	800  2700 800  2100
+Wire Wire Line
+	800  2100 900  2100
+Connection ~ 800  2700
+Wire Wire Line
+	1100 2100 1400 2100
+Wire Wire Line
+	1400 2100 1400 1900
+Wire Wire Line
+	1400 2600 1400 2700
+Wire Wire Line
+	1400 2700 1100 2700
+$Comp
+L power:GND #PWR0102
+U 1 1 5DDD56AA
+P 9500 2600
+F 0 "#PWR0102" H 9500 2350 50  0001 C CNN
+F 1 "GND" H 9505 2427 50  0000 C CNN
+F 2 "" H 9500 2600 50  0001 C CNN
+F 3 "" H 9500 2600 50  0001 C CNN
+	1    9500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NC_Small JP3
+U 1 1 5DDD56B0
+P 9700 1900
+F 0 "JP3" H 9700 2112 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 9700 2021 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 9700 1900 50  0001 C CNN
+F 3 "~" H 9700 1900 50  0001 C CNN
+	1    9700 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NC_Small JP4
+U 1 1 5DDD56B6
+P 9700 2500
+F 0 "JP4" H 9700 2712 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 9700 2621 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 9700 2500 50  0001 C CNN
+F 3 "~" H 9700 2500 50  0001 C CNN
+	1    9700 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9600 2500 9500 2500
+Wire Wire Line
+	9500 2500 9500 2600
+Wire Wire Line
+	9500 1900 9600 1900
+Connection ~ 9500 2500
+Wire Wire Line
+	9800 1900 10100 1900
+Wire Wire Line
+	10100 2500 9800 2500
+Wire Wire Line
+	10100 1800 10100 1900
+Wire Wire Line
+	10100 2400 10100 2500
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5DDE3139
+P 10300 4500
+F 0 "#FLG0101" H 10300 4575 50  0001 C CNN
+F 1 "PWR_FLAG" H 10300 4673 50  0000 C CNN
+F 2 "" H 10300 4500 50  0001 C CNN
+F 3 "~" H 10300 4500 50  0001 C CNN
+	1    10300 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5DDEA941
+P 10300 4600
+F 0 "#PWR?" H 10300 4350 50  0001 C CNN
+F 1 "GND" H 10305 4427 50  0000 C CNN
+F 2 "" H 10300 4600 50  0001 C CNN
+F 3 "" H 10300 4600 50  0001 C CNN
+	1    10300 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9500 1900 9500 2500
+Wire Wire Line
+	10300 4600 10300 4500
 Wire Bus Line
 	2500 5600 5600 5600
 Wire Bus Line
