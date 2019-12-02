@@ -1,4 +1,4 @@
-(module spring_pin (layer F.Cu) (tedit 5DDBB0FA)
+(module spring_pin (layer F.Cu) (tedit 5DDFBBB3)
   (fp_text reference REF** (at 0 2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -10,10 +10,5 @@
     (offset (xyz 0 0 -2.1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 90 0))
-  )
-  (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
   )
 )

@@ -134,7 +134,7 @@
     (add_net "Net-(J3-Pad1)")
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D298)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D298)
     (at -9.45 -8.25 90)
     (path /5DC96554)
     (fp_text reference J1 (at 1.75 2 180) (layer F.SilkS)
@@ -150,14 +150,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D187)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D187)
     (at -9.45 -1.25 90)
     (path /5DC96210)
     (fp_text reference J2 (at 1.75 0.45 180) (layer F.SilkS)
@@ -173,14 +168,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D17B)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D17B)
     (at -9.45 5.75 90)
     (path /5DC959BD)
     (fp_text reference J3 (at 1.75 0.45 180) (layer F.SilkS)
@@ -196,14 +186,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D27A)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D27A)
     (at 9.45 -8.25 90)
     (path /5DC98D77)
     (fp_text reference J4 (at 0.75 -2 180) (layer F.SilkS)
@@ -219,14 +204,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D289)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D289)
     (at 9.45 -1.25 90)
     (path /5DC98D71)
     (fp_text reference J5 (at 1.75 -0.45 180) (layer F.SilkS)
@@ -242,14 +222,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D2D4)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D2D4)
     (at 9.45 5.75 90)
     (path /5DC98D6B)
     (fp_text reference J6 (at 1.75 -0.45) (layer F.SilkS)
@@ -265,14 +240,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D2A4)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D2A4)
     (at -1.25 -11 90)
     (path /5DCA1A30)
     (fp_text reference J8 (at 0 -2) (layer F.SilkS)
@@ -288,14 +258,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D2B3)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D2B3)
     (at 1.25 11 90)
     (path /5DCA2000)
     (fp_text reference J9 (at 0 2 180) (layer F.SilkS)
@@ -311,14 +276,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D26E)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D26E)
     (at -9.45 -5.75 90)
     (path /5DCA753D)
     (fp_text reference J11 (at 0 2 90) (layer F.SilkS) hide
@@ -334,14 +294,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D2F5)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D2F5)
     (at -9.45 1.25 90)
     (path /5DCA7448)
     (fp_text reference J12 (at 0 2 90) (layer F.SilkS) hide
@@ -357,14 +312,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D133)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D133)
     (at -9.45 8.25 90)
     (path /5DCA736A)
     (fp_text reference J13 (at 0 2 90) (layer F.SilkS) hide
@@ -380,14 +330,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D13F)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D13F)
     (at -1.25 11 90)
     (path /5DCA714A)
     (fp_text reference J14 (at 0 2 90) (layer F.SilkS) hide
@@ -403,14 +348,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D14B)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D14B)
     (at 1 -11 90)
     (path /5DCA7045)
     (fp_text reference J15 (at 0 2 90) (layer F.SilkS) hide
@@ -426,14 +366,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D157)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D157)
     (at 9.45 -5.75 90)
     (path /5DCA7B46)
     (fp_text reference J16 (at 0 -2 90) (layer F.SilkS) hide
@@ -449,14 +384,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D163)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D163)
     (at 9.45 1.25 90)
     (path /5DCA8034)
     (fp_text reference J17 (at 0 2 90) (layer F.SilkS) hide
@@ -472,14 +402,9 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
     )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
-  (module custom:spring_pin (layer F.Cu) (tedit 5DDBB0FA) (tstamp 5DC3D16F)
+  (module custom:spring_pin (layer F.Cu) (tedit 5DDFBBB3) (tstamp 5DC3D16F)
     (at 9.45 8.25 90)
     (path /5DCA815E)
     (fp_text reference J18 (at 0 -2 90) (layer F.SilkS) hide
@@ -494,11 +419,6 @@
       (offset (xyz 0 0 -2.1))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 0))
-    )
-    (model ${KIPRJMOD}/../3d/mill-max-0964-0-15-20-85-14-11-0.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
     )
   )
 
