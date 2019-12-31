@@ -21,6 +21,8 @@ F 0 "J4" V 7650 2880 50  0000 L CNN
 F 1 "Conn_02x12_Counter_Clockwise" V 7695 2880 50  0001 L CNN
 F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 7600 2300 50  0001 C CNN
 F 3 "~" H 7600 2300 50  0001 C CNN
+F 4 "samtec" H 7600 2300 50  0001 C CNN "mfg"
+F 5 "SQT-112-03-F-D" H 7600 2300 50  0001 C CNN "mfg_part"
 	1    7600 2300
 	0    1    1    0   
 $EndComp
@@ -32,6 +34,8 @@ F 0 "J3" V 5650 2880 50  0000 L CNN
 F 1 "Conn_02x12_Counter_Clockwise" V 5695 2880 50  0001 L CNN
 F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 5600 2300 50  0001 C CNN
 F 3 "~" H 5600 2300 50  0001 C CNN
+F 4 "samtec" H 5600 2300 50  0001 C CNN "mfg"
+F 5 "SQT-112-03-F-D" H 5600 2300 50  0001 C CNN "mfg_part"
 	1    5600 2300
 	0    1    1    0   
 $EndComp
@@ -43,6 +47,8 @@ F 0 "J2" V 3750 2880 50  0000 L CNN
 F 1 "Conn_02x12_Counter_Clockwise" V 3795 2880 50  0001 L CNN
 F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 3700 2300 50  0001 C CNN
 F 3 "~" H 3700 2300 50  0001 C CNN
+F 4 "samtec" H 3700 2300 50  0001 C CNN "mfg"
+F 5 "SQT-112-03-F-D" H 3700 2300 50  0001 C CNN "mfg_part"
 	1    3700 2300
 	0    1    1    0   
 $EndComp
@@ -567,6 +573,8 @@ F 0 "J6" V 7696 5779 50  0000 L CNN
 F 1 "Conn_02x20_Odd_Even" V 7605 5779 50  0001 L CNN
 F 2 "custom:Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge_mod" H 7600 4800 50  0001 C CNN
 F 3 "~" H 7600 4800 50  0001 C CNN
+F 4 "samtec" H 7600 4800 50  0001 C CNN "mfg"
+F 5 "MECF-20-01-L-DV-NP-WT" H 7600 4800 50  0001 C CNN "mfg_part"
 	1    7600 4800
 	0    -1   -1   0   
 $EndComp
@@ -578,6 +586,8 @@ F 0 "J1" V 1650 2880 50  0000 L CNN
 F 1 "Conn_02x12_Counter_Clockwise" V 1695 2880 50  0001 L CNN
 F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 1600 2300 50  0001 C CNN
 F 3 "~" H 1600 2300 50  0001 C CNN
+F 4 "samtec" H 1600 2300 50  0001 C CNN "mfg"
+F 5 "SQT-112-03-F-D" H 1600 2300 50  0001 C CNN "mfg_part"
 	1    1600 2300
 	0    1    1    0   
 $EndComp
@@ -589,6 +599,8 @@ F 0 "J5" V 9550 2880 50  0000 L CNN
 F 1 "Conn_02x12_Counter_Clockwise" V 9595 2880 50  0001 L CNN
 F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 9500 2300 50  0001 C CNN
 F 3 "~" H 9500 2300 50  0001 C CNN
+F 4 "samtec" H 9500 2300 50  0001 C CNN "mfg"
+F 5 "SQT-112-03-F-D" H 9500 2300 50  0001 C CNN "mfg_part"
 	1    9500 2300
 	0    1    1    0   
 $EndComp

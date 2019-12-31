@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title "Conceptual Signal Flow Diagram"
 Date ""
 Rev ""
@@ -2693,4 +2693,10 @@ F 3 "~" H 8100 12100 50  0001 C CNN
 	1    8100 12100
 	0    1    -1   0   
 $EndComp
+$Sheet
+S 17800 4100 2100 1600
+U 5DFCD35F
+F0 "mux_wiring_detail" 50
+F1 "mux_wiring_detail.sch" 50
+$EndSheet
 $EndSCHEMATC
