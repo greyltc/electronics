@@ -208,10 +208,7 @@ F 5 "tmm-112-01-g-s" H 6700 3800 50  0001 C CNN "mpn"
 	1    6700 3800
 	1    0    0    1   
 $EndComp
-NoConn ~ 4800 3900
 NoConn ~ 4800 3600
-NoConn ~ 6500 3600
-NoConn ~ 6500 3900
 Wire Wire Line
 	4800 4100 4900 4100
 Wire Wire Line
@@ -253,10 +250,6 @@ Wire Notes Line
 	6800 2700 4500 2700
 Wire Notes Line
 	6800 4800 6800 2700
-Wire Notes Line
-	4500 4800 6800 4800
-Wire Notes Line
-	4500 2700 4500 4800
 Text Notes 5900 4900 0    50   ~ 0
 Nub Electrode Over Here
 Wire Notes Line
@@ -365,4 +358,57 @@ Wire Wire Line
 	4900 3200 4800 3200
 Wire Wire Line
 	4800 3300 4900 3300
+Text Label 6400 4300 0    50   ~ 0
+SL1
+Text Label 6400 4200 0    50   ~ 0
+FL1
+Text Label 6400 3200 0    50   ~ 0
+SL3
+Text Label 6400 3300 0    50   ~ 0
+FL3
+Text Label 4800 4300 0    50   ~ 0
+SL2
+Text Label 4800 3300 0    50   ~ 0
+FL4
+Text Label 4800 3200 0    50   ~ 0
+SL4
+Text Label 4800 4200 0    50   ~ 0
+FL2
+Text Label 6400 4100 0    50   ~ 0
+S1
+Text Label 6400 3400 0    50   ~ 0
+S5
+Text Label 4800 3400 0    50   ~ 0
+S6
+Text Label 4800 4100 0    50   ~ 0
+S2
+Text Label 4800 4000 0    50   ~ 0
+F2
+Text Label 4800 3700 0    50   ~ 0
+F4
+Text Label 4800 3800 0    50   ~ 0
+S4
+Text Label 6400 3700 0    50   ~ 0
+F3
+Text Label 6400 3800 0    50   ~ 0
+S3
+Text Label 6400 3500 0    50   ~ 0
+F5
+Text Label 4800 3500 0    50   ~ 0
+F6
+Text Label 6400 4000 0    50   ~ 0
+F1
+Text Label 4900 3900 0    50   ~ 0
+TOP_PHIL
+Wire Notes Line
+	4500 2700 4500 4800
+Wire Notes Line
+	4500 4800 6800 4800
+Text Label 6400 3900 2    50   ~ 0
+BOT_PHIL
+Wire Wire Line
+	4800 3900 4900 3900
+Wire Wire Line
+	6500 3900 6400 3900
+NoConn ~ 6500 3600
 $EndSCHEMATC
