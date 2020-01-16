@@ -208,11 +208,8 @@ F 5 "tmm-112-01-g-s" H 6700 3800 50  0001 C CNN "mpn"
 	1    6700 3800
 	1    0    0    1   
 $EndComp
-NoConn ~ 4800 3600
 Wire Wire Line
 	4800 4100 4900 4100
-Wire Wire Line
-	4900 4000 4800 4000
 Wire Wire Line
 	4800 3800 4900 3800
 Wire Wire Line
@@ -398,17 +395,67 @@ Text Label 4800 3500 0    50   ~ 0
 F6
 Text Label 6400 4000 0    50   ~ 0
 F1
-Text Label 4900 3900 0    50   ~ 0
+Text Label 4800 3900 0    50   ~ 0
 TOP_PHIL
 Wire Notes Line
 	4500 2700 4500 4800
+Wire Wire Line
+	4900 4000 4800 4000
+Text Label 6500 3900 2    50   ~ 0
+BOT_PHIL
+$Comp
+L Device:D_Photo D1
+U 1 1 5E21EC8F
+P 5200 2800
+F 0 "D1" H 5150 3095 50  0000 C CNN
+F 1 "D_Photo" H 5150 3004 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5150 2800 50  0001 C CNN
+F 3 "~" H 5150 2800 50  0001 C CNN
+	1    5200 2800
+	1    0    0    -1  
+$EndComp
+Text Label 5000 2800 2    50   ~ 0
+BOT_PHIL
+Text Label 6500 3600 2    50   ~ 0
+PD
+Text Label 5300 2800 0    50   ~ 0
+PD
+Text Label 4800 3600 0    50   ~ 0
+LED
+Text Label 5400 4700 2    50   ~ 0
+BOT_PHIL
+$Comp
+L Device:LED D2
+U 1 1 5E228574
+P 5800 4700
+F 0 "D2" H 5793 4916 50  0000 C CNN
+F 1 "LED" H 5793 4825 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5800 4700 50  0001 C CNN
+F 3 "~" H 5800 4700 50  0001 C CNN
+	1    5800 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 4700 5650 4700
 Wire Notes Line
 	4500 4800 6800 4800
-Text Label 6400 3900 2    50   ~ 0
+Text Label 6000 4700 0    50   ~ 0
+LED
+Wire Wire Line
+	6000 4700 5950 4700
+$Comp
+L Device:R_US R1
+U 1 1 5E23068A
+P 6100 2800
+F 0 "R1" V 5895 2800 50  0000 C CNN
+F 1 "R_US" V 5986 2800 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6140 2790 50  0001 C CNN
+F 3 "~" H 6100 2800 50  0001 C CNN
+	1    6100 2800
+	0    1    1    0   
+$EndComp
+Text Label 5950 2800 2    50   ~ 0
 BOT_PHIL
-Wire Wire Line
-	4800 3900 4900 3900
-Wire Wire Line
-	6500 3900 6400 3900
-NoConn ~ 6500 3600
+Text Label 6250 2800 0    50   ~ 0
+TOP_PHIL
 $EndSCHEMATC

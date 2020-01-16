@@ -1,4 +1,4 @@
-17501577572710737
+17528823080133737
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -18566,6 +18566,48 @@ connector Molex SlimStack vertical
 Connector_Molex
 Molex_SlimStack_52991-0808_2x40_P0.50mm_Vertical
 Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0808, 80 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+80
+80
+Connector_Molex
+Molex_SlimStack_53748-0208_2x10_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0208, 20 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+20
+20
+Connector_Molex
+Molex_SlimStack_53748-0308_2x15_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0308, 30 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+30
+30
+Connector_Molex
+Molex_SlimStack_53748-0408_2x20_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0408, 40 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+40
+40
+Connector_Molex
+Molex_SlimStack_53748-0608_2x30_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0608, 60 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+60
+60
+Connector_Molex
+Molex_SlimStack_53748-0708_2x35_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0708, 70 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
+connector Molex SlimStack vertical
+0
+70
+70
+Connector_Molex
+Molex_SlimStack_53748-0808_2x40_P0.50mm_Vertical
+Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 53748-0808, 80 Pins (https://www.molex.com/pdm_docs/sd/537480308_sd.pdf), generated with kicad-footprint-generator
 connector Molex SlimStack vertical
 0
 80
@@ -44450,6 +44492,13 @@ Diode SOD523
 2
 2
 Diode_SMD
+D_SOD-923
+https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4
+Diode SOD923
+0
+2
+2
+Diode_SMD
 D_SOT-23_ANK
 SOT-23, Single Diode
 SOT-23
@@ -46562,6 +46611,13 @@ Shock-Safe closed Fuseholder, Schurter FUP Series, 5.0 x 20mm, Slotted Cap, hori
 Fuseholder 5x20mm horizontal closed
 0
 3
+2
+Fuse
+Fuseholder_Cylinder-5x20mm_Schurter_OGN-SMD_Horizontal_Open
+Fuseholder horizontal open, 5x20mm, 500V, 16A (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_OGN-SMD.pdf)
+Fuseholder horizontal open 5x20 Schurter 0031.8221
+0
+2
 2
 Fuse
 Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open
