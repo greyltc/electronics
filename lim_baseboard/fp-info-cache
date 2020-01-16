@@ -1,4 +1,4 @@
-17522520871081070
+17528827325932737
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -74486,6 +74486,34 @@ varistor SIOV
 0
 2
 2
+custom
+PinSocket_2x12_P2.00mm_Vertical_EDGE
+edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
+Edge mounted socket strip EDGE 2x12 2.00mm double row
+0
+24
+24
+custom
+Samtec_MECF-08-0_-NP-L-DV_2x08_P1.27mm_Edge_mod
+Highspeed card edge connector for PCB's with 08 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+16
+16
+custom
+Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge_mod
+Highspeed card edge connector for PCB's with 20 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+40
+40
+custom
+spring_pin
+
+
+0
+1
+1
 digikey-footprints
 3-SIP_Module_TM1000Q
 
