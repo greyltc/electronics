@@ -90,10 +90,8 @@ Wire Wire Line
 	4900 4000 4800 4000
 Wire Wire Line
 	4800 4100 4900 4100
-NoConn ~ 6500 3900
 NoConn ~ 6500 3600
 NoConn ~ 4800 3600
-NoConn ~ 4800 3900
 $Comp
 L Connector_Generic:Conn_01x01 J8
 U 1 1 5DCA1A30
@@ -171,19 +169,6 @@ F 4 "mill-max" H 5700 4700 50  0001 C CNN "mfg"
 F 5 "0964-0-15-20-85-14-11-0" H 5700 4700 50  0001 C CNN "mpn"
 	1    5700 4700
 	0    1    1    0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J3
-U 1 1 5DC959BD
-P 5100 4000
-F 0 "J3" H 5180 3992 50  0000 L CNN
-F 1 "PIX3" H 5300 4000 50  0000 L CNN
-F 2 "custom:spring_pin" H 5100 4000 50  0001 C CNN
-F 3 "~" H 5100 4000 50  0001 C CNN
-F 4 "mill-max" H 5100 4000 50  0001 C CNN "mfg"
-F 5 "0964-0-15-20-85-14-11-0" H 5100 4000 50  0001 C CNN "mpn"
-	1    5100 4000
-	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x01 J2
@@ -315,4 +300,19 @@ F 5 "0964-0-15-20-85-14-11-0" H 6200 4100 50  0001 C CNN "mpn"
 	1    6200 4100
 	-1   0    0    -1  
 $EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J3
+U 1 1 5DC959BD
+P 5100 4000
+F 0 "J3" H 5180 3992 50  0000 L CNN
+F 1 "PIX3" H 5300 4000 50  0000 L CNN
+F 2 "custom:spring_pin" H 5100 4000 50  0001 C CNN
+F 3 "~" H 5100 4000 50  0001 C CNN
+F 4 "mill-max" H 5100 4000 50  0001 C CNN "mfg"
+F 5 "0964-0-15-20-85-14-11-0" H 5100 4000 50  0001 C CNN "mpn"
+	1    5100 4000
+	1    0    0    -1  
+$EndComp
+NoConn ~ 6500 3900
+NoConn ~ 4800 3900
 $EndSCHEMATC
