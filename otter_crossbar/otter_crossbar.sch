@@ -16,78 +16,78 @@ $EndDescr
 $Comp
 L Connector_Generic:Conn_02x12_Odd_Even J4
 U 1 1 5DCD8CC9
-P 7600 2300
-F 0 "J4" V 7650 2880 50  0000 L CNN
-F 1 "Conn_02x12_Counter_Clockwise" V 7695 2880 50  0001 L CNN
-F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 7600 2300 50  0001 C CNN
-F 3 "~" H 7600 2300 50  0001 C CNN
-F 4 "samtec" H 7600 2300 50  0001 C CNN "mfg"
-F 5 "SQT-112-03-F-D" H 7600 2300 50  0001 C CNN "mfg_part"
-	1    7600 2300
-	0    1    1    0   
+P 7800 1300
+F 0 "J4" V 7650 1900 50  0000 L CNN
+F 1 "Conn_02x12_Counter_Clockwise" V 7895 1880 50  0001 L CNN
+F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 7800 1300 50  0001 C CNN
+F 3 "~" H 7800 1300 50  0001 C CNN
+F 4 "samtec" H 7800 1300 50  0001 C CNN "mfg"
+F 5 "SQT-112-03-F-D" H 7800 1300 50  0001 C CNN "mfg_part"
+	1    7800 1300
+	0    1    -1   0   
 $EndComp
 $Comp
 L Connector_Generic:Conn_02x12_Odd_Even J3
 U 1 1 5DCDB0CF
-P 5600 2300
-F 0 "J3" V 5650 2880 50  0000 L CNN
-F 1 "Conn_02x12_Counter_Clockwise" V 5695 2880 50  0001 L CNN
-F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 5600 2300 50  0001 C CNN
-F 3 "~" H 5600 2300 50  0001 C CNN
-F 4 "samtec" H 5600 2300 50  0001 C CNN "mfg"
-F 5 "SQT-112-03-F-D" H 5600 2300 50  0001 C CNN "mfg_part"
-	1    5600 2300
-	0    1    1    0   
+P 5800 1300
+F 0 "J3" V 5650 1900 50  0000 L CNN
+F 1 "Conn_02x12_Counter_Clockwise" V 5895 1880 50  0001 L CNN
+F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 5800 1300 50  0001 C CNN
+F 3 "~" H 5800 1300 50  0001 C CNN
+F 4 "samtec" H 5800 1300 50  0001 C CNN "mfg"
+F 5 "SQT-112-03-F-D" H 5800 1300 50  0001 C CNN "mfg_part"
+	1    5800 1300
+	0    1    -1   0   
 $EndComp
 $Comp
 L Connector_Generic:Conn_02x12_Odd_Even J2
 U 1 1 5DCDC61E
-P 3700 2300
-F 0 "J2" V 3750 2880 50  0000 L CNN
-F 1 "Conn_02x12_Counter_Clockwise" V 3795 2880 50  0001 L CNN
-F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 3700 2300 50  0001 C CNN
-F 3 "~" H 3700 2300 50  0001 C CNN
-F 4 "samtec" H 3700 2300 50  0001 C CNN "mfg"
-F 5 "SQT-112-03-F-D" H 3700 2300 50  0001 C CNN "mfg_part"
-	1    3700 2300
-	0    1    1    0   
+P 3900 1300
+F 0 "J2" V 3750 1900 50  0000 L CNN
+F 1 "Conn_02x12_Counter_Clockwise" V 3995 1880 50  0001 L CNN
+F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 3900 1300 50  0001 C CNN
+F 3 "~" H 3900 1300 50  0001 C CNN
+F 4 "samtec" H 3900 1300 50  0001 C CNN "mfg"
+F 5 "SQT-112-03-F-D" H 3900 1300 50  0001 C CNN "mfg_part"
+	1    3900 1300
+	0    1    -1   0   
 $EndComp
-NoConn ~ 8100 2600
-NoConn ~ 8000 2600
-NoConn ~ 7900 2600
-NoConn ~ 7800 2600
-NoConn ~ 7700 2600
-NoConn ~ 7600 2600
-NoConn ~ 7500 2600
-NoConn ~ 7400 2600
-NoConn ~ 7300 2600
-NoConn ~ 7200 2600
-NoConn ~ 7100 2600
-NoConn ~ 7000 2600
-NoConn ~ 6100 2600
-NoConn ~ 6000 2600
-NoConn ~ 5900 2600
-NoConn ~ 5800 2600
-NoConn ~ 5700 2600
-NoConn ~ 5600 2600
-NoConn ~ 5500 2600
-NoConn ~ 5400 2600
-NoConn ~ 5300 2600
-NoConn ~ 5200 2600
-NoConn ~ 5100 2600
-NoConn ~ 5000 2600
-NoConn ~ 4200 2600
-NoConn ~ 4100 2600
-NoConn ~ 4000 2600
-NoConn ~ 3900 2600
-NoConn ~ 3800 2600
-NoConn ~ 3700 2600
-NoConn ~ 3600 2600
-NoConn ~ 3500 2600
-NoConn ~ 3400 2600
-NoConn ~ 3300 2600
-NoConn ~ 3100 2600
-NoConn ~ 3200 2600
+NoConn ~ 8300 1000
+NoConn ~ 8200 1000
+NoConn ~ 8100 1000
+NoConn ~ 8000 1000
+NoConn ~ 7900 1000
+NoConn ~ 7800 1000
+NoConn ~ 7700 1000
+NoConn ~ 7600 1000
+NoConn ~ 7500 1000
+NoConn ~ 7400 1000
+NoConn ~ 7300 1000
+NoConn ~ 7200 1000
+NoConn ~ 6300 1000
+NoConn ~ 6200 1000
+NoConn ~ 6100 1000
+NoConn ~ 6000 1000
+NoConn ~ 5900 1000
+NoConn ~ 5800 1000
+NoConn ~ 5700 1000
+NoConn ~ 5600 1000
+NoConn ~ 5500 1000
+NoConn ~ 5400 1000
+NoConn ~ 5300 1000
+NoConn ~ 5200 1000
+NoConn ~ 4400 1000
+NoConn ~ 4300 1000
+NoConn ~ 4200 1000
+NoConn ~ 4100 1000
+NoConn ~ 4000 1000
+NoConn ~ 3900 1000
+NoConn ~ 3800 1000
+NoConn ~ 3700 1000
+NoConn ~ 3600 1000
+NoConn ~ 3500 1000
+NoConn ~ 3300 1000
+NoConn ~ 3400 1000
 Wire Bus Line
 	5600 4000 5600 5600
 Connection ~ 5600 4000
@@ -95,68 +95,66 @@ Wire Bus Line
 	5600 4000 5600 3300
 Wire Bus Line
 	5600 3300 2500 3300
-Wire Bus Line
-	2500 3300 2500 1400
 Entry Wire Line
-	9900 1400 10000 1500
+	10100 2200 10200 2100
 Entry Wire Line
-	9800 1400 9900 1500
+	10000 2200 10100 2100
 Entry Wire Line
-	9700 1400 9800 1500
+	9900 2200 10000 2100
 Entry Wire Line
-	9600 1400 9700 1500
+	9800 2200 9900 2100
 Entry Wire Line
-	9400 1400 9500 1500
+	9600 2200 9700 2100
 Entry Wire Line
-	9300 1400 9400 1500
+	9500 2200 9600 2100
 Entry Wire Line
-	9100 1400 9200 1500
+	9300 2200 9400 2100
 Entry Wire Line
-	9000 1400 9100 1500
+	9200 2200 9300 2100
 Entry Wire Line
-	8900 1400 9000 1500
+	9100 2200 9200 2100
 Entry Wire Line
-	8800 1400 8900 1500
+	9000 2200 9100 2100
+Wire Wire Line
+	10200 1500 10200 2100
+Wire Wire Line
+	10100 2100 10100 1500
 Wire Wire Line
 	10000 2100 10000 1500
 Wire Wire Line
-	9900 1500 9900 2100
+	9900 2100 9900 1500
 Wire Wire Line
-	9800 1500 9800 2100
+	9700 2100 9700 1500
 Wire Wire Line
-	9700 1500 9700 2100
+	9600 1500 9600 2100
 Wire Wire Line
-	9500 1500 9500 2100
+	9400 1500 9400 2100
 Wire Wire Line
-	9400 2100 9400 1500
+	9300 2100 9300 1500
 Wire Wire Line
-	9200 2100 9200 1500
+	9200 1500 9200 2100
 Wire Wire Line
-	9100 1500 9100 2100
-Wire Wire Line
-	9000 2100 9000 1500
-Wire Wire Line
-	8900 1500 8900 2100
+	9100 2100 9100 1500
 Entry Wire Line
-	8000 1400 8100 1500
+	8200 2200 8300 2100
 Entry Wire Line
-	7900 1400 8000 1500
+	8100 2200 8200 2100
 Entry Wire Line
-	7800 1400 7900 1500
+	8000 2200 8100 2100
 Entry Wire Line
-	7700 1400 7800 1500
+	7900 2200 8000 2100
 Entry Wire Line
-	7500 1400 7600 1500
+	7700 2200 7800 2100
 Wire Wire Line
-	8100 1500 8100 2100
+	8300 2100 8300 1500
 Wire Wire Line
-	8000 2100 8000 1500
+	8200 1500 8200 2100
 Wire Wire Line
-	7900 1500 7900 2100
+	8100 2100 8100 1500
 Wire Wire Line
-	7800 2100 7800 1500
+	8000 1500 8000 2100
 Wire Wire Line
-	7600 2100 7600 1500
+	7800 1500 7800 2100
 Entry Wire Line
 	8500 4000 8600 4100
 Entry Wire Line
@@ -213,72 +211,72 @@ Wire Wire Line
 	8000 4100 8000 4500
 Wire Wire Line
 	7900 4500 7900 4100
-Text Notes 9500 2800 0    50   ~ 0
+Text Notes 9700 800  0    50   ~ 0
 A
-Text Notes 7500 2800 0    50   ~ 0
+Text Notes 7700 800  0    50   ~ 0
 B
-Text Notes 5500 2800 0    50   ~ 0
+Text Notes 5700 800  0    50   ~ 0
 C
-Text Label 10000 2000 1    50   ~ 0
+Text Label 10200 1600 3    50   ~ 0
 A1
-Text Label 9900 2000 1    50   ~ 0
+Text Label 10100 1600 3    50   ~ 0
 A2
-Text Label 9800 2000 1    50   ~ 0
+Text Label 10000 1600 3    50   ~ 0
 A3
-Text Label 9700 2000 1    50   ~ 0
+Text Label 9900 1600 3    50   ~ 0
 A4
-Text Label 9500 2000 1    50   ~ 0
+Text Label 9700 1600 3    50   ~ 0
 A6
-Text Label 9100 2000 1    50   ~ 0
+Text Label 9300 1600 3    50   ~ 0
 A10
-Text Label 9400 2000 1    50   ~ 0
+Text Label 9600 1600 3    50   ~ 0
 A7
-Text Label 9200 2000 1    50   ~ 0
+Text Label 9400 1600 3    50   ~ 0
 A9
-Text Label 9000 2000 1    50   ~ 0
+Text Label 9200 1600 3    50   ~ 0
 A2
-Text Label 8900 2000 1    50   ~ 0
+Text Label 9100 1600 3    50   ~ 0
 A1
-Text Label 8100 2000 1    50   ~ 0
+Text Label 8300 1600 3    50   ~ 0
 B1
-Text Label 8000 2000 1    50   ~ 0
+Text Label 8200 1600 3    50   ~ 0
 B2
-Text Label 7900 2000 1    50   ~ 0
+Text Label 8100 1600 3    50   ~ 0
 B3
-Text Label 7800 2000 1    50   ~ 0
+Text Label 8000 1600 3    50   ~ 0
 B4
-Text Label 7600 2000 1    50   ~ 0
+Text Label 7800 1600 3    50   ~ 0
 B6
-Text Label 7500 2000 1    50   ~ 0
+Text Label 7700 1600 3    50   ~ 0
 B7
-Text Label 7300 2000 1    50   ~ 0
+Text Label 7500 1600 3    50   ~ 0
 B9
-Text Label 7200 2000 1    50   ~ 0
+Text Label 7400 1600 3    50   ~ 0
 B10
-Text Label 7100 2000 1    50   ~ 0
+Text Label 7300 1600 3    50   ~ 0
 B2
-Text Label 7000 2000 1    50   ~ 0
+Text Label 7200 1600 3    50   ~ 0
 B1
 Entry Wire Line
-	7400 1400 7500 1500
+	7600 2200 7700 2100
 Entry Wire Line
-	7200 1400 7300 1500
+	7400 2200 7500 2100
 Entry Wire Line
-	7100 1400 7200 1500
+	7300 2200 7400 2100
 Entry Wire Line
-	7000 1400 7100 1500
+	7200 2200 7300 2100
 Entry Wire Line
-	6900 1400 7000 1500
+	7100 2200 7200 2100
 Wire Wire Line
-	7500 2100 7500 1500
+	7700 1500 7700 2100
 Wire Wire Line
-	7300 2100 7300 1500
+	7500 1500 7500 2100
 Wire Wire Line
-	7200 1500 7200 2100
+	7400 2100 7400 1500
 Wire Wire Line
-	7100 2100 7100 1500
+	7300 1500 7300 2100
 Wire Wire Line
-	7000 1500 7000 2100
+	7200 2100 7200 1500
 Text Label 8600 4400 1    50   ~ 0
 A1
 Text Label 8500 4400 1    50   ~ 0
@@ -306,64 +304,64 @@ B4
 Text Label 8200 5200 1    50   ~ 0
 B6
 Entry Wire Line
-	6000 1400 6100 1500
+	6200 2200 6300 2100
 Entry Wire Line
-	5900 1400 6000 1500
+	6100 2200 6200 2100
 Entry Wire Line
-	5800 1400 5900 1500
+	6000 2200 6100 2100
 Entry Wire Line
-	5700 1400 5800 1500
+	5900 2200 6000 2100
 Entry Wire Line
-	5500 1400 5600 1500
+	5700 2200 5800 2100
 Entry Wire Line
-	5400 1400 5500 1500
+	5600 2200 5700 2100
 Entry Wire Line
-	5200 1400 5300 1500
+	5400 2200 5500 2100
 Entry Wire Line
-	5100 1400 5200 1500
+	5300 2200 5400 2100
 Entry Wire Line
-	5000 1400 5100 1500
+	5200 2200 5300 2100
 Entry Wire Line
-	4900 1400 5000 1500
+	5100 2200 5200 2100
 Wire Wire Line
-	6100 2100 6100 1500
+	6300 1500 6300 2100
 Wire Wire Line
-	6000 1500 6000 2100
+	6200 2100 6200 1500
 Wire Wire Line
-	5900 2100 5900 1500
+	6100 1500 6100 2100
 Wire Wire Line
-	5800 1500 5800 2100
+	6000 2100 6000 1500
 Wire Wire Line
-	5600 1500 5600 2100
+	5800 2100 5800 1500
+Wire Wire Line
+	5700 1500 5700 2100
 Wire Wire Line
 	5500 2100 5500 1500
 Wire Wire Line
-	5300 1500 5300 2100
+	5400 1500 5400 2100
 Wire Wire Line
-	5200 2100 5200 1500
+	5300 2100 5300 1500
 Wire Wire Line
-	5100 1500 5100 2100
-Wire Wire Line
-	5000 2100 5000 1500
-Text Label 6100 2000 1    50   ~ 0
+	5200 1500 5200 2100
+Text Label 6300 1600 3    50   ~ 0
 C1
-Text Label 6000 2000 1    50   ~ 0
+Text Label 6200 1600 3    50   ~ 0
 C2
-Text Label 5900 2000 1    50   ~ 0
+Text Label 6100 1600 3    50   ~ 0
 C3
-Text Label 5800 2000 1    50   ~ 0
+Text Label 6000 1600 3    50   ~ 0
 C4
-Text Label 5600 2000 1    50   ~ 0
+Text Label 5800 1600 3    50   ~ 0
 C6
-Text Label 5500 2000 1    50   ~ 0
+Text Label 5700 1600 3    50   ~ 0
 C7
-Text Label 5300 2000 1    50   ~ 0
+Text Label 5500 1600 3    50   ~ 0
 C9
-Text Label 5200 2000 1    50   ~ 0
+Text Label 5400 1600 3    50   ~ 0
 C10
-Text Label 5100 2000 1    50   ~ 0
+Text Label 5300 1600 3    50   ~ 0
 C2
-Text Label 5000 2000 1    50   ~ 0
+Text Label 5200 1600 3    50   ~ 0
 C1
 Entry Wire Line
 	7800 5600 7900 5500
@@ -389,12 +387,12 @@ Text Label 8000 5200 1    50   ~ 0
 B9
 Text Label 7900 5200 1    50   ~ 0
 B10
-NoConn ~ 7700 2100
-NoConn ~ 7400 2100
-NoConn ~ 5700 2100
-NoConn ~ 5400 2100
-NoConn ~ 3800 2100
-NoConn ~ 3500 2100
+NoConn ~ 7900 1500
+NoConn ~ 7600 1500
+NoConn ~ 5900 1500
+NoConn ~ 5600 1500
+NoConn ~ 4000 1500
+NoConn ~ 3700 1500
 Entry Wire Line
 	7100 5600 7200 5500
 $Comp
@@ -569,7 +567,7 @@ $Comp
 L Connector_Generic:Conn_02x20_Odd_Even J6
 U 1 1 5DE695A6
 P 7600 4800
-F 0 "J6" V 7696 5779 50  0000 L CNN
+F 0 "J6" V 7400 5800 50  0000 L CNN
 F 1 "Conn_02x20_Odd_Even" V 7605 5779 50  0001 L CNN
 F 2 "custom:Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge_mod" H 7600 4800 50  0001 C CNN
 F 3 "~" H 7600 4800 50  0001 C CNN
@@ -581,181 +579,180 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_02x12_Odd_Even J1
 U 1 1 5DE865B2
-P 1600 2300
-F 0 "J1" V 1650 2880 50  0000 L CNN
-F 1 "Conn_02x12_Counter_Clockwise" V 1695 2880 50  0001 L CNN
-F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 1600 2300 50  0001 C CNN
-F 3 "~" H 1600 2300 50  0001 C CNN
-F 4 "samtec" H 1600 2300 50  0001 C CNN "mfg"
-F 5 "SQT-112-03-F-D" H 1600 2300 50  0001 C CNN "mfg_part"
-	1    1600 2300
-	0    1    1    0   
+P 1800 1300
+F 0 "J1" V 1650 1900 50  0000 L CNN
+F 1 "Conn_02x12_Counter_Clockwise" V 1895 1880 50  0001 L CNN
+F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 1800 1300 50  0001 C CNN
+F 3 "~" H 1800 1300 50  0001 C CNN
+F 4 "samtec" H 1800 1300 50  0001 C CNN "mfg"
+F 5 "SQT-112-03-F-D" H 1800 1300 50  0001 C CNN "mfg_part"
+	1    1800 1300
+	0    1    -1   0   
 $EndComp
 $Comp
 L Connector_Generic:Conn_02x12_Odd_Even J5
 U 1 1 5DE89368
-P 9500 2300
-F 0 "J5" V 9550 2880 50  0000 L CNN
-F 1 "Conn_02x12_Counter_Clockwise" V 9595 2880 50  0001 L CNN
-F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 9500 2300 50  0001 C CNN
-F 3 "~" H 9500 2300 50  0001 C CNN
-F 4 "samtec" H 9500 2300 50  0001 C CNN "mfg"
-F 5 "SQT-112-03-F-D" H 9500 2300 50  0001 C CNN "mfg_part"
-	1    9500 2300
-	0    1    1    0   
+P 9700 1300
+F 0 "J5" V 9550 1900 50  0000 L CNN
+F 1 "Conn_02x12_Counter_Clockwise" V 9795 1880 50  0001 L CNN
+F 2 "custom:PinSocket_2x12_P2.00mm_Vertical_EDGE" H 9700 1300 50  0001 C CNN
+F 3 "~" H 9700 1300 50  0001 C CNN
+F 4 "samtec" H 9700 1300 50  0001 C CNN "mfg"
+F 5 "SQT-112-03-F-D" H 9700 1300 50  0001 C CNN "mfg_part"
+	1    9700 1300
+	0    1    -1   0   
 $EndComp
-Text Notes 3500 2800 0    50   ~ 0
+Text Notes 3700 800  0    50   ~ 0
 D
-Text Notes 1500 2800 0    50   ~ 0
+Text Notes 1700 800  0    50   ~ 0
 E
-Connection ~ 2500 1400
-NoConn ~ 9300 2100
-NoConn ~ 9600 2100
-NoConn ~ 10000 2600
-NoConn ~ 9900 2600
-NoConn ~ 9800 2600
-NoConn ~ 9700 2600
-NoConn ~ 9600 2600
-NoConn ~ 9500 2600
-NoConn ~ 9400 2600
-NoConn ~ 9300 2600
-NoConn ~ 9200 2600
-NoConn ~ 9100 2600
-NoConn ~ 9000 2600
-NoConn ~ 8900 2600
-NoConn ~ 2100 2600
-NoConn ~ 2000 2600
-NoConn ~ 1900 2600
-NoConn ~ 1800 2600
-NoConn ~ 1700 2600
-NoConn ~ 1600 2600
-NoConn ~ 1500 2600
-NoConn ~ 1400 2600
-NoConn ~ 1300 2600
-NoConn ~ 1200 2600
-NoConn ~ 1100 2600
-NoConn ~ 1000 2600
-NoConn ~ 1700 2100
-NoConn ~ 1400 2100
+NoConn ~ 9500 1500
+NoConn ~ 9800 1500
+NoConn ~ 10200 1000
+NoConn ~ 10100 1000
+NoConn ~ 10000 1000
+NoConn ~ 9900 1000
+NoConn ~ 9800 1000
+NoConn ~ 9700 1000
+NoConn ~ 9600 1000
+NoConn ~ 9500 1000
+NoConn ~ 9400 1000
+NoConn ~ 9300 1000
+NoConn ~ 9200 1000
+NoConn ~ 9100 1000
+NoConn ~ 2300 1000
+NoConn ~ 2200 1000
+NoConn ~ 2100 1000
+NoConn ~ 2000 1000
+NoConn ~ 1900 1000
+NoConn ~ 1800 1000
+NoConn ~ 1700 1000
+NoConn ~ 1600 1000
+NoConn ~ 1500 1000
+NoConn ~ 1400 1000
+NoConn ~ 1300 1000
+NoConn ~ 1200 1000
+NoConn ~ 1900 1500
+NoConn ~ 1600 1500
 Entry Wire Line
-	4100 1400 4200 1500
+	4300 2200 4400 2100
 Entry Wire Line
-	4000 1400 4100 1500
+	4200 2200 4300 2100
 Entry Wire Line
-	3900 1400 4000 1500
+	4100 2200 4200 2100
 Entry Wire Line
-	3800 1400 3900 1500
+	4000 2200 4100 2100
 Entry Wire Line
-	3600 1400 3700 1500
+	3800 2200 3900 2100
 Entry Wire Line
-	3500 1400 3600 1500
+	3700 2200 3800 2100
 Entry Wire Line
-	3300 1400 3400 1500
+	3500 2200 3600 2100
 Entry Wire Line
-	3200 1400 3300 1500
+	3400 2200 3500 2100
 Entry Wire Line
-	3100 1400 3200 1500
+	3300 2200 3400 2100
 Entry Wire Line
-	3000 1400 3100 1500
+	3200 2200 3300 2100
 Wire Wire Line
-	4200 2100 4200 1500
+	4400 1500 4400 2100
 Wire Wire Line
-	4100 1500 4100 2100
+	4300 2100 4300 1500
 Wire Wire Line
-	4000 2100 4000 1500
+	4200 1500 4200 2100
 Wire Wire Line
-	3900 1500 3900 2100
+	4100 2100 4100 1500
 Wire Wire Line
-	3700 1500 3700 2100
+	3900 2100 3900 1500
+Wire Wire Line
+	3800 1500 3800 2100
 Wire Wire Line
 	3600 2100 3600 1500
 Wire Wire Line
-	3400 1500 3400 2100
+	3500 1500 3500 2100
 Wire Wire Line
-	3300 2100 3300 1500
+	3400 2100 3400 1500
 Wire Wire Line
-	3200 1500 3200 2100
-Wire Wire Line
-	3100 2100 3100 1500
-Text Label 4200 2000 1    50   ~ 0
+	3300 1500 3300 2100
+Text Label 4400 1600 3    50   ~ 0
 D1
-Text Label 4100 2000 1    50   ~ 0
+Text Label 4300 1600 3    50   ~ 0
 D2
-Text Label 4000 2000 1    50   ~ 0
+Text Label 4200 1600 3    50   ~ 0
 D3
-Text Label 3900 2000 1    50   ~ 0
+Text Label 4100 1600 3    50   ~ 0
 D4
-Text Label 3600 2000 1    50   ~ 0
+Text Label 3800 1600 3    50   ~ 0
 D7
-Text Label 3400 2000 1    50   ~ 0
+Text Label 3600 1600 3    50   ~ 0
 D9
-Text Label 3300 2000 1    50   ~ 0
+Text Label 3500 1600 3    50   ~ 0
 D10
-Text Label 3200 2000 1    50   ~ 0
+Text Label 3400 1600 3    50   ~ 0
 D2
-Text Label 3100 2000 1    50   ~ 0
+Text Label 3300 1600 3    50   ~ 0
 D1
-Text Label 3700 2000 1    50   ~ 0
+Text Label 3900 1600 3    50   ~ 0
 D6
 Entry Wire Line
-	2000 1400 2100 1500
+	2200 2200 2300 2100
 Entry Wire Line
-	1900 1400 2000 1500
+	2100 2200 2200 2100
 Entry Wire Line
-	1800 1400 1900 1500
+	2000 2200 2100 2100
 Entry Wire Line
-	1700 1400 1800 1500
+	1900 2200 2000 2100
 Entry Wire Line
-	1500 1400 1600 1500
+	1700 2200 1800 2100
 Entry Wire Line
-	1400 1400 1500 1500
+	1600 2200 1700 2100
 Entry Wire Line
-	1200 1400 1300 1500
+	1400 2200 1500 2100
 Entry Wire Line
-	1100 1400 1200 1500
+	1300 2200 1400 2100
 Entry Wire Line
-	1000 1400 1100 1500
+	1200 2200 1300 2100
 Entry Wire Line
-	900  1400 1000 1500
+	1100 2200 1200 2100
 Wire Wire Line
-	2100 2100 2100 1500
+	2300 1500 2300 2100
 Wire Wire Line
-	2000 1500 2000 2100
+	2200 2100 2200 1500
 Wire Wire Line
-	1900 2100 1900 1500
+	2100 1500 2100 2100
 Wire Wire Line
-	1800 1500 1800 2100
+	2000 2100 2000 1500
 Wire Wire Line
-	1600 1500 1600 2100
+	1800 2100 1800 1500
+Wire Wire Line
+	1700 1500 1700 2100
 Wire Wire Line
 	1500 2100 1500 1500
 Wire Wire Line
-	1300 1500 1300 2100
+	1400 1500 1400 2100
 Wire Wire Line
-	1200 2100 1200 1500
+	1300 2100 1300 1500
 Wire Wire Line
-	1100 1500 1100 2100
-Wire Wire Line
-	1000 2100 1000 1500
-Text Label 2100 2000 1    50   ~ 0
+	1200 1500 1200 2100
+Text Label 2300 1600 3    50   ~ 0
 E1
-Text Label 2000 2000 1    50   ~ 0
+Text Label 2200 1600 3    50   ~ 0
 E2
-Text Label 1900 2000 1    50   ~ 0
+Text Label 2100 1600 3    50   ~ 0
 E3
-Text Label 1800 2000 1    50   ~ 0
+Text Label 2000 1600 3    50   ~ 0
 E4
-Text Label 1500 2000 1    50   ~ 0
+Text Label 1700 1600 3    50   ~ 0
 E7
-Text Label 1300 2000 1    50   ~ 0
+Text Label 1500 1600 3    50   ~ 0
 E9
-Text Label 1200 2000 1    50   ~ 0
+Text Label 1400 1600 3    50   ~ 0
 E10
-Text Label 1100 2000 1    50   ~ 0
+Text Label 1300 1600 3    50   ~ 0
 E2
-Text Label 1000 2000 1    50   ~ 0
+Text Label 1200 1600 3    50   ~ 0
 E1
-Text Label 1600 2000 1    50   ~ 0
+Text Label 1800 1600 3    50   ~ 0
 E6
 Wire Wire Line
 	7400 4500 7400 4100
@@ -890,11 +887,22 @@ C1
 Text Label 7500 5200 1    50   ~ 0
 C2
 Wire Bus Line
-	900  1400 2500 1400
+	2500 3300 2500 2200
+Connection ~ 2500 2200
+Text Notes 5550 2400 0    50   ~ 0
+Front  Side
+Text Notes 5550 650  0    50   ~ 0
+Back Side
+Wire Bus Line
+	1100 2200 2500 2200
 Wire Bus Line
 	5600 5600 8500 5600
 Wire Bus Line
 	5600 4000 8500 4000
 Wire Bus Line
-	2500 1400 9900 1400
+	2500 2200 10100 2200
+Text Notes 8750 5050 0    50   ~ 0
+Front  Side
+Text Notes 8750 4600 0    50   ~ 0
+Back Side
 $EndSCHEMATC
