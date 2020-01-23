@@ -223,7 +223,7 @@ U 1 1 5EF2F882
 P 6950 3350
 F 0 "J1" V 6750 4350 50  0000 L CNN
 F 1 "Conn_02x20_Odd_Even" V 6955 4329 50  0001 L CNN
-F 2 "Connector_PCBEdge:Samtec_MECF-20-01-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal" H 6950 3350 50  0001 C CNN
+F 2 "custom_footprints:Samtec_MECF-20-01-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal_mod" H 6950 3350 50  0001 C CNN
 F 3 "~" H 6950 3350 50  0001 C CNN
 F 4 "samtec" H 6950 3350 50  0001 C CNN "mfg"
 F 5 "MECF-20-01-L-DV-NP-WT" H 6950 3350 50  0001 C CNN "mfg_part"
@@ -474,7 +474,7 @@ U 1 1 5F357BE6
 P 7200 7650
 F 0 "J7" V 7000 8650 50  0000 L CNN
 F 1 "Conn_02x20_Odd_Even" V 7205 8629 50  0001 L CNN
-F 2 "Connector_PCBEdge:Samtec_MECF-20-01-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal" H 7200 7650 50  0001 C CNN
+F 2 "custom_footprints:Samtec_MECF-20-01-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal_mod" H 7200 7650 50  0001 C CNN
 F 3 "~" H 7200 7650 50  0001 C CNN
 F 4 "samtec" H 7200 7650 50  0001 C CNN "mfg"
 F 5 "MECF-20-01-L-DV-NP-WT" H 7200 7650 50  0001 C CNN "mfg_part"
@@ -1187,5 +1187,49 @@ F 2 "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical" H 4900 5500 50 
 F 3 "~" H 4900 5500 50  0001 C CNN
 	1    4900 5500
 	0    -1   1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 5E2D2B9E
+P 9200 3300
+F 0 "H7" H 9300 3346 50  0000 L CNN
+F 1 "MountingHole" H 9300 3255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_ISO7380" H 9200 3300 50  0001 C CNN
+F 3 "~" H 9200 3300 50  0001 C CNN
+	1    9200 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 5E2D391D
+P 4400 3450
+F 0 "H5" H 4500 3496 50  0000 L CNN
+F 1 "MountingHole" H 4500 3405 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_ISO7380" H 4400 3450 50  0001 C CNN
+F 3 "~" H 4400 3450 50  0001 C CNN
+	1    4400 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 5E2D5387
+P 4450 7850
+F 0 "H6" H 4550 7896 50  0000 L CNN
+F 1 "MountingHole" H 4550 7805 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_ISO7380" H 4450 7850 50  0001 C CNN
+F 3 "~" H 4450 7850 50  0001 C CNN
+	1    4450 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 5E2D5A55
+P 9550 7800
+F 0 "H8" H 9650 7846 50  0000 L CNN
+F 1 "MountingHole" H 9650 7755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_ISO7380" H 9550 7800 50  0001 C CNN
+F 3 "~" H 9550 7800 50  0001 C CNN
+	1    9550 7800
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

@@ -1,0 +1,103 @@
+
+(rules PCB otter_baseboard
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 4981)
+    (layer_rule F.Cu
+      (active off)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.8)
+      (against_preferred_direction_trace_costs 5.9)
+    )
+    (layer_rule In1.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.0)
+    )
+    (layer_rule In2.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.0)
+    )
+    (layer_rule B.Cu
+      (active off)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.8)
+      (against_preferred_direction_trace_costs 2.0)
+    )
+  )
+  (rule
+    (width 400.0)
+    (clear 200.2)
+    (clear 125.0 (type smd_to_turn_gap))
+  )
+  (padstack "Via[0-3]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle In1.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle In2.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-3]_800:400_um" "Via[0-3]_800:400_um" default
+  )
+  (via 
+    "Via[0-3]_800:400_um-kicad_default" "Via[0-3]_800:400_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-3]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-3]_800:400_um-kicad_default"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 400.0)
+    )
+    (circuit 
+      (use_layer F.Cu In1.Cu In2.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    GND "Net-(H1-Pad1)" "Net-(H2-Pad1)" "Net-(H3-Pad1)" "Net-(H4-Pad1)" /D1T /E1T /D2T
+    /E2T /D10T /E10T /D9T /E9T /D7T /E7T /D6T
+    /E6T /D4T /E4T /D3T /E3T /C2T /C10T /C7T
+    /C9T /C6T /C4T /C1T /C3T /B10T /A10T /B9T
+    /A9T /B7T /A7T /B6T /A6T /B4T /A4T /B3T
+    /A3T /B2T /A2T /B1T /A1T /A10B /A9B /A7B
+    /A6B /A4B /A3B /A1B /A2B /B2B /B1B /B3B
+    /B4B /B6B /B7B /B9B /B10B /C10B /C9B /C7B
+    /C6B /C4B /C3B /C1B /C2B /D2B /D1B /D3B
+    /D4B /D6B /D7B /D9B /D10B /E10B /E9B /E7B
+    /E6B /E4B /E3B /E1B /E2B
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 400.0)
+    )
+    (circuit 
+      (use_layer F.Cu In1.Cu In2.Cu B.Cu)
+    )
+  )
+)
