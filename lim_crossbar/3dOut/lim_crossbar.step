@@ -71943,3 +71943,7 @@ SHAPE_REPRESENTATION_RELATIONSHIP() );
   );
 ENDSEC;
 END-ISO-10303-21;
+//+
+Physical Surface("wence") = {2266};
+//+
+Physical Surface("wence") += {2266};
