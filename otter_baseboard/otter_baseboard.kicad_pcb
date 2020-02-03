@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 26)
+    (drawings 28)
     (tracks 921)
     (zones 0)
     (modules 29)
@@ -1663,6 +1663,12 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 6.4 6.4) (drill 6.4) (layers *.Cu *.Mask))
   )
 
+  (gr_text D (at -36.83 -3.81) (layer F.SilkS) (tstamp 5E37662E)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text D (at -36.83 -3.81) (layer B.SilkS) (tstamp 5E37662A)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
   (gr_text 9e3598e (at -66 16) (layer B.SilkS) (tstamp 5E374DD7)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
