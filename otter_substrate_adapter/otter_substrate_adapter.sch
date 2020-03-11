@@ -113,8 +113,8 @@ F 0 "J10" H 6780 3692 50  0000 L CNN
 F 1 "R_CONN" H 6780 3601 50  0000 L CNN
 F 2 "Connector_PinHeader_2.00mm:PinHeader_1x12_P2.00mm_Vertical" H 6700 3700 50  0001 C CNN
 F 3 "~" H 6700 3700 50  0001 C CNN
-F 4 "samtec" H 6700 3700 50  0001 C CNN "mfg"
-F 5 "tmm-112-01-f-s" H 6700 3700 50  0001 C CNN "mpn"
+F 4 "harwin" H 6700 3700 50  0001 C CNN "mfg"
+F 5 "M22-2511205" H 6700 3700 50  0001 C CNN "mpn"
 	1    6700 3700
 	1    0    0    -1  
 $EndComp
@@ -126,8 +126,8 @@ F 0 "J7" H 4518 2975 50  0000 C CNN
 F 1 "L_CONN" H 4518 3066 50  0000 C CNN
 F 2 "Connector_PinHeader_2.00mm:PinHeader_1x12_P2.00mm_Vertical" H 4600 3800 50  0001 C CNN
 F 3 "~" H 4600 3800 50  0001 C CNN
-F 4 "samtec" H 4600 3800 50  0001 C CNN "mfg"
-F 5 "tmm-112-01-f-s" H 4600 3800 50  0001 C CNN "mpn"
+F 4 "harwin" H 4600 3800 50  0001 C CNN "mfg"
+F 5 "M22-2511205" H 4600 3800 50  0001 C CNN "mpn"
 	1    4600 3800
 	-1   0    0    1   
 $EndComp

@@ -1,4 +1,4 @@
-(module Samtec_MECF-08-01-NP-L-DV-WT_2x08_P1.27mm_Socket_Horizontal_mod (layer F.Cu) (tedit 5E28F4FE)
+(module Samtec_MECF-08-01-NP-L-DV-WT_2x08_P1.27mm_Socket_Horizontal_mod (layer F.Cu) (tedit 5E393E85)
   (descr "Highspeed card edge connector for 1.6mm PCB's with 08 contacts (not polarized)")
   (tags "conn samtec card-edge high-speed")
   (attr smd)
