@@ -1,4 +1,4 @@
-18945255479385815
+18934138972863941
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -82893,52 +82893,3 @@ varistor SIOV
 0
 2
 2
-custom_footprints
-BPW34
-Horizontal, pin pitch=5.08mm, OSRAM Q62702P0073, 2.65x2.65mm active area =7.0225mm^2
-D T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-custom_footprints
-PinSocket_2x12_P2.00mm_Vertical_EDGE
-edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
-Edge mounted socket strip EDGE 2x12 2.00mm double row
-0
-24
-24
-custom_footprints
-Samtec_MECF-08-0_-NP-L-DV_2x08_P1.27mm_Edge_mod
-Highspeed card edge connector for PCB's with 08 contacts (not polarized)
-conn samtec card-edge high-speed
-0
-16
-16
-custom_footprints
-Samtec_MECF-08-01-NP-L-DV-WT_2x08_P1.27mm_Socket_Horizontal_mod
-Highspeed card edge connector for 1.6mm PCB's with 08 contacts (not polarized)
-conn samtec card-edge high-speed
-0
-18
-16
-custom_footprints
-Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge_mod
-Highspeed card edge connector for PCB's with 20 contacts (not polarized)
-conn samtec card-edge high-speed
-0
-40
-40
-custom_footprints
-Samtec_MECF-20-01-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal_mod
-Highspeed card edge connector for 1.6mm PCB's with 20 contacts (not polarized)
-conn samtec card-edge high-speed
-0
-42
-40
-custom_footprints
-spring_pin
-
-
-0
-1
-1
