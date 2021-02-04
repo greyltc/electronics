@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name otter_crossbar-rescue)(type Legacy)(uri ${KIPRJMOD}/otter_crossbar-rescue.lib)(options "")(descr ""))
+)
