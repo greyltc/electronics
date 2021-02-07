@@ -2,3 +2,6 @@
 *.kicad_pcb-bak
 *.sch-bak
 */output/*
+*.bak_cir
+*.DDNO
+*.inx
