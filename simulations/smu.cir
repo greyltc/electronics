@@ -7,8 +7,8 @@ Shape Version=11.00
 Screen=1920,1200
 MCAPVersion=12.2.0.4
 Key ID=Demo
-NLCnt=84
-TXCnt=2
+NLCnt=88
+TXCnt=1
 
 [shapedef]
 Name=Animated SPDT Switch
@@ -26,11 +26,23 @@ Line=26,0,48,0
 Current=32,8,16,8
 
 [shapedef]
+Name=Capacitor
+Line=0,0,22,0
+Line=22,-8,22,8
+Line=26,-8,26,8
+Line=26,0,48,0
+Current=32,12,16,12
+
+[shapedef]
 Name=Ground
 Line=0,0,12,0
 Line=12,-8,12,8
 Line=18,-4,18,4
 Line=24,0,24,0
+
+[shapedef]
+Name=Minus.root
+Line=-2,0,2,0
 
 [shapedef]
 Name=OPA1167
@@ -53,6 +65,14 @@ Line=80,48,96,48
 Line=64,58,64,96
 
 [shapedef]
+Name=Opamp5
+Root="Opamp.root",0,0,0
+Root="Plus.root",25,-4,0
+Root="Minus.root",25,52,0
+Line=32,56,32,34
+Line=32,-8,32,13
+
+[shapedef]
 Name=Opamp
 Root="Opamp.root",0,0,0
 
@@ -68,6 +88,11 @@ Line=10,12,14,12
 Line=12,10,12,14
 Line=10,36,14,36
 Line=4,0,6,0
+
+[shapedef]
+Name=Plus.root
+Line=-2,0,2,0
+Line=0,-2,0,2
 
 [shapedef]
 Name=Resistor
@@ -164,6 +189,32 @@ Pin="A",0,0,4,0
 Pin="B",0,2,3,10
 Pin="C",6,1,-6,-1
 
+[compdef]
+Name=OPA541_BB
+Definition=Subckt
+Shape=Opamp5
+Mask=4224
+memo=High Power Monolithic Opamp
+Label Offset=51,34,-8,44
+PinCnt=5
+Pin="1",a,0,0,-3,-4
+Pin="2",a,0,6,-3,18
+Pin="3",a,4,-1,6,15
+Pin="4",a,4,7,6,0
+Pin="5",a,9,3,-3,-3
+
+[compdef]
+Name=C0201C101K3GAC
+Definition=Subckt
+Shape=Capacitor
+Mask=4224
+Used=1
+memo=Kemet Ceramic
+Label Offset=0,0,0,0
+PinCnt=2
+Pin="1",a,0,0
+Pin="6",a,6,0
+
 [Circuit]
 Window Placement=0,3, -1,-1, -4,-23, 0,22,1237,665
 Default Object=Color=#000080
@@ -195,7 +246,7 @@ Show Grid Text=True
 
 [Comp]
 Name=Resistor
-Px=1136,712
+Px=1144,712
 Rot=2
 
 [Attr]
@@ -281,9 +332,6 @@ Pxs=1048,736,1080,736
 Pxs=1048,712,1048,736
 
 [Wire]
-Pxs=1048,712,1088,712
-
-[Wire]
 Pxs=1176,712,1176,760
 
 [Wire]
@@ -291,17 +339,17 @@ Pxs=1152,760,1176,760
 
 [Comp]
 Name=Battery
-Px=920,1424
-Rot=5
+Px=1304,992
+Rot=3
 
 [Attr]
-ON=-20,-38,PART
+ON=5,-38,PART
 V=V1
 Style=8192
 
 [Attr]
-ON=-15,-16,VALUE
-V=.027
+ON=-9,-16,VALUE
+V=.0102
 Style=8192
 
 [Attr]
@@ -309,14 +357,14 @@ ON=0,0,PACKAGE
 V
 
 [Attr]
-ON=12,-17,v_set
+ON=-44,-17,v_set
 V
 Style=4096
 
 [Comp]
 Name=Ground
-Px=920,1448
-Rot=7
+Px=1304,1016
+Rot=1
 
 [Wire]
 Pxs=920,736,936,736
@@ -325,13 +373,10 @@ Pxs=920,736,936,736
 Pxs=1048,784,1080,784
 
 [Wire]
-Pxs=1048,784,1048,912
+Pxs=1048,784,1048,856
 
 [Wire]
-Pxs=920,1424,920,1448
-
-[Wire]
-Pxs=1136,712,1176,712
+Pxs=1304,992,1304,1016
 
 [Comp]
 Name=Resistor
@@ -478,15 +523,12 @@ Style=4096
 Pxs=984,736,1048,736
 
 [Wire]
-Pxs=920,1312,920,1376
+Pxs=1304,880,1304,944
 
 [Comp]
 Name=Ground
-Px=1208,1128
+Px=1048,952
 Rot=7
-
-[Wire]
-Pxs=1208,1088,1208,1128
 
 [Comp]
 Name=LT1920_LT
@@ -533,15 +575,16 @@ Pxs=776,880,776,920
 [Comp]
 Name=LT1920_LT
 Style=ShowPinText
-Px=1280,824
+Px=1168,560
+Rot=5
 
 [Attr]
-ON=4,-26,PART
+ON=-17,-26,PART
 V=X5
 Style=8192
 
 [Attr]
-ON=-11,-50,NAME
+ON=11,-50,NAME
 V=LT1920_LT
 
 [Attr]
@@ -550,20 +593,20 @@ V
 
 [Comp]
 Name=Ideal_Opamp
-Px=960,1312
-Rot=4
+Px=1264,880
+Rot=2
 
 [Attr]
-ON=34,-50,PART
+ON=-47,-50,PART
 V=X6
 Style=8192
 
 [Attr]
-ON=34,-50,FILE
+ON=-34,-50,FILE
 V=Ideal_Opamp
 
 [Attr]
-ON=34,-78,Param:GAIN
+ON=-34,-78,Param:GAIN
 V=1E6
 
 [Attr]
@@ -581,7 +624,7 @@ Pxs=712,832,744,832
 
 [Comp]
 Name=Resistor
-Px=1208,1088
+Px=1048,920
 Rot=3
 
 [Attr]
@@ -598,21 +641,18 @@ Style=8192
 ON=0,0,PACKAGE
 V
 
-[Wire]
-Pxs=1048,912,1048,984
-
 [Comp]
 Name=Resistor
-Px=1448,1008
-Rot=3
+Px=984,392
+Rot=4
 
 [Attr]
-ON=-24,-25,PART
+ON=1,-25,PART
 V=R10
 Style=8192
 
 [Attr]
-ON=-36,-39,RESISTANCE
+ON=8,-39,RESISTANCE
 V=100k
 Style=8192
 
@@ -621,34 +661,34 @@ ON=0,0,PACKAGE
 V
 
 [Wire]
-Pxs=712,832,712,1272
+Pxs=712,832,712,1072
 
 [Comp]
 Name=Ground
-Px=1344,944
-Rot=7
+Px=1048,496
+Rot=2
 
 [Wire]
-Pxs=1344,920,1344,944
+Pxs=1048,496,1072,496
 
 [Wire]
-Pxs=1448,872,1448,960
+Pxs=1032,392,1120,392
 
 [Wire]
-Pxs=1376,872,1392,872
+Pxs=1120,448,1120,464
 
 [Comp]
 Name=Battery
-Px=1320,736
-Rot=7
+Px=1256,520
+Rot=2
 
 [Attr]
-ON=-26,-32,PART
+ON=11,-32,PART
 V=V6
 Style=8192
 
 [Attr]
-ON=13,-29,VALUE
+ON=-26,-29,VALUE
 V=15
 Style=8192
 
@@ -658,27 +698,26 @@ V
 
 [Comp]
 Name=Ground
-Px=1320,712
-Rot=5
+Px=1280,520
 
 [Wire]
-Pxs=1320,712,1320,736
+Pxs=1256,520,1280,520
 
 [Wire]
-Pxs=1320,784,1320,816
+Pxs=1176,520,1208,520
 
 [Comp]
 Name=Battery
-Px=1320,952
-Rot=7
+Px=1040,520
+Rot=2
 
 [Attr]
-ON=-26,-32,PART
+ON=11,-32,PART
 V=V7
 Style=8192
 
 [Attr]
-ON=13,-29,VALUE
+ON=-26,-29,VALUE
 V=15
 Style=8192
 
@@ -688,52 +727,43 @@ V
 
 [Comp]
 Name=Ground
-Px=1320,1024
-Rot=7
+Px=968,520
+Rot=2
 
 [Wire]
-Pxs=1320,1000,1320,1024
+Pxs=968,520,992,520
 
 [Wire]
-Pxs=1320,920,1320,952
-
-[Wire]
-Pxs=1176,832,1264,832
-
-[Wire]
-Pxs=1176,760,1176,832
-
-[Wire]
-Pxs=1048,912,1264,912
+Pxs=1040,520,1072,520
 
 [Comp]
 Name=Ground
-Px=1448,1048
-Rot=7
+Px=944,392
+Rot=2
 
 [Wire]
-Pxs=1448,1008,1448,1048
+Pxs=944,392,984,392
 
 [Comp]
 Name=Animated SPDT Switch
-Px=848,1272
-Rot=4
+Px=1376,840
+Rot=2
 
 [Attr]
-ON=-24,33,PART
+ON=-60,-42,PART
 V=Switch2
 Style=8192
 
 [Attr]
-ON=1,-36,STATE
+ON=-1,-36,STATE
 V=Down
 
 [Attr]
-ON=1,-50,RON
+ON=-1,-50,RON
 V=1m
 
 [Attr]
-ON=1,-64,ROFF
+ON=-1,-64,ROFF
 V=1e15
 
 [Attr]
@@ -741,40 +771,137 @@ ON=0,0,PACKAGE
 V
 
 [Wire]
-Pxs=920,1312,960,1312
+Pxs=1264,880,1304,880
 
 [Wire]
-Pxs=896,1264,960,1264
+Pxs=1264,832,1328,832
 
 [Wire]
-Pxs=712,1272,848,1272
+Pxs=1376,840,1424,840
 
 [Wire]
-Pxs=1032,1072,1032,1288
+Pxs=1376,448,1376,824
 
 [Wire]
-Pxs=1032,1072,1048,1072
+Pxs=1120,392,1120,448
 
 [Wire]
-Pxs=1208,984,1208,1040
+Pxs=1160,576,1160,712
 
 [Wire]
-Pxs=1048,984,1208,984
+Pxs=1160,712,1176,712
 
 [Wire]
-Pxs=1048,984,1048,1072
+Pxs=1080,576,1080,712
 
 [Wire]
-Pxs=848,1200,848,1256
+Pxs=1144,712,1160,712
 
 [Wire]
-Pxs=848,1200,1392,1200
+Pxs=1048,712,1080,712
 
 [Wire]
-Pxs=1392,872,1392,1200
+Pxs=1080,712,1096,712
 
 [Wire]
-Pxs=1392,872,1448,872
+Pxs=1048,856,1192,856
+
+[Wire]
+Pxs=1048,856,1048,872
+
+[Wire]
+Pxs=1048,920,1048,952
+
+[Wire]
+Pxs=1120,448,1376,448
+
+[Wire]
+Pxs=1424,840,1424,1072
+
+[Wire]
+Pxs=712,1072,1424,1072
+
+[Comp]
+Name=OPA541_BB
+Px=632,584
+
+[Attr]
+ON=51,34,PART
+V=X7
+Style=8192
+
+[Attr]
+ON=51,48,NAME
+V=OPA541_BB
+
+[Attr]
+ON=51,76,PACKAGE
+V=TO-3_8
+
+[Comp]
+Name=Battery
+Px=664,528
+Rot=7
+
+[Attr]
+ON=-26,18,PART
+V=V8
+Style=8192
+
+[Attr]
+ON=15,22,VALUE
+V=15
+Style=8192
+
+[Attr]
+ON=0,0,PACKAGE
+V
+
+[Comp]
+Name=Battery
+Px=664,640
+Rot=7
+
+[Attr]
+ON=-22,18,PART
+V=V9
+Style=8192
+
+[Attr]
+ON=7,33,VALUE
+V=15
+Style=8192
+
+[Attr]
+ON=0,0,PACKAGE
+V
+
+[Comp]
+Name=Ground
+Px=664,688
+Rot=7
+
+[Comp]
+Name=Ground
+Px=664,528
+Rot=5
+
+[Comp]
+Name=C0201C101K3GAC
+Px=608,760
+
+[Attr]
+ON=0,0,PART
+V=X8
+Style=8192
+
+[Attr]
+ON=0,14,NAME
+V=C0201C101K3GAC
+
+[Attr]
+ON=0,0,PACKAGE
+V
 
 [Grid Text]
 Text="voltage_out"
@@ -784,24 +911,6 @@ JustifyH=Left
 JustifyV=Bottom
 CBorder=None
 
-[Grid Text]
-Text="Dynamic DC"
-Text="Temperature=27"
-Text="Displaying DC Voltages, Currents, Power Terms"
-Text="PGT = Total power generated = [PGT]"
-Text="PDT = Total power dissipated = [PDT]"
-BannerDC=True
-Px=16,117
-Height=-15
-Color=#800000
-Font=Arial
-GridSnap=False
-JustifyH=Left
-JustifyV=Bottom
-Formula=True
-CFill=#C0C0C0
-CBorder=#000000
-
 [Schematic]
 CurrentSection 0=0
 CurrentSection 1=0
@@ -810,7 +919,7 @@ CurrentSection 3=0
 Splitter.xs=0
 Splitter.ys=0
 TextQuad=4099
-Scale=1
+Scale=0.66666666666666663
 GridUser=10
 ShapeGroups="Main","Euro","Polarity","Main1","Main11","Electrolytic","GroundArrow","DeMorgan"
 CalcRMS=False
@@ -998,9 +1107,9 @@ PrinterScale=1
 Scale 0=1
 Scale 1=1
 Scale 2=1
-SB 3=135,579
-Scale 3=1
-Px=1336,1244
+SB 3=535,485
+Scale 3=0.66666666666666663
+Px=607,756
 WinBackGround Color=#FFFFFF
 Select Color=#FF0000
 Anchor Color=#000000

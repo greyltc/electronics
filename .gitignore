@@ -5,3 +5,5 @@
 *.bak_cir
 *.DDNO
 *.inx
+_autosave*
+*-backups/

@@ -1,0 +1,18 @@
+(footprint "low_profile_spring_pin" (version 20210126) (generator pcbnew) (layer "F.Cu")
+  (tedit 602291BB)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 2) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0714026d-6722-4d2f-979f-a863ae244b2e)
+  )
+  (fp_text value "low_profile_spring_pin" (at 0 -2.4) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp feb20625-6876-475d-838d-76e00acb7638)
+  )
+  (pad "1" thru_hole circle (at 0 0) (locked) (size 2.5 2.5) (drill 2) (layers *.Cu *.Mask) (tstamp a5c0878e-0ec8-4b16-85ce-2e2aa3f071da))
+  (model "${KIPRJMOD}/../shared_libs/3d/lppin.STEP"
+    (offset (xyz 0 0 2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+)
