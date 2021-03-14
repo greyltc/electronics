@@ -1,4 +1,4 @@
-19486660043590290
+19489891700263357
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56532,6 +56532,13 @@ MILL-MAX receptical 4280 with fibre plug, accepts standard 0.025" square posts
 1
 1
 MINE
+5342
+
+
+0
+1
+1
+MINE
 71609
 
 
@@ -56601,6 +56608,13 @@ conn samtec card-edge high-speed
 0
 42
 40
+MINE
+TMM-112-01-STRADDLE
+edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
+Edge mounted socket strip EDGE 2x12 2.00mm double row
+0
+24
+24
 MINE
 low_profile_spring_pin
 
