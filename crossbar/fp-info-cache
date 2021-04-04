@@ -1,4 +1,4 @@
-19489891700263357
+19491508895012134
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56552,6 +56552,13 @@ D T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
 0
 2
 2
+MINE
+HTSS-120-04-G-D-RA
+Through hole IDC box header, 2x20, 2.54mm pitch, double rows
+Through hole horizontal IDC box header THT 2x20 2.54mm double row
+0
+40
+40
 MINE
 PinSocket_2x12_P2.00mm_Vertical_EDGE
 edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D

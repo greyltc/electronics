@@ -1,4 +1,4 @@
-19453882812408498
+19491508893473134
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56511,12 +56511,54 @@ Yellow 5381 Series LED
 2
 2
 MINE
+02X06_SMT
+surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x06 2.54mm double row
+0
+12
+12
+MINE
+0921
+
+
+0
+1
+1
+MINE
+4280
+MILL-MAX receptical 4280 with fibre plug, accepts standard 0.025" square posts
+
+0
+1
+1
+MINE
+5342
+
+
+0
+1
+1
+MINE
+71609
+
+
+0
+12
+12
+MINE
 BPW34
 Horizontal, pin pitch=5.08mm, OSRAM Q62702P0073, 2.65x2.65mm active area =7.0225mm^2
 D T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
 0
 2
 2
+MINE
+HTSS-120-04-G-D-RA
+Through hole IDC box header, 2x20, 2.54mm pitch, double rows
+Through hole horizontal IDC box header THT 2x20 2.54mm double row
+0
+40
+40
 MINE
 PinSocket_2x12_P2.00mm_Vertical_EDGE
 edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
@@ -56573,6 +56615,13 @@ conn samtec card-edge high-speed
 0
 42
 40
+MINE
+TMM-112-01-STRADDLE
+edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
+Edge mounted socket strip EDGE 2x12 2.00mm double row
+0
+24
+24
 MINE
 low_profile_spring_pin
 
@@ -75202,7 +75251,7 @@ Wi-Fi Module
 22
 RF_Module
 ESP-WROOM-02
-http://espressif.com/sites/default/files/documentation/0c-esp-wroom-02_datasheet_en.pdf
+https://www.espressif.com/sites/default/files/documentation/0c-esp-wroom-02_datasheet_en.pdf
 ESP WROOM-02 espressif esp8266ex
 0
 19

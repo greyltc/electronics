@@ -37,6 +37,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -52,20 +53,20 @@
       24,
       25,
       26,
-      27,
-      28,
-      29,
-      30,
-      31,
-      39,
-      40
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
     ],
     "visible_layers": "000ffff_80000007",
     "zone_display_mode": 0
   },
   "meta": {
     "filename": "solar_mux.kicad_prl",
-    "version": 2
+    "version": 3
   },
   "project": {
     "files": []
