@@ -1,4 +1,4 @@
-19530146317350028
+19534999463247304
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56517,153 +56517,6 @@ Yellow 5381 Series LED
 0
 2
 2
-MINE
-02X06_SMT
-surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x06 2.54mm double row
-0
-12
-12
-MINE
-0921
-
-
-0
-1
-1
-MINE
-4280
-MILL-MAX receptical 4280 with fibre plug, accepts standard 0.025" square posts
-
-0
-1
-1
-MINE
-5342
-
-
-0
-1
-1
-MINE
-71609
-
-
-0
-12
-12
-MINE
-BPW34
-Horizontal, pin pitch=5.08mm, OSRAM Q62702P0073, 2.65x2.65mm active area =7.0225mm^2
-D T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-MINE
-HTSS-120-04-G-D-RA
-Through hole IDC box header, 2x20, 2.54mm pitch, double rows
-Through hole horizontal IDC box header THT 2x20 2.54mm double row
-0
-40
-40
-MINE
-MMS-106-02-X-SH
-surface-mounted straight socket strip, 1x06, 2.00mm pitch, single row, style 2 (pin 1 right) (https://www.jayconsystems.com/fileuploader/download/download/?d=1&file=custom%2Fupload%2FFile-1375728122.pdf), script generated
-Surface mounted socket strip SMD 1x06 2.00mm single row style2 pin1 right
-0
-12
-6
-MINE
-PinSocket_2x12_P2.00mm_Vertical_EDGE
-edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
-Edge mounted socket strip EDGE 2x12 2.00mm double row
-0
-24
-24
-MINE
-PinSocket_2x12_P2.00mm_Vertical_EDGE_USBC_pins
-edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
-Edge mounted socket strip EDGE 2x12 2.00mm double row
-0
-24
-24
-MINE
-SAMTEC-MMS-112-02-X-SH
-translated Allegro footprint
-
-0
-24
-24
-MINE
-SAMTEC-MMS-112-02-X-SH-BRIDGE-PAD
-translated Allegro footprint
-
-0
-24
-12
-MINE
-Samtec_MECF-08-0_-NP-L-DV_2x08_P1.27mm_Edge_mod
-Highspeed card edge connector for PCB's with 08 contacts (not polarized)
-conn samtec card-edge high-speed
-0
-16
-16
-MINE
-Samtec_MECF-08-01-NP-L-DV-WT_2x08_P1.27mm_Socket_Horizontal_mod
-Highspeed card edge connector for 1.6mm PCB's with 08 contacts (not polarized)
-conn samtec card-edge high-speed
-0
-18
-16
-MINE
-Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge_mod
-Highspeed card edge connector for PCB's with 20 contacts (not polarized)
-conn samtec card-edge high-speed
-0
-40
-40
-MINE
-Samtec_MECF-20-01-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal_mod
-Highspeed card edge connector for 1.6mm PCB's with 20 contacts (not polarized)
-conn samtec card-edge high-speed
-0
-42
-40
-MINE
-TMM-112-01-STRADDLE
-edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
-Edge mounted socket strip EDGE 2x12 2.00mm double row
-0
-24
-24
-MINE
-logo
-
-
-0
-0
-0
-MINE
-logo_small
-
-
-0
-0
-0
-MINE
-low_profile_spring_pin
-
-
-0
-1
-1
-MINE
-spring_pin
-
-
-0
-1
-1
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -84531,3 +84384,171 @@ varistor SIOV
 0
 2
 2
+custom_footprints
+02X06_SMT
+surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x06 2.54mm double row
+0
+12
+12
+custom_footprints
+0921
+
+
+0
+1
+1
+custom_footprints
+4280
+MILL-MAX receptical 4280 with fibre plug, accepts standard 0.025" square posts
+
+0
+1
+1
+custom_footprints
+5342
+
+
+0
+1
+1
+custom_footprints
+71609
+
+
+0
+12
+12
+custom_footprints
+BPW34
+Horizontal, pin pitch=5.08mm, OSRAM Q62702P0073, 2.65x2.65mm active area =7.0225mm^2
+D T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
+0
+2
+2
+custom_footprints
+HTSS-120-04-G-D-RA
+Through hole IDC box header, 2x20, 2.54mm pitch, double rows
+Through hole horizontal IDC box header THT 2x20 2.54mm double row
+0
+40
+40
+custom_footprints
+MILLMAX_816-22-002-10-007101
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+custom_footprints
+MMS-106-02-X-SH
+surface-mounted straight socket strip, 1x06, 2.00mm pitch, single row, style 2 (pin 1 right) (https://www.jayconsystems.com/fileuploader/download/download/?d=1&file=custom%2Fupload%2FFile-1375728122.pdf), script generated
+Surface mounted socket strip SMD 1x06 2.00mm single row style2 pin1 right
+0
+12
+6
+custom_footprints
+PinSocket_2x12_P2.00mm_Vertical_EDGE
+edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
+Edge mounted socket strip EDGE 2x12 2.00mm double row
+0
+24
+24
+custom_footprints
+PinSocket_2x12_P2.00mm_Vertical_EDGE_USBC_pins
+edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
+Edge mounted socket strip EDGE 2x12 2.00mm double row
+0
+24
+24
+custom_footprints
+SAMTEC-MMS-112-02-X-SH
+translated Allegro footprint
+
+0
+24
+24
+custom_footprints
+SAMTEC-MMS-112-02-X-SH-BRIDGE-PAD
+translated Allegro footprint
+
+0
+24
+12
+custom_footprints
+Samtec_MECF-08-0_-NP-L-DV_2x08_P1.27mm_Edge_mod
+Highspeed card edge connector for PCB's with 08 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+16
+16
+custom_footprints
+Samtec_MECF-08-01-NP-L-DV-WT_2x08_P1.27mm_Socket_Horizontal_mod
+Highspeed card edge connector for 1.6mm PCB's with 08 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+18
+16
+custom_footprints
+Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge_mod
+Highspeed card edge connector for PCB's with 20 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+40
+40
+custom_footprints
+Samtec_MECF-20-01-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal_mod
+Highspeed card edge connector for 1.6mm PCB's with 20 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+42
+40
+custom_footprints
+TMM-112-01-STRADDLE
+edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
+Edge mounted socket strip EDGE 2x12 2.00mm double row
+0
+24
+24
+custom_footprints
+logo
+
+
+0
+0
+0
+custom_footprints
+logo_small
+
+
+0
+0
+0
+custom_footprints
+low_profile_spring_pin
+
+
+0
+1
+1
+custom_footprints
+luxigen_8.02X8.02
+
+
+0
+9
+9
+custom_footprints
+luxigen_8.02X8.02_FR4
+
+
+0
+19
+9
+custom_footprints
+spring_pin
+
+
+0
+1
+1
