@@ -1910,10 +1910,10 @@
   (gr_line (start -12 -7.9) (end -12 7.9) (layer "Edge.Cuts") (width 0.05) (tstamp cc2f3d12-d368-403d-a6c2-76ee492cf064))
   (gr_arc (start 10 7.9) (end 10 9.9) (angle -90) (layer "Edge.Cuts") (width 0.05) (tstamp ce458c24-2898-4ba0-bdbb-02fae6d54755))
   (gr_line (start -15 15) (end 15 15) (layer "Edge.Cuts") (width 0.05) (tstamp d455f606-afca-4399-8f04-2df6e469057f))
-  (gr_text "COMMIT_HASH" (at 14 7 90) (layer "B.SilkS") (tstamp 980ac7c6-af67-4f66-a6bc-3ef69a004bc1)
+  (gr_text "98e55eb" (at 14 10 90) (layer "B.SilkS") (tstamp 980ac7c6-af67-4f66-a6bc-3ef69a004bc1)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "COMMIT_HASH" (at 14 7 90) (layer "F.SilkS") (tstamp 03a667f2-e9b4-4c4e-921f-f6dc2155aa4a)
+  (gr_text "98e55eb" (at 14 10 90) (layer "F.SilkS") (tstamp 03a667f2-e9b4-4c4e-921f-f6dc2155aa4a)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
 
