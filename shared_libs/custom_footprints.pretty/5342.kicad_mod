@@ -1,14 +1,14 @@
 (footprint "5342" (version 20210228) (generator pcbnew) (layer "F.Cu")
-  (tedit 604CD49B)
-  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
+  (tedit 606D9D2C)
+  (fp_text reference "REF**" (at 0 -2 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5d8d4c7a-4b27-4cee-bfa4-57033c98d865)
   )
-  (fp_text value "5342" (at 0 1 unlocked) (layer "F.Fab")
+  (fp_text value "5342" (at 0 1.75 unlocked) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c7ff4d1f-d114-40ca-b364-fcca231d032f)
   )
-  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab")
+  (fp_text user "${REFERENCE}" (at 0 -2 unlocked) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f659af65-7142-4be5-9b9d-fdffb6a3972b)
   )

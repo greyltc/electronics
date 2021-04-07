@@ -1,0 +1,19 @@
+(footprint "MountingHole_3.15mm" (version 20210228) (generator pcbnew) (layer "F.Cu")
+  (tedit 606DB1FD)
+  (descr "Mounting Hole 2.1mm, no annular")
+  (tags "mounting hole 2.1mm no annular")
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -2.5) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b1c14013-bbe3-4a0c-83d4-0e79fe5734f7)
+  )
+  (fp_text value "MountingHole_3.15mm" (at 0 3.2) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8d7e7535-da6f-4ac4-8137-efae795e2e19)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -2.5) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 47cf78d3-d34f-47e4-971c-36090e982346)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (locked) (size 3.15 3.15) (drill 3.15) (layers F&B.Cu *.Mask) (tstamp d888113e-76d6-4e63-94a6-2f7266016bb0))
+)
