@@ -1681,7 +1681,7 @@
 
   (footprint "custom_footprints:logo" (layer "B.Cu")
     (tedit 0) (tstamp 9bba5c81-3d85-4ffa-8d03-4b0a3903824a)
-    (at -71 -22 180)
+    (at -71 -22)
     (property "Sheetfile" "spring_pin_spacer.kicad_sch")
     (property "Sheetname" "")
     (path "/a285488b-1b58-4781-ba2f-0b885b7fde0c")
@@ -2104,10 +2104,10 @@
   (gr_arc (start -46 -9.254248) (end -47.5 -10.577124) (angle -41.40962211) (layer "Edge.Cuts") (width 0.05) (tstamp fdd3a5a7-9268-4a51-ab75-a6ea756808df))
   (gr_arc (start 34 9.254248) (end 32 9.254248) (angle -41.40962211) (layer "Edge.Cuts") (width 0.05) (tstamp fe3508f3-3e11-4f99-849e-6bd3188424e6))
   (gr_arc (start -6 9.254248) (end -8 9.254248) (angle -41.40962211) (layer "Edge.Cuts") (width 0.05) (tstamp ff2cb223-8528-4061-9b85-121eb13d7e7d))
-  (gr_text "98e55eb" (at -88.5 -20) (layer "B.SilkS") (tstamp 6b18b2df-ce26-41c4-b5ad-7009b8b67777)
+  (gr_text "0dbcc89" (at -88.25 -20.25 180) (layer "B.SilkS") (tstamp 6b18b2df-ce26-41c4-b5ad-7009b8b67777)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "98e55eb" (at -88.5 -20 180) (layer "F.SilkS") (tstamp 4535e2a4-326c-443f-b881-18afe1e60837)
+  (gr_text "0dbcc89" (at -88.25 -20.25 180) (layer "F.SilkS") (tstamp 4535e2a4-326c-443f-b881-18afe1e60837)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
