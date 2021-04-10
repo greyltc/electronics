@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.63,
-          "height": 1.83,
-          "width": 1.83
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -112,6 +112,10 @@
       },
       "track_widths": [
         0.0,
+        0.3,
+        0.4,
+        0.5,
+        0.56,
         1.0
       ],
       "via_dimensions": [],
@@ -333,7 +337,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "otter_substrate_adapter.kicad_pro",
+    "filename": "otter_crossbar.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -365,7 +369,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "otter_substrate_adapter.net",
+      "netlist": "otter_crossbar.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
