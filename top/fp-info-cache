@@ -1,4 +1,4 @@
-19534999463247304
+19541471127692892
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84447,6 +84447,34 @@ Surface mounted socket strip SMD 1x06 2.00mm single row style2 pin1 right
 0
 12
 6
+custom_footprints
+MountingHole_1.0mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+custom_footprints
+MountingHole_3.15mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+custom_footprints
+MountingHole_3.45mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+custom_footprints
+MountingHole_8.0mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
 custom_footprints
 PinSocket_2x12_P2.00mm_Vertical_EDGE
 edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
