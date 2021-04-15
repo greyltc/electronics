@@ -309,10 +309,10 @@
   (gr_text "B.Cu" (at -84 45 270) (layer "B.Cu") (tstamp 4dbbfaf9-0aed-4a09-8c8a-cca20207dbd1)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "c652367" (at -84 -65 -90) (layer "B.SilkS") (tstamp 85995d7a-5738-4226-823e-30cc87b5a575)
+  (gr_text "757897f" (at -84 -65 -90) (layer "B.SilkS") (tstamp 85995d7a-5738-4226-823e-30cc87b5a575)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "c652367" (at -84 -65 270) (layer "F.SilkS") (tstamp e46efe2a-2d5d-40a3-b12e-4cc2756d0a94)
+  (gr_text "757897f" (at -84 -65 270) (layer "F.SilkS") (tstamp e46efe2a-2d5d-40a3-b12e-4cc2756d0a94)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
