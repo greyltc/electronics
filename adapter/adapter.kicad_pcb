@@ -520,7 +520,7 @@
 
   (footprint "custom_footprints:logo_small" (layer "F.Cu")
     (tedit 0) (tstamp e4c9b387-6452-42c9-a87b-4c788d3637f0)
-    (at -14 -4 90)
+    (at 14.25 1 90)
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/9369d87b-8a3f-48bb-b2a6-45d0fc1fba2a")
@@ -950,7 +950,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/1ea82716-2d1e-49c4-95ea-e78fa5e59b41")
-    (fp_text reference "J22" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J22" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b6eccca3-2159-4713-8003-78f40a4f989a)
     )
@@ -972,7 +972,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/d27f3999-13a3-4c40-acc5-8d32f1cea462")
-    (fp_text reference "J19" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J19" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp a4acd6a7-9c88-436f-b254-11c2df63f71f)
     )
@@ -1060,7 +1060,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/deb8234f-3849-4526-a8ac-085c9b963dd2")
-    (fp_text reference "J20" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J20" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 911f3454-1e78-4098-9d70-73b88fbfc3aa)
     )
@@ -1170,7 +1170,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/e739ca8c-efda-45f6-bc5f-c7a1e3c7452a")
-    (fp_text reference "J23" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J23" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 0f9c9e55-9258-4d33-a81d-ef0b2ad77760)
     )
@@ -1214,7 +1214,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/1a555e3d-ed5e-42cc-8d70-551955b564b9")
-    (fp_text reference "J15" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J15" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ce65e69a-2bf9-44f2-a8f1-aa82eadaa283)
     )
@@ -1232,7 +1232,7 @@
 
   (footprint "custom_footprints:logo_small" (layer "B.Cu")
     (tedit 0) (tstamp a395fe5e-5a84-4bc6-af61-4ec53a50157c)
-    (at -14 -4 -90)
+    (at 14.25 1 -90)
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/e09e3aef-4989-4eb9-a3fa-33f39c9ac021")
@@ -1549,7 +1549,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/2d6bbac1-7c08-4f91-9135-aadcc56641ad")
-    (fp_text reference "J14" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J14" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 60f90512-e46d-4d0f-b6be-a17f3c84956a)
     )
@@ -1571,7 +1571,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/b5de7700-9672-4620-8840-3d97b96fe099")
-    (fp_text reference "J13" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J13" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 4315668b-9fb2-46af-8cf8-b49929df32f9)
     )
@@ -1615,7 +1615,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/bedb866b-26fe-4530-a3c9-30d82b0fe20d")
-    (fp_text reference "J21" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J21" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp cde2a490-4091-4edf-809b-73d4adf4eb6a)
     )
@@ -1637,7 +1637,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/40148d62-1283-461c-9c60-1286203ac1d9")
-    (fp_text reference "J17" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J17" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 5a74488a-044c-41ff-9e7a-a4ba6b2b09a5)
     )
@@ -1681,7 +1681,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/1e392e46-7777-4af9-966f-51ef80a3a15a")
-    (fp_text reference "J18" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J18" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 6f6b2098-a2a2-434e-837c-f3fa56b816f5)
     )
@@ -1725,7 +1725,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/91a828c5-bf2e-4219-bff3-2bd55f264b02")
-    (fp_text reference "J24" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J24" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 0ab297ea-de81-4d34-87b3-ee0a1b75554b)
     )
@@ -1747,7 +1747,7 @@
     (property "Sheetfile" "adapter.kicad_sch")
     (property "Sheetname" "")
     (path "/eca680ed-cb63-42ae-930a-7e1c80e9a6ba")
-    (fp_text reference "J16" (at 0 2 180 unlocked) (layer "B.SilkS")
+    (fp_text reference "J16" (at 0 2 180 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 5c0afdf4-d177-4161-93f0-18b9f5a8a31b)
     )
@@ -1803,10 +1803,22 @@
   (gr_line (start -12 -7.9) (end -12 7.9) (layer "Edge.Cuts") (width 0.05) (tstamp cc2f3d12-d368-403d-a6c2-76ee492cf064))
   (gr_arc (start 10 7.9) (end 10 9.9) (angle -90) (layer "Edge.Cuts") (width 0.05) (tstamp ce458c24-2898-4ba0-bdbb-02fae6d54755))
   (gr_line (start -15 15) (end 15 15) (layer "Edge.Cuts") (width 0.05) (tstamp d455f606-afca-4399-8f04-2df6e469057f))
-  (gr_text "0dbcc89" (at 14 10 90) (layer "B.SilkS") (tstamp 980ac7c6-af67-4f66-a6bc-3ef69a004bc1)
+  (gr_text "b5195e4" (at -13.5 0 90) (layer "B.SilkS") (tstamp 980ac7c6-af67-4f66-a6bc-3ef69a004bc1)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "0dbcc89" (at 14 10 90) (layer "F.SilkS") (tstamp 03a667f2-e9b4-4c4e-921f-f6dc2155aa4a)
+  (gr_text "b5195e4" (at -13.5 0 90) (layer "F.SilkS") (tstamp 03a667f2-e9b4-4c4e-921f-f6dc2155aa4a)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "6" (at 13.75 -13.75 180) (layer "F.SilkS") (tstamp 16e30ccf-2aa8-4407-a865-89a315e28f20)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "5" (at 13.5 13.5) (layer "F.SilkS") (tstamp 707d8b2a-b1f5-4b5a-bc8a-17c34ca6b12f)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "2" (at -13.5 -13.5 180) (layer "F.SilkS") (tstamp 89900e07-d7e5-4689-9912-4a5851ff1cf3)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "1" (at -13.5 13.5) (layer "F.SilkS") (tstamp 8f6262bd-bcc6-4fbf-9ea0-f2bb40d691e1)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
 
