@@ -1,4 +1,4 @@
-19530146317350028
+19544708019643770
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56567,12 +56567,54 @@ Through hole horizontal IDC box header THT 2x20 2.54mm double row
 40
 40
 MINE
+MILLMAX_816-22-002-10-007101
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+MINE
 MMS-106-02-X-SH
 surface-mounted straight socket strip, 1x06, 2.00mm pitch, single row, style 2 (pin 1 right) (https://www.jayconsystems.com/fileuploader/download/download/?d=1&file=custom%2Fupload%2FFile-1375728122.pdf), script generated
 Surface mounted socket strip SMD 1x06 2.00mm single row style2 pin1 right
 0
 12
 6
+MINE
+MountingHole_1.0mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+MINE
+MountingHole_3.15mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+MINE
+MountingHole_3.45mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+MINE
+MountingHole_7.1mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+MINE
+MountingHole_8.0mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
 MINE
 PinSocket_2x12_P2.00mm_Vertical_EDGE
 edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
@@ -56657,6 +56699,27 @@ low_profile_spring_pin
 0
 1
 1
+MINE
+luxigen_8.02X8.02
+
+
+0
+9
+9
+MINE
+luxigen_8.02X8.02_FR4
+
+
+0
+19
+9
+MINE
+site_small
+
+
+0
+0
+0
 MINE
 spring_pin
 

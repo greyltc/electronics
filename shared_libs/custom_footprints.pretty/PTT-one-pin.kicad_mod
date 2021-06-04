@@ -1,0 +1,16 @@
+(footprint "PTT-one-pin" (version 20210424) (generator pcbnew) (layer "F.Cu")
+  (tedit 60BA4A8C)
+  (fp_text reference "REF**" (at 0 -2 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5d8d4c7a-4b27-4cee-bfa4-57033c98d865)
+  )
+  (fp_text value "PTT-one-pin" (at 0 1.75 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c7ff4d1f-d114-40ca-b364-fcca231d032f)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -2 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f659af65-7142-4be5-9b9d-fdffb6a3972b)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 1.3 1.3) (drill 0.762) (layers *.Cu *.Mask) (tstamp 035d2561-c8dd-45a5-a9ba-a08b149ba9a5))
+)

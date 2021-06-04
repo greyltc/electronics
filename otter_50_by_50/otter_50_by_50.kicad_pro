@@ -379,7 +379,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../tmp/otter_50_by_50.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
