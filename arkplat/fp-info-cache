@@ -1,4 +1,4 @@
-19725733925394316
+19727361880473943
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84651,6 +84651,13 @@ D T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
 2
 2
 custom_footprints
+DF40HC(3.5)-80DS-0.4V(51)
+Mezzanine Receptacle
+
+0
+80
+80
+custom_footprints
 HTSS-120-04-G-D-RA
 Through hole IDC box header, 2x20, 2.54mm pitch, double rows
 Through hole horizontal IDC box header THT 2x20 2.54mm double row
@@ -84816,8 +84823,8 @@ portenta
 
 
 0
-164
-161
+0
+0
 custom_footprints
 site_small
 
