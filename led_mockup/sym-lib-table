@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "led_mockup-rescue")(type "Legacy")(uri "${KIPRJMOD}/led_mockup-rescue.lib")(options "")(descr ""))
+)
