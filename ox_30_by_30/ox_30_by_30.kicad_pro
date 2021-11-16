@@ -79,8 +79,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "error",
-        "silk_overlap": "error",
+        "silk_over_copper": "warning",
+        "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -108,7 +108,8 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997
+        "min_via_diameter": 0.39999999999999997,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [
         0.0,
@@ -358,7 +359,7 @@
       }
     ],
     "meta": {
-      "version": 0
+      "version": 1
     },
     "net_colors": null
   },
