@@ -1,5 +1,5 @@
-(footprint "0921" (version 20210228) (generator pcbnew) (layer "F.Cu")
-  (tedit 606D9D19)
+(footprint "0921" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 61940BEA)
   (fp_text reference "REF**" (at 0 -1.75 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ffa18a36-392a-4aed-a026-954a81ca039c)
@@ -13,8 +13,8 @@
     (tstamp e0867fb9-efbc-4a1d-9938-7c48fea09828)
   )
   (pad "1" thru_hole circle (at 0 0) (size 1.98 1.98) (drill 1.78) (layers *.Cu *.Mask) (tstamp 8a883655-766e-4ff2-8588-41362f83326e))
-  (model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-1-15-20-75-14-11-0.step"
-    (offset (xyz 0 0 -3.05))
+  (model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+    (offset (xyz 0 0 -3.45))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 90 0))
   )

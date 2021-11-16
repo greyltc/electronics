@@ -113,7 +113,8 @@
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0
+        "solder_mask_min_width": 0.0,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [
         0.0,
@@ -345,14 +346,14 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "otter_50_by_50.kicad_pro",
+    "filename": "adapter.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 6.0,
-        "clearance": 0.2,
+        "clearance": 0.1,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -379,7 +380,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../../tmp/otter_50_by_50.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -411,7 +412,8 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0
+      "model_mode": 0,
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
@@ -422,7 +424,7 @@
   },
   "sheets": [
     [
-      "86fb6746-2c9e-448a-91bf-ff6d63b7a663",
+      "b71f31e7-5cb4-4732-8ff2-e74450e92094",
       ""
     ]
   ],
