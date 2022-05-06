@@ -199,7 +199,7 @@
 
   (footprint "MountingHole:MountingHole_6.4mm_M6" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 0485cb3e-25e4-428a-80b6-abae8eab5bb0)
-    (at -72.8385 43.5)
+    (at -73 43.5)
     (descr "Mounting Hole 6.4mm, no annular, M6")
     (tags "mounting hole 6.4mm no annular m6")
     (property "Sheetfile" "squirrel.kicad_sch")
@@ -391,7 +391,7 @@
 
   (footprint "MountingHole:MountingHole_6.4mm_M6" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 3cff55be-81a3-4d62-9283-c9a492ad68bd)
-    (at 72.8385 -43.5)
+    (at 73 -43.5)
     (descr "Mounting Hole 6.4mm, no annular, M6")
     (tags "mounting hole 6.4mm no annular m6")
     (property "Sheetfile" "squirrel.kicad_sch")
@@ -645,7 +645,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp aedd5760-b981-429b-a9d0-6a22d249dc8b)
-    (at 72.838488 -65.999995)
+    (at 73 -66)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (property "Sheetfile" "squirrel.kicad_sch")
@@ -806,7 +806,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp f179bc0a-c553-4591-9e11-f03d6edfeb1f)
-    (at -72.8385 66)
+    (at -73 66)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (property "Sheetfile" "squirrel.kicad_sch")
