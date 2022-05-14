@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../mechanical/squirrel/components/pcb2.step",
+      "step": "../../mechanical/squirrel/components/pcb.step",
       "vrml": "../../../../../tmp/3o/squirrel.wrl"
     },
     "page_layout_descr_file": ""
