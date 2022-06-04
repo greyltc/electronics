@@ -1,4 +1,4 @@
-20209786918491534
+20188821744585048
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55146,20 +55146,6 @@ L_CommonMode_Toroid Vertical series Radial pin pitch 17.78*30.48mm^2  length 43.
 4
 4
 Inductor_THT
-L_CommonMode_VAC_T60405-S6123-X140
-3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X140.pdf
-common mode filter
-0
-6
-6
-Inductor_THT
-L_CommonMode_VAC_T60405-S6123-X240
-3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X240.pdf
-common mode filter
-0
-6
-6
-Inductor_THT
 L_CommonMode_Wuerth_WE-CMB-L
 Wuerth, WE-CMB, Bauform L,
 CommonModeChoke Gleichtaktdrossel 
@@ -71817,7 +71803,7 @@ VSON-8_3.3x3.3mm_P0.65mm_NexFET
 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf
 VSON 0.65
 0
-13
+12
 5
 Package_SON
 VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm
@@ -79891,48 +79877,6 @@ Symbol, Highvoltage, Type 2, Copper Top, Small,
 0
 0
 Symbol
-UKCA-Logo_6x6mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
-UKCA-Logo_8x8mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
-UKCA-Logo_12x12mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
-UKCA-Logo_20x20mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
-UKCA-Logo_30x30mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
-UKCA-Logo_40x40mm_SilkScreen
-UKCA marking
-Logo UKCA marking
-0
-0
-0
-Symbol
 WEEE-Logo_4.2x6mm_SilkScreen
 Waste Electrical and Electronic Equipment Directive
 Logo WEEE
@@ -85554,13 +85498,6 @@ mounting hole 2.1mm no annular
 0
 0
 custom_footprints
-MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom_screw
-Mounting Hole 3.2mm, M3, ISO7380 with screw
-mounting hole 3.2mm m3 iso7380 screw
-0
-3
-1
-custom_footprints
 MountingHole_3.2mm_M3_wscrew
 Mounting Hole 3.2mm, no annular, M3, with screw
 mounting hole 3.2mm no annular m3 screw
@@ -85673,19 +85610,12 @@ Through hole socket strip THT 2x20 2.54mm double row
 40
 40
 custom_footprints
-TST-120-04-G-D-RA
-Through hole right angle socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7)
-Through hole socket strip rigth angle THT 2x20 2.54mm double row
-0
-40
-40
-custom_footprints
 TST-125-01-G-D
 Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
 Through hole socket strip THT 2x20 2.54mm double row
 0
-50
-50
+40
+40
 custom_footprints
 logo
 
