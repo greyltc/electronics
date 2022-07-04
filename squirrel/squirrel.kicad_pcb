@@ -5285,10 +5285,10 @@
   (gr_text "COPPER BOT" (at -86 28 90) (layer "B.Cu") (tstamp 480fb9cb-fc42-4130-b9a0-f1085171921a)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "f74efd5" (at -87 40 -90) (layer "B.SilkS") (tstamp a871e672-28db-4168-89b7-1864a6b09b1c)
+  (gr_text "050ec02" (at -87 40 -90) (layer "B.SilkS") (tstamp a871e672-28db-4168-89b7-1864a6b09b1c)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "f74efd5" (at -87.015256 39.999999 -90) (layer "F.SilkS") (tstamp 9179a1c5-fdfb-4f69-9b6c-a32b19a2e9d9)
+  (gr_text "050ec02" (at -87.015256 39.999999 -90) (layer "F.SilkS") (tstamp 9179a1c5-fdfb-4f69-9b6c-a32b19a2e9d9)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
