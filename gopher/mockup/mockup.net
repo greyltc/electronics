@@ -1,0 +1,536 @@
+(export 
+  (version D) 
+  (design 
+    (source /home/grey/git/solar-sim-electronics/KiCAD/springPins25x25DBG/springPins25x25DBG.sch) 
+    (date "Fri 20 Apr 2018 02:58:38 PM BST") 
+    (tool "Eeschema (5.0.0-rc1)") 
+    (sheet 
+      (number 1) 
+      (name /) 
+      (tstamps /) 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source mockup.sch) 
+        (comment 
+          (number 1) 
+          (value "")) 
+        (comment 
+          (number 2) 
+          (value "")) 
+        (comment 
+          (number 3) 
+          (value "")) 
+        (comment 
+          (number 4) 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref TP6) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4C4F2)) 
+    (comp 
+      (ref TP5) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4C553)) 
+    (comp 
+      (ref TP8) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4C6B7)) 
+    (comp 
+      (ref TP7) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4C6BD)) 
+    (comp 
+      (ref TP4) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4C747)) 
+    (comp 
+      (ref TP3) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4C74D)) 
+    (comp 
+      (ref TP18) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4CA5F)) 
+    (comp 
+      (ref TP17) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4CA65)) 
+    (comp 
+      (ref TP20) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4CA6B)) 
+    (comp 
+      (ref TP19) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4CA71)) 
+    (comp 
+      (ref TP16) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4CA77)) 
+    (comp 
+      (ref TP15) 
+      (value TEST) 
+      (footprint myParts:S25-022+P25-4023) 
+      (libsource 
+        (lib Connector_Specialized) 
+        (part Test_Point)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 58E4CA7D)) 
+    (comp 
+      (ref J1) 
+      (value CONN_02X06) 
+      (footprint Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical) 
+      (libsource 
+        (lib Connector_Generic) 
+        (part Conn_02x06_Odd_Even)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 599DB107)) 
+    (comp 
+      (ref J2) 
+      (value CONN_02X06) 
+      (footprint Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical) 
+      (libsource 
+        (lib Connector_Generic) 
+        (part Conn_02x06_Odd_Even)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 599DB1BB)) 
+    (comp 
+      (ref R1) 
+      (value 200k) 
+      (footprint Resistor_SMD:R_1206_3216Metric) 
+      (libsource 
+        (lib Device) 
+        (part R)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 599DBDE1)) 
+    (comp 
+      (ref L1) 
+      (value GREY@CHRISTOFORO.NET) 
+      (footprint myParts:logo_small) 
+      (libsource 
+        (lib myParts) 
+        (part GREY@CHRISTOFORO.NET)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 59BFB10C)) 
+    (comp 
+      (ref JP1) 
+      (value Jumper_NO_Small) 
+      (footprint Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm) 
+      (libsource 
+        (lib Device) 
+        (part Jumper_NO_Small)) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 59F4B423))) 
+  (libparts 
+    (libpart 
+      (lib Connector_Generic) 
+      (part Conn_02x06_Odd_Even) 
+      (description "Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs ~) 
+      (footprints 
+        (fp Connector*:*_2x??_*)) 
+      (fields 
+        (field 
+          (name Reference) J) 
+        (field 
+          (name Value) Conn_02x06_Odd_Even)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name Pin_1) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name Pin_2) 
+          (type passive)) 
+        (pin 
+          (num 3) 
+          (name Pin_3) 
+          (type passive)) 
+        (pin 
+          (num 4) 
+          (name Pin_4) 
+          (type passive)) 
+        (pin 
+          (num 5) 
+          (name Pin_5) 
+          (type passive)) 
+        (pin 
+          (num 6) 
+          (name Pin_6) 
+          (type passive)) 
+        (pin 
+          (num 7) 
+          (name Pin_7) 
+          (type passive)) 
+        (pin 
+          (num 8) 
+          (name Pin_8) 
+          (type passive)) 
+        (pin 
+          (num 9) 
+          (name Pin_9) 
+          (type passive)) 
+        (pin 
+          (num 10) 
+          (name Pin_10) 
+          (type passive)) 
+        (pin 
+          (num 11) 
+          (name Pin_11) 
+          (type passive)) 
+        (pin 
+          (num 12) 
+          (name Pin_12) 
+          (type passive)))) 
+    (libpart 
+      (lib myParts) 
+      (part GREY@CHRISTOFORO.NET) 
+      (description Logo) 
+      (footprints 
+        (fp logo)) 
+      (fields 
+        (field 
+          (name Reference) L) 
+        (field 
+          (name Value) GREY@CHRISTOFORO.NET))) 
+    (libpart 
+      (lib Device) 
+      (part Jumper_NO_Small) 
+      (description "Jumper, normally open") 
+      (docs ~) 
+      (fields 
+        (field 
+          (name Reference) JP) 
+        (field 
+          (name Value) Jumper_NO_Small)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name 1) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name 2) 
+          (type passive)))) 
+    (libpart 
+      (lib Device) 
+      (part R) 
+      (description Resistor) 
+      (docs ~) 
+      (footprints 
+        (fp R_*) 
+        (fp R_*)) 
+      (fields 
+        (field 
+          (name Reference) R) 
+        (field 
+          (name Value) R)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name ~) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name ~) 
+          (type passive)))) 
+    (libpart 
+      (lib Connector_Specialized) 
+      (part Test_Point) 
+      (description "test point") 
+      (docs ~) 
+      (footprints 
+        (fp Pin*) 
+        (fp Test*)) 
+      (fields 
+        (field 
+          (name Reference) TP) 
+        (field 
+          (name Value) Test_Point)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name 1) 
+          (type passive))))) 
+  (libraries 
+    (library 
+      (logical Connector_Generic) 
+      (uri /usr/share/kicad/library/Connector_Generic.lib)) 
+    (library 
+      (logical Connector_Specialized) 
+      (uri /usr/share/kicad/library/Connector_Specialized.lib)) 
+    (library 
+      (logical Device) 
+      (uri /usr/share/kicad/library/Device.lib)) 
+    (library 
+      (logical myParts) 
+      (uri /home/grey/git/solar-sim-electronics/KiCAD/springPins25x25DBG/sharedLibs/myParts.lib))) 
+  (nets 
+    (net 
+      (code 1) 
+      (name /I8) 
+      (node 
+        (ref J1) 
+        (pin 12))) 
+    (net 
+      (code 2) 
+      (name /IB) 
+      (node 
+        (ref TP19) 
+        (pin 1)) 
+      (node 
+        (ref J2) 
+        (pin 7))) 
+    (net 
+      (code 3) 
+      (name /VB) 
+      (node 
+        (ref J2) 
+        (pin 5)) 
+      (node 
+        (ref TP7) 
+        (pin 1))) 
+    (net 
+      (code 4) 
+      (name /IT) 
+      (node 
+        (ref TP4) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 8)) 
+      (node 
+        (ref TP17) 
+        (pin 1))) 
+    (net 
+      (code 5) 
+      (name /VT) 
+      (node 
+        (ref J1) 
+        (pin 6)) 
+      (node 
+        (ref TP16) 
+        (pin 1)) 
+      (node 
+        (ref TP5) 
+        (pin 1))) 
+    (net 
+      (code 6) 
+      (name /V8) 
+      (node 
+        (ref J1) 
+        (pin 10))) 
+    (net 
+      (code 7) 
+      (name /I7) 
+      (node 
+        (ref J2) 
+        (pin 11))) 
+    (net 
+      (code 8) 
+      (name /V7) 
+      (node 
+        (ref J2) 
+        (pin 9))) 
+    (net 
+      (code 9) 
+      (name /I3) 
+      (node 
+        (ref TP18) 
+        (pin 1)) 
+      (node 
+        (ref J2) 
+        (pin 6)) 
+      (node 
+        (ref J2) 
+        (pin 8))) 
+    (net 
+      (code 10) 
+      (name /I5) 
+      (node 
+        (ref TP15) 
+        (pin 1)) 
+      (node 
+        (ref J2) 
+        (pin 10)) 
+      (node 
+        (ref J2) 
+        (pin 12))) 
+    (net 
+      (code 11) 
+      (name /I6) 
+      (node 
+        (ref TP3) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 11)) 
+      (node 
+        (ref J1) 
+        (pin 9))) 
+    (net 
+      (code 12) 
+      (name /I4) 
+      (node 
+        (ref TP6) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 5)) 
+      (node 
+        (ref J1) 
+        (pin 7))) 
+    (net 
+      (code 13) 
+      (name /I2) 
+      (node 
+        (ref TP8) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 1)) 
+      (node 
+        (ref J1) 
+        (pin 3))) 
+    (net 
+      (code 14) 
+      (name /I1) 
+      (node 
+        (ref J2) 
+        (pin 2)) 
+      (node 
+        (ref J2) 
+        (pin 4)) 
+      (node 
+        (ref TP20) 
+        (pin 1))) 
+    (net 
+      (code 15) 
+      (name /FCu) 
+      (node 
+        (ref J2) 
+        (pin 1)) 
+      (node 
+        (ref JP1) 
+        (pin 2))) 
+    (net 
+      (code 16) 
+      (name /BCu) 
+      (node 
+        (ref J2) 
+        (pin 3)) 
+      (node 
+        (ref JP1) 
+        (pin 1))) 
+    (net 
+      (code 17) 
+      (name /RL) 
+      (node 
+        (ref J1) 
+        (pin 4)) 
+      (node 
+        (ref R1) 
+        (pin 1))) 
+    (net 
+      (code 18) 
+      (name /RH) 
+      (node 
+        (ref R1) 
+        (pin 2)) 
+      (node 
+        (ref J1) 
+        (pin 2)))))

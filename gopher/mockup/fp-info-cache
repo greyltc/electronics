@@ -1,4 +1,4 @@
-20328757602742647
+20339640628469774
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85672,276 +85672,318 @@ varistor SIOV
 0
 2
 2
-custom_footprints
-02X06_SMT
-surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x06 2.54mm double row
-0
-12
-12
-custom_footprints
-0921
+myParts
+0508-0-00-15-00-00-03-0
 
 
 0
 1
 1
-custom_footprints
-0921-pair
+myParts
+854-22-002-30-001101
+${KIPRJMOD}/../datasheets/mill-max-spring-pin.pdf
+
+0
+2
+2
+myParts
+4994-0-15-15-11-27-10-0
+
+
+0
+1
+1
+myParts
+Arduino_1pin
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+1
+1
+myParts
+BPW21
 
 
 0
 2
 2
-custom_footprints
-4280
-MILL-MAX receptical 4280 with fibre plug, accepts standard 0.025" square posts
-
-0
-1
-1
-custom_footprints
-5342
-
-
-0
-1
-1
-custom_footprints
-71609
-
-
-0
-12
-12
-custom_footprints
+myParts
 BPW34
-Horizontal, pin pitch=5.08mm, OSRAM Q62702P0073, 2.65x2.65mm active area =7.0225mm^2
+D, T-1 series, Axial, Horizontal, pin pitch=5.08mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
 D T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
 0
 2
 2
-custom_footprints
-DF40HC(3.5)-80DS-0.4V(51)
-Mezzanine Receptacle
+myParts
+CLM-103-02-L-D
+
 
 0
-80
-80
-custom_footprints
-HTSS-120-04-G-D-RA
-Through hole IDC box header, 2x20, 2.54mm pitch, double rows
-Through hole horizontal IDC box header THT 2x20 2.54mm double row
+6
+6
+myParts
+ESQ-106-44-G-D
+Through hole straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x06 2.54mm double row
 0
-40
-40
-custom_footprints
-MILLMAX_816-22-002-10-007101
-Through hole straight pin header, 1x02, 2.54mm pitch, single row
-Through hole pin header THT 1x02 2.54mm single row
+12
+12
+myParts
+ESQ-106-44-G-D-004
+Through hole straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x06 2.54mm double row
 0
-2
-2
-custom_footprints
-MMS-106-02-X-SH
-surface-mounted straight socket strip, 1x06, 2.00mm pitch, single row, style 2 (pin 1 right) (https://www.jayconsystems.com/fileuploader/download/download/?d=1&file=custom%2Fupload%2FFile-1375728122.pdf), script generated
-Surface mounted socket strip SMD 1x06 2.00mm single row style2 pin1 right
+12
+12
+myParts
+FTMH-103-03-L-DH
+
+
+0
+6
+6
+myParts
+Grayhill_94H
+
+
+0
+6
+5
+myParts
+M50-3130342
+
+
+0
+3
+3
+myParts
+PhoenixContact_MSTB-GF_04x5.00mm_Angled_ThreadedFlange_MountHole
+Generic Phoenix Contact connector footprint for series: MSTB-GF; number of pins: 04; pin pitch: 5.00mm; Angled; threaded flange (footprint includes mount hole) || order number: 1923995 16A (HC) || order number: 1776715 12A
+phoenix_contact connector MSTB_01x04_GF_5.00mm_MH
+0
+4
+4
+myParts
+RJ45_UDE_PoE
+1 Port RJ45 Connector Through Hole 10/100 Base-T, PoE
+RJ45 Magjack
+0
+16
+15
+myParts
+RSM-103-02-L-D
+
+
 0
 12
 6
-custom_footprints
-MountingHole_1.0mm
-Mounting Hole 2.1mm, no annular
-mounting hole 2.1mm no annular
-0
-0
-0
-custom_footprints
-MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom_screw
-Mounting Hole 3.2mm, M3, ISO7380 with screw
-mounting hole 3.2mm m3 iso7380 screw
-0
-3
-1
-custom_footprints
-MountingHole_3.2mm_M3_wscrew
-Mounting Hole 3.2mm, no annular, M3, with screw
-mounting hole 3.2mm no annular m3 screw
-0
-0
-0
-custom_footprints
-MountingHole_3.15mm
-Mounting Hole 2.1mm, no annular
-mounting hole 2.1mm no annular
-0
-0
-0
-custom_footprints
-MountingHole_3.45mm
-Mounting Hole 2.1mm, no annular
-mounting hole 2.1mm no annular
-0
-0
-0
-custom_footprints
-MountingHole_7.1mm
-Mounting Hole 2.1mm, no annular
-mounting hole 2.1mm no annular
-0
-0
-0
-custom_footprints
-MountingHole_8.0mm
-Mounting Hole 2.1mm, no annular
-mounting hole 2.1mm no annular
-0
-0
-0
-custom_footprints
-PTT-one-pin
+myParts
+S13-503+P13-4023
 
 
 0
 1
 1
-custom_footprints
-PinSocket_2x12_P2.00mm_Vertical_EDGE
-edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
-Edge mounted socket strip EDGE 2x12 2.00mm double row
-0
-24
-24
-custom_footprints
-PinSocket_2x12_P2.00mm_Vertical_EDGE_USBC_pins
-edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
-Edge mounted socket strip EDGE 2x12 2.00mm double row
-0
-24
-24
-custom_footprints
-SAMTEC-MMS-112-02-X-SH
-translated Allegro footprint
+myParts
+S25-022+P25-4023
+
 
 0
-24
-24
-custom_footprints
-SAMTEC-MMS-112-02-X-SH-BRIDGE-PAD
-translated Allegro footprint
+1
+1
+myParts
+SSM-107-L-DV
+surface-mounted straight socket strip, 2x07, 2.54mm pitch, double rows
+Surface mounted socket strip SMD 2x07 2.54mm double row
+0
+14
+14
+myParts
+SSM-107-L-DV-INV
+surface-mounted straight socket strip, 2x07, 2.54mm pitch, double rows
+Surface mounted socket strip SMD 2x07 2.54mm double row
+0
+14
+14
+myParts
+SSW-106-02-T-D-RA-IN14
+Through hole angled socket strip, 2x07, 2.54mm pitch, 8.51mm socket length, double rows
+Through hole angled socket strip THT 2x07 2.54mm double row
+0
+14
+14
+myParts
+SSW-106-02-T-D-RA-IN14-INV
+Through hole angled socket strip, 2x07, 2.54mm pitch, 8.51mm socket length, double rows
+Through hole angled socket strip THT 2x07 2.54mm double row
+0
+14
+14
+myParts
+SSW-107-02-T-D-RA
+Through hole angled socket strip, 2x07, 2.54mm pitch, 8.51mm socket length, double rows
+Through hole angled socket strip THT 2x07 2.54mm double row
+0
+14
+14
+myParts
+SSW-107-02-T-D-RA-INV
+Through hole angled socket strip, 2x07, 2.54mm pitch, 8.51mm socket length, double rows
+Through hole angled socket strip THT 2x07 2.54mm double row
+0
+14
+14
+myParts
+Socket_Strip_Arduino_1x08
+Through hole socket strip
+socket strip
+0
+8
+8
+myParts
+Socket_Strip_Arduino_1x10
+Through hole socket strip
+socket strip
+0
+10
+10
+myParts
+Socket_Strip_Arduino_2x18
+Through hole socket strip
+socket strip
+0
+36
+36
+myParts
+SolderWirePad_single_SMD_4.7x3.2mm
+Wire Pad, Square, SMD Pad,  5mm x 10mm,
+MesurementPoint Square SMDPad 5mmx10mm 
+0
+1
+1
+myParts
+SolderWirePad_single_SMD_5x2.3mm
+Wire Pad, Square, SMD Pad,  5mm x 10mm,
+MesurementPoint Square SMDPad 5mmx10mm 
+0
+1
+1
+myParts
+TE_5-103168-4
+
 
 0
-24
 12
-custom_footprints
-Samtec_MECF-08-0_-NP-L-DV_2x08_P1.27mm_Edge_mod
-Highspeed card edge connector for PCB's with 08 contacts (not polarized)
-conn samtec card-edge high-speed
+12
+myParts
+TMS-103-01-L-D-SE
+
+
 0
-16
-16
-custom_footprints
-Samtec_MECF-08-01-NP-L-DV-WT_2x08_P1.27mm_Socket_Horizontal_mod
-Highspeed card edge connector for 1.6mm PCB's with 08 contacts (not polarized)
-conn samtec card-edge high-speed
+6
+6
+myParts
+TMS-103-02-L-D-SE
+
+
 0
-18
-16
-custom_footprints
-Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge_mod
-Highspeed card edge connector for PCB's with 20 contacts (not polarized)
-conn samtec card-edge high-speed
+6
+6
+myParts
+TO-5_2-PIN
+
+
 0
-40
-40
-custom_footprints
-Samtec_MECF-20-01-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal_mod
-Highspeed card edge connector for 1.6mm PCB's with 20 contacts (not polarized)
-conn samtec card-edge high-speed
+2
+2
+myParts
+TSM-109-01-T-SV
+
+
 0
-42
-40
-custom_footprints
-TMM-112-01-STRADDLE
-edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
-Edge mounted socket strip EDGE 2x12 2.00mm double row
+9
+9
+myParts
+TSM-109-01-T-SV-INV
+
+
 0
-24
-24
-custom_footprints
-TST-120-01-G-D
-Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x20 2.54mm double row
+9
+9
+myParts
+TSM-110-01-T-SV
+
+
 0
-40
-40
-custom_footprints
-TST-120-04-G-D-RA
-Through hole right angle socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7)
-Through hole socket strip rigth angle THT 2x20 2.54mm double row
+10
+10
+myParts
+TSM-110-01-T-SV-INV
+
+
 0
-40
-40
-custom_footprints
-TST-125-01-G-D
-Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x20 2.54mm double row
+10
+10
+myParts
+TSSH-106-01-T-D
+Through hole straight pin header, 2x06, 2.54mm pitch, double rows
+Through hole pin header THT 2x06 2.54mm double row
 0
-50
-50
-custom_footprints
+12
+12
+myParts
+TSSH-106-01-T-D-04
+Through hole straight pin header, 2x06, 2.54mm pitch, double rows
+Through hole pin header THT 2x06 2.54mm double row
+0
+12
+12
+myParts
+TSW-107-22-T-D
+Through hole straight pin header, 2x07, 2.54mm pitch, double rows
+Through hole pin header THT 2x07 2.54mm double row
+0
+14
+14
+myParts
+TSW-107-22-T-D-INV
+Through hole straight pin header, 2x07, 2.54mm pitch, double rows
+Through hole pin header THT 2x07 2.54mm double row
+0
+14
+14
+myParts
+Test_Point_S1751-46R
+SMD test Point, S1751-46R
+test point SMD S1751-46R
+0
+1
+1
+myParts
+VISHAY_CRA12E
+VISHAY CRA12E
+resistor array
+0
+8
+8
+myParts
+arduino_micro
+Arduino Micro
+Arduino Micro
+0
+4
+4
+myParts
 logo
 
 
 0
 0
 0
-custom_footprints
+myParts
 logo_small
 
 
 0
 0
 0
-custom_footprints
-low_profile_spring_pin
-
-
-0
-1
-1
-custom_footprints
-luxigen_8.02X8.02
-
-
-0
-9
-9
-custom_footprints
-luxigen_8.02X8.02_FR4
-
-
-0
-19
-9
-custom_footprints
-portenta
-
-
-0
-0
-0
-custom_footprints
-site_small
-
-
-0
-0
-0
-custom_footprints
-spring_pin
-
-
-0
-1
-1

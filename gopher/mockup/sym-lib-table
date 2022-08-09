@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "myParts")(type "Legacy")(uri "${KIPRJMOD}/sharedLibs/myParts.lib")(options "")(descr ""))
+  (lib (name "mockup-rescue")(type "Legacy")(uri "${KIPRJMOD}/mockup-rescue.lib")(options "")(descr ""))
+)
