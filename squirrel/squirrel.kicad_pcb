@@ -4950,7 +4950,6 @@
     )
   )
 
-  (gr_circle (center 0 0) (end -2 0) (layer "Dwgs.User") (width 0.15) (fill none) (tstamp 24e8c986-7975-4edb-8de7-561203417e86))
   (gr_arc (start -65.177 18.323) (mid -64.591214 16.908786) (end -63.177 16.323) (layer "Edge.Cuts") (width 0.1) (tstamp 0024ce0d-1fff-4354-aae9-68b441df43c5))
   (gr_arc (start -41.823 16.323) (mid -40.408786 16.908786) (end -39.823 18.323) (layer "Edge.Cuts") (width 0.1) (tstamp 007f29cd-6e29-4beb-89a3-be1421d57166))
   (gr_arc (start 4.823 -10.677) (mid 5.408786 -12.091214) (end 6.823 -12.677) (layer "Edge.Cuts") (width 0.1) (tstamp 028a72fd-323a-416a-9d37-2a5f1f93c6e3))
