@@ -1,4 +1,4 @@
-20396555178983197
+20396555180361942
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85852,7 +85852,7 @@ Mounting_Wuerth_WA-SMSI-4.5mm_H3mm_9774030482_pad_mod
 Mounting Hardware, inside through hole 4.5mm, height 3, Wuerth electronics 9774030482 (https://katalog.we-online.de/em/datasheet/9774030482.pdf), generated with kicad-footprint-generator
 Mounting 4.5mm 9774030482
 0
-14
+13
 1
 custom_footprints
 PTT-one-pin
