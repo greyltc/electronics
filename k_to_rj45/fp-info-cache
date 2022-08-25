@@ -1,4 +1,4 @@
-20396555180361942
+20399878052173376
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85876,6 +85876,13 @@ Edge mounted socket strip EDGE 2x12 2.00mm double row
 24
 24
 custom_footprints
+RJ45_TE_5557969-1_vertical_shield
+RJ45 jack vertical https://www.te.com/usa-en/product-5557969-1.html
+RJ45 ethernet
+0
+10
+9
+custom_footprints
 SAMTEC-MMS-112-02-X-SH
 translated Allegro footprint
 
@@ -85889,6 +85896,13 @@ translated Allegro footprint
 0
 24
 12
+custom_footprints
+SPDT_slide_switch
+C & K PCB Slide Switch Single Pole Double Throw (SPDT) 1101M2S3CQE2
+
+0
+3
+3
 custom_footprints
 Samtec_MECF-08-0_-NP-L-DV_2x08_P1.27mm_Edge_mod
 Highspeed card edge connector for PCB's with 08 contacts (not polarized)
