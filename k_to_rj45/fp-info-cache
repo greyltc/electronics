@@ -1,4 +1,4 @@
-20399878052173376
+20401539748788219
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85852,7 +85852,7 @@ Mounting_Wuerth_WA-SMSI-4.5mm_H3mm_9774030482_pad_mod
 Mounting Hardware, inside through hole 4.5mm, height 3, Wuerth electronics 9774030482 (https://katalog.we-online.de/em/datasheet/9774030482.pdf), generated with kicad-footprint-generator
 Mounting 4.5mm 9774030482
 0
-13
+12
 1
 custom_footprints
 PTT-one-pin
@@ -85876,8 +85876,15 @@ Edge mounted socket strip EDGE 2x12 2.00mm double row
 24
 24
 custom_footprints
-RJ45_TE_5557969-1_vertical_shield
-RJ45 jack vertical https://www.te.com/usa-en/product-5557969-1.html
+RJ45_TE_100616-1_vertical_shield
+RJ45 CAT3 jack vertical https://www.te.com/usa-en/product-100616-1.html
+RJ45 ethernet
+0
+10
+9
+custom_footprints
+RJ45_WURTH_615008142621_horizontal_shield
+RJ45 CAT3 jack vertical https://www.te.com/usa-en/product-100616-1.html
 RJ45 ethernet
 0
 10
