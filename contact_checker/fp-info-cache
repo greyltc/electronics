@@ -1,4 +1,4 @@
-20401539750536042
+20403202242080845
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85777,6 +85777,13 @@ Mezzanine Receptacle
 0
 80
 80
+custom_footprints
+DSUB-9_Male_Female_Vertical_Stack_P2.77x2.84mm_MountingHoles
+9-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, NorComp part 189-009-413R571
+9-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 25mm
+0
+22
+19
 custom_footprints
 HTSS-120-04-G-D-RA
 Through hole IDC box header, 2x20, 2.54mm pitch, double rows
