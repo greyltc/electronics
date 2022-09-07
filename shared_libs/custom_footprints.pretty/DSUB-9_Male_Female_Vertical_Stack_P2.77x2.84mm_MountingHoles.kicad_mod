@@ -20,7 +20,7 @@
   (fp_line (start 15.29 -3.53) (end 15.29 16.08) (layer "F.SilkS") (width 0.12) (tstamp c462b956-b528-489e-857d-3e3e53a2faa8))
   (fp_line (start 15.29 -3.53) (end -15.29 -3.53) (layer "F.SilkS") (width 0.12) (tstamp c5f3fde6-304a-4be0-968f-7660035c867a))
   (fp_line (start 15.29 16.08) (end -15.29 16.08) (layer "Edge.Cuts") (width 0.12) (tstamp 4d6d59bd-56ff-49bf-a2be-18783f6a64fe))
-  (fp_rect (start 15.79 16.58) (end -15.71 -3.92) (layer "Margin") (width 0.12) (fill none) (tstamp aa9588c5-88a0-407f-b28a-283bd7902882))
+  (fp_rect (start 15.79 16.58) (end -15.71 -3.92) (layer "F.CrtYd") (width 0.12) (fill none) (tstamp aa9588c5-88a0-407f-b28a-283bd7902882))
   (pad "0" thru_hole circle (at -12.5 8) (size 4 4) (drill 3.05) (layers *.Cu *.Mask) (tstamp 02be9c52-1d4a-4cf4-912d-ec258c7cc335))
   (pad "0" thru_hole circle (at 12.5 0) (size 4 4) (drill 3.05) (layers *.Cu *.Mask) (tstamp 2723bfbd-3365-4dcb-8dcc-fc960fe1e567))
   (pad "0" thru_hole circle (at -12.5 0) (size 4 4) (drill 3.05) (layers *.Cu *.Mask) (tstamp 311070b9-10bb-42bf-b4f7-926334cdfe61))
