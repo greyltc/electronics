@@ -530,7 +530,7 @@
   (gr_text "IO1" (at 153.582037 102.459 270) (layer "F.SilkS") (tstamp 5e20918d-5629-4742-b82e-d856fa8ac50e)
     (effects (font (size 1 1) (thickness 0.15)) (justify right))
   )
-  (gr_text "g4752369" (at 136.457021 122.837959) (layer "F.SilkS") (tstamp 775456cd-2954-4d57-a47d-d3fb6817a9d9)
+  (gr_text "ge020abe" (at 136.457021 122.837959) (layer "F.SilkS") (tstamp 775456cd-2954-4d57-a47d-d3fb6817a9d9)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "+5V" (at 153.582037 108.339 270) (layer "F.SilkS") (tstamp a0b3b381-2c4d-4dc1-8a99-6879fc303a8a)
