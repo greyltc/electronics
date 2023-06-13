@@ -1,4 +1,4 @@
-21520341060714087
+21593688955641353
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89431,3 +89431,318 @@ varistor
 0
 2
 2
+custom
+02X06_SMT
+surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x06 2.54mm double row
+0
+12
+12
+custom
+0921
+
+
+0
+1
+1
+custom
+0921-pair
+
+
+0
+2
+2
+custom
+4280
+MILL-MAX receptical 4280 with fibre plug, accepts standard 0.025" square posts
+
+0
+1
+1
+custom
+5342
+
+
+0
+1
+1
+custom
+71609
+
+
+0
+12
+12
+custom
+BPW34
+Horizontal, pin pitch=5.08mm, OSRAM Q62702P0073, 2.65x2.65mm active area =7.0225mm^2
+D T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
+0
+2
+2
+custom
+Banana_Cliff_FCR7350x_S16N-PC_Horizontal
+Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+cliff 4mm socket jack banana
+0
+1
+1
+custom
+DF40HC(3.5)-80DS-0.4V(51)
+Mezzanine Receptacle
+
+0
+80
+80
+custom
+DSUB-9_Male_Female_Vertical_Stack_P2.77x2.84mm_MountingHoles
+9-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, NorComp part 189-009-413R571
+9-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 25mm
+0
+22
+19
+custom
+HTSS-120-04-G-D-RA
+Through hole IDC box header, 2x20, 2.54mm pitch, double rows
+Through hole horizontal IDC box header THT 2x20 2.54mm double row
+0
+40
+40
+custom
+MILLMAX_816-22-002-10-007101
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+custom
+MMS-106-02-X-SH
+surface-mounted straight socket strip, 1x06, 2.00mm pitch, single row, style 2 (pin 1 right) (https://www.jayconsystems.com/fileuploader/download/download/?d=1&file=custom%2Fupload%2FFile-1375728122.pdf), script generated
+Surface mounted socket strip SMD 1x06 2.00mm single row style2 pin1 right
+0
+12
+6
+custom
+MountingHole_1.0mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+custom
+MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom_screw
+Mounting Hole 3.2mm, M3, ISO7380 with screw
+mounting hole 3.2mm m3 iso7380 screw
+0
+3
+1
+custom
+MountingHole_3.2mm_M3_wscrew
+Mounting Hole 3.2mm, no annular, M3, with screw
+mounting hole 3.2mm no annular m3 screw
+0
+0
+0
+custom
+MountingHole_3.15mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+custom
+MountingHole_3.45mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+custom
+MountingHole_7.1mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+custom
+MountingHole_8.0mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+custom
+Mounting_Wuerth_WA-SMSI-4.5mm_H3mm_9774030482_pad_mod
+Mounting Hardware, inside through hole 4.5mm, height 3, Wuerth electronics 9774030482 (https://katalog.we-online.de/em/datasheet/9774030482.pdf), generated with kicad-footprint-generator
+Mounting 4.5mm 9774030482
+0
+12
+1
+custom
+PTT-one-pin
+
+
+0
+1
+1
+custom
+PinSocket_2x12_P2.00mm_Vertical_EDGE
+edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
+Edge mounted socket strip EDGE 2x12 2.00mm double row
+0
+24
+24
+custom
+PinSocket_2x12_P2.00mm_Vertical_EDGE_USBC_pins
+edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
+Edge mounted socket strip EDGE 2x12 2.00mm double row
+0
+24
+24
+custom
+RJ45_TE_100616-1_vertical_shield
+RJ45 CAT3 jack vertical https://www.te.com/usa-en/product-100616-1.html
+RJ45 ethernet
+0
+10
+9
+custom
+RJ45_WURTH_615008142621_horizontal_shield
+RJ45 CAT3 jack vertical https://www.te.com/usa-en/product-100616-1.html
+RJ45 ethernet
+0
+10
+9
+custom
+SAMTEC-MMS-112-02-X-SH
+translated Allegro footprint
+
+0
+24
+24
+custom
+SAMTEC-MMS-112-02-X-SH-BRIDGE-PAD
+translated Allegro footprint
+
+0
+24
+12
+custom
+SPDT_slide_switch
+C & K PCB Slide Switch Single Pole Double Throw (SPDT) 1101M2S3CQE2
+
+0
+3
+3
+custom
+Samtec_MECF-08-0_-NP-L-DV_2x08_P1.27mm_Edge_mod
+Highspeed card edge connector for PCB's with 08 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+16
+16
+custom
+Samtec_MECF-08-01-NP-L-DV-WT_2x08_P1.27mm_Socket_Horizontal_mod
+Highspeed card edge connector for 1.6mm PCB's with 08 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+18
+16
+custom
+Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge_mod
+Highspeed card edge connector for PCB's with 20 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+40
+40
+custom
+Samtec_MECF-20-01-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal_mod
+Highspeed card edge connector for 1.6mm PCB's with 20 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+42
+40
+custom
+TMM-112-01-STRADDLE
+edge-mounted straight socket strip, 2x12, 2.00mm pitch, double cols (from Kicad 4.0.7), SQT-112-03-L-D
+Edge mounted socket strip EDGE 2x12 2.00mm double row
+0
+24
+24
+custom
+TST-120-01-G-D
+Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x20 2.54mm double row
+0
+40
+40
+custom
+TST-120-04-G-D-RA
+Through hole right angle socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7)
+Through hole socket strip rigth angle THT 2x20 2.54mm double row
+0
+40
+40
+custom
+TST-125-01-G-D
+Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x20 2.54mm double row
+0
+50
+50
+custom
+logo
+
+
+0
+0
+0
+custom
+logo_small
+
+
+0
+0
+0
+custom
+low_profile_spring_pin
+
+
+0
+1
+1
+custom
+luxigen_8.02X8.02
+
+
+0
+9
+9
+custom
+luxigen_8.02X8.02_FR4
+
+
+0
+19
+9
+custom
+portenta
+
+
+0
+0
+0
+custom
+site_small
+
+
+0
+0
+0
+custom
+spring_pin
+
+
+0
+1
+1
