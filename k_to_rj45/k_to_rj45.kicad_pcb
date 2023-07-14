@@ -4619,7 +4619,7 @@
   (gr_text "←LO→" (at 123.825 76.2) (layer "B.SilkS") (tstamp 10dac343-e353-4387-a35c-f49d5f51c773)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "gd87d8d8" (at 103.505 79.15 90) (layer "B.SilkS") (tstamp 74aefbeb-1b1d-494b-b3fe-1d39f9357ef9)
+  (gr_text "b8007ef" (at 103.505 79.15 90) (layer "B.SilkS") (tstamp 74aefbeb-1b1d-494b-b3fe-1d39f9357ef9)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "GUARD SENSE" (at 95.25 82.55) (layer "B.SilkS") (tstamp 88a09831-fbab-41d4-a965-e00ff7977380)
@@ -4664,7 +4664,7 @@
   (gr_text "←HI→" (at 123.825 57.15) (layer "F.SilkS") (tstamp d104de47-6ef1-4602-ae56-912949baec2d)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "gd87d8d8" (at 103.3 67.15 90) (layer "F.SilkS") (tstamp ef4158ca-4ce5-4a91-b63c-e1737655cfaf)
+  (gr_text "b8007ef" (at 103.3 67.15 90) (layer "F.SilkS") (tstamp ef4158ca-4ce5-4a91-b63c-e1737655cfaf)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 

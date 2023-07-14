@@ -446,7 +446,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "switches.step",
+      "step": "../../../../../tmp/switches.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
