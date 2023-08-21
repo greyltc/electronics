@@ -914,7 +914,7 @@
     )
     (pin "1" (uuid 81b738c0-8f59-4df6-8615-7e7033d1e3e1))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J17") (unit 1)
         )
@@ -939,7 +939,7 @@
     )
     (pin "1" (uuid 811f76da-200f-4852-ade7-7138921a6d19))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J10") (unit 1)
         )
@@ -964,7 +964,7 @@
     )
     (pin "1" (uuid dddf41f3-599f-43a7-83b9-dbb8122c276b))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J5") (unit 1)
         )
@@ -1010,7 +1010,7 @@
     (pin "8" (uuid 693fb01f-8572-4b2c-b80e-20ee8013b4a7))
     (pin "9" (uuid be908d10-535a-41bb-be66-128faf7e5377))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J2") (unit 1)
         )
@@ -1035,7 +1035,7 @@
     )
     (pin "1" (uuid 6c531bce-591d-4e49-8706-7a1a16be2708))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J21") (unit 1)
         )
@@ -1060,7 +1060,7 @@
     )
     (pin "1" (uuid 0a882879-322f-4764-a63f-7817f0af5979))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "#FLG01") (unit 1)
         )
@@ -1085,7 +1085,7 @@
     )
     (pin "1" (uuid 951d3979-501e-4330-8ed8-debd320dc7a0))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J16") (unit 1)
         )
@@ -1110,7 +1110,7 @@
     )
     (pin "1" (uuid 972e322e-fe9b-488b-aec2-13527d684342))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J7") (unit 1)
         )
@@ -1135,7 +1135,7 @@
     )
     (pin "1" (uuid eb2d2111-200d-48c2-b309-52c71051d7ac))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J20") (unit 1)
         )
@@ -1152,7 +1152,7 @@
     (property "Value" "Logo_Open_Hardware_Small" (at 184.15 179.705 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "custom:site_small" (at 184.15 173.99 0)
+    (property "Footprint" "custom:logo_small" (at 184.15 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 184.15 173.99 0)
@@ -1162,7 +1162,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "SYM1") (unit 1)
         )
@@ -1179,7 +1179,7 @@
     (property "Value" "Logo_Open_Hardware_Small" (at 276.86 179.705 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "custom:site_small" (at 276.86 173.99 0)
+    (property "Footprint" "custom:logo_small" (at 276.86 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 276.86 173.99 0)
@@ -1189,7 +1189,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "SYM2") (unit 1)
         )
@@ -1214,7 +1214,7 @@
     )
     (pin "1" (uuid 82ba183f-d5bf-4bf1-92bc-7aee79af71e0))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J15") (unit 1)
         )
@@ -1239,7 +1239,7 @@
     )
     (pin "1" (uuid 5f1fbe4d-3435-4926-abc5-20f759641afa))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J9") (unit 1)
         )
@@ -1285,7 +1285,7 @@
     (pin "8" (uuid a20c58bc-e16b-4e8a-a2d5-d54aab611ddf))
     (pin "9" (uuid 0065a6aa-e54f-4326-814e-4cb36f76d68c))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J1") (unit 1)
         )
@@ -1310,7 +1310,7 @@
     )
     (pin "1" (uuid 8133e7fa-f9a6-4786-8402-24610a145664))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "#PWR03") (unit 1)
         )
@@ -1335,7 +1335,7 @@
     )
     (pin "1" (uuid ee58c603-c695-4341-842d-2ad9278fb762))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J3") (unit 1)
         )
@@ -1360,7 +1360,7 @@
     )
     (pin "1" (uuid 9d56f2a1-7c10-40b8-86ac-177d509092c0))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J11") (unit 1)
         )
@@ -1385,7 +1385,7 @@
     )
     (pin "1" (uuid 2cea32e5-0f59-46ff-bf50-fd35794c90ad))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J13") (unit 1)
         )
@@ -1410,7 +1410,7 @@
     )
     (pin "1" (uuid f8d4aa35-91f6-45d8-b78c-2d11ecd51e62))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J19") (unit 1)
         )
@@ -1435,7 +1435,7 @@
     )
     (pin "1" (uuid 129f76c8-4976-406c-ba3b-2a54d58ec48c))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J14") (unit 1)
         )
@@ -1460,7 +1460,7 @@
     )
     (pin "1" (uuid 14199c8e-2eca-4bc3-ba78-4e4b3d3f68ff))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J6") (unit 1)
         )
@@ -1485,7 +1485,7 @@
     )
     (pin "1" (uuid 93c9b822-73a2-4d22-963c-f6ad4212996d))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J12") (unit 1)
         )
@@ -1510,7 +1510,7 @@
     )
     (pin "1" (uuid e7beed31-34ba-4d5b-a507-98992be06ec4))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J4") (unit 1)
         )
@@ -1535,7 +1535,7 @@
     )
     (pin "1" (uuid fda86374-c612-452e-85a0-2adbd4454a79))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J18") (unit 1)
         )
@@ -1560,7 +1560,7 @@
     )
     (pin "1" (uuid 0c422119-4859-45c9-9605-1ebfd9980845))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J22") (unit 1)
         )
@@ -1585,7 +1585,7 @@
     )
     (pin "1" (uuid 1771b139-4d0c-4c85-bacd-b3dd284a37ca))
     (instances
-      (project "hoye_holder"
+      (project "yen_holder"
         (path "/6de8bc7b-b9e1-44c4-9d80-2dad91862bef"
           (reference "J8") (unit 1)
         )
