@@ -628,7 +628,7 @@
   (gr_text "OUT HI SENSE" (at 135.826295 102.121704 270) (layer "F.SilkS") (tstamp 5e637e18-ed5f-486c-905c-eaef503752cb)
     (effects (font (size 1 1) (thickness 0.15)) (justify right))
   )
-  (gr_text "77a6489" (at 191.706295 123.186704) (layer "F.SilkS") (tstamp 61555083-d057-40a7-88f0-84f88d0bf449)
+  (gr_text "c5b4c2a" (at 191.706295 123.186704) (layer "F.SilkS") (tstamp 61555083-d057-40a7-88f0-84f88d0bf449)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (gr_text "OUT SHIELD" (at 138.366295 111.121704 270) (layer "F.SilkS") (tstamp 7353da86-7a62-4b87-8134-569216e83102)
