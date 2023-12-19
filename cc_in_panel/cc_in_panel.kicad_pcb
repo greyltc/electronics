@@ -2467,7 +2467,7 @@
   (gr_text "VOLTAGE SENSE +" (at 142.142037 33.165306) (layer "F.SilkS") (tstamp 7731c5aa-24d2-450c-a8d8-21bbdb3ac359)
     (effects (font (size 1 1) (thickness 0.15)) (justify bottom))
   )
-  (gr_text "c5b4c2a" (at 126.902037 67.455306) (layer "F.SilkS") (tstamp 775456cd-2954-4d57-a47d-d3fb6817a9d9)
+  (gr_text "93de3f9" (at 126.902037 67.455306) (layer "F.SilkS") (tstamp 775456cd-2954-4d57-a47d-d3fb6817a9d9)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "+5V" (at 152.331037 54.230306 -90) (layer "F.SilkS") (tstamp a0b3b381-2c4d-4dc1-8a99-6879fc303a8a)
