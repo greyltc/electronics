@@ -1,4 +1,4 @@
-82720226143032
+91230573481034
 custom
 02X06_SMT
 surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
@@ -84,6 +84,27 @@ Through hole horizontal IDC box header THT 2x20 2.54mm double row
 40
 40
 custom
+LED_Osram_GH
+OSRAM GH series LEDs
+LED OSRAM GH
+0
+7
+3
+custom
+LED_Osram_GH_FR4
+OSRAM GH series LEDs FR4 layout
+LED OSRAM GH
+0
+37
+3
+custom
+LED_Osram_LZ1
+OSRAM LZ1 series LEDs
+LED OSRAM LZ1
+0
+15
+5
+custom
 MILLMAX_816-22-002-10-007101
 Through hole straight pin header, 1x02, 2.54mm pitch, single row
 Through hole pin header THT 1x02 2.54mm single row
@@ -133,6 +154,13 @@ mounting hole 2.1mm no annular
 0
 0
 custom
+MountingHole_5.2mm_Pad
+Mounting Hole 5.2mm
+mounting hole 5.2mm banana
+0
+1
+1
+custom
 MountingHole_7.1mm
 Mounting Hole 2.1mm, no annular
 mounting hole 2.1mm no annular
@@ -152,6 +180,13 @@ Mounting Hardware, inside through hole 4.5mm, height 3, Wuerth electronics 97740
 Mounting 4.5mm 9774030482
 0
 12
+1
+custom
+P13-4023+S13-503_OFF
+
+
+0
+1
 1
 custom
 PTT-one-pin
