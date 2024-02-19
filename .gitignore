@@ -9,3 +9,4 @@ _autosave*
 *-backups/
 output.zip
 *.kicad_prl
+fp-info-cache
