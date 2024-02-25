@@ -1131,7 +1131,7 @@
     (property "Value" "RJ45_Shielded" (at 157.48 78.7399 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "custom_footprints:RJ45_WURTH_615008142621" (at 148.59 76.835 90)
+    (property "Footprint" "custom_footprints:RJ45_WURTH_61500814221" (at 148.59 76.835 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 148.59 76.835 90)
