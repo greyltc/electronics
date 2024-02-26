@@ -3061,7 +3061,7 @@
   (gr_text "4" (at 142 80.17 180) (layer "B.SilkS") (tstamp 78e08fae-2142-447b-8b0a-efa28008943c)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "c5b4c2a" (at 154.7 94.14 180) (layer "B.SilkS") (tstamp b21ea334-6875-4d4a-8d04-212e66782853)
+  (gr_text "febfbda" (at 154.7 94.14 180) (layer "B.SilkS") (tstamp b21ea334-6875-4d4a-8d04-212e66782853)
     (effects (font (size 0.5 0.5) (thickness 0.0625)) (justify mirror))
   )
   (gr_text "2" (at 136.92 80.17 180) (layer "B.SilkS") (tstamp c587c337-049a-4355-a74c-ebc1f356f624)
@@ -3073,7 +3073,7 @@
   (gr_text "CIC" (at 142 94.14 90) (layer "F.SilkS") (tstamp a8ba3856-655d-446f-8767-65188e7cb156)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold))
   )
-  (gr_text "c5b4c2a" (at 129 86.14 90) (layer "F.SilkS") (tstamp bcdeeb67-2db0-4f82-b5d9-67f500ae991e)
+  (gr_text "febfbda" (at 129 86.14 90) (layer "F.SilkS") (tstamp bcdeeb67-2db0-4f82-b5d9-67f500ae991e)
     (effects (font (size 0.5 0.5) (thickness 0.0625)))
   )
 
