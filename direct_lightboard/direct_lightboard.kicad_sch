@@ -3581,7 +3581,7 @@
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
 		(at 184.15 173.99 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp yes)
@@ -3605,7 +3605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "custom_footprints:logo"
+		(property "Footprint" "custom_footprints:site_small"
 			(at 184.15 173.99 0)
 			(effects
 				(font
@@ -3624,15 +3624,6 @@
 			)
 		)
 		(property "Description" "Open Hardware logo, small"
-			(at 184.15 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" "0"
 			(at 184.15 173.99 0)
 			(effects
 				(font
