@@ -3016,7 +3016,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_TE-Connectivity:TE_2834006-1_1x01_P4.0mm_Horizontal"
+		(property "Footprint" "custom_footprints:TE_2834006-1_1x01_P4.0mm_Horizontal"
 			(at 96.52 100.33 0)
 			(effects
 				(font
@@ -3237,7 +3237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_TE-Connectivity:TE_2834006-1_1x01_P4.0mm_Horizontal"
+		(property "Footprint" "custom_footprints:TE_2834006-1_1x01_P4.0mm_Horizontal"
 			(at 186.69 87.63 0)
 			(effects
 				(font
@@ -3529,7 +3529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_TE-Connectivity:TE_2834006-1_1x01_P4.0mm_Horizontal"
+		(property "Footprint" "custom_footprints:TE_2834006-1_1x01_P4.0mm_Horizontal"
 			(at 187.96 36.83 0)
 			(effects
 				(font
@@ -3893,7 +3893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_TE-Connectivity:TE_2834006-1_1x01_P4.0mm_Horizontal"
+		(property "Footprint" "custom_footprints:TE_2834006-1_1x01_P4.0mm_Horizontal"
 			(at 181.61 146.05 0)
 			(effects
 				(font
