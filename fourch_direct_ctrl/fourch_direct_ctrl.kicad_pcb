@@ -12294,6 +12294,18 @@
 		(layer "Edge.Cuts")
 		(uuid "fee9fbdd-c345-4c33-b7d0-719e8e6325e2")
 	)
+	(gr_text "048ef97"
+		(at -35.5 3.5 -90)
+		(layer "F.SilkS")
+		(uuid "21870f8a-c11c-4f10-a248-3c42fdbce0b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "GND"
 		(at -33.5 -17.5 -90)
 		(layer "F.SilkS")

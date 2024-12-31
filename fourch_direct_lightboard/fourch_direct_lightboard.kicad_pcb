@@ -81,7 +81,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(pcbplotparams
-			(layerselection 0x00010fc_ffffffff)
+			(layerselection 0x00014fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -113,9 +113,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "output")
 		)
 	)
 	(net 0 "")
@@ -16388,6 +16388,19 @@
 		(fill none)
 		(layer "User.1")
 		(uuid "9a6ca2f4-19a7-475f-bb68-a67d979d3b0d")
+	)
+	(gr_text "048ef97"
+		(at 6.5 -4 0)
+		(layer "F.SilkS")
+		(uuid "0995ed39-91af-44fb-b848-b8c7458b0bfb")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start -26.5 -13.5)
