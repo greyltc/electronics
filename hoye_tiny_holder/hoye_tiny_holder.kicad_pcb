@@ -4296,7 +4296,7 @@
 			(justify top)
 		)
 	)
-	(gr_text "3ea50d7"
+	(gr_text "9b9b433"
 		(at 141.8825 46.0325 0)
 		(layer "F.SilkS")
 		(uuid "eebf0658-f5bb-4de5-b81c-013990361fa1")
@@ -4308,7 +4308,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "3ea50d7"
+	(gr_text "9b9b433"
 		(at 146.3275 46.0325 0)
 		(layer "B.SilkS")
 		(uuid "3f61dcb2-4546-4cbf-81be-c2177743cda2")
