@@ -1,0 +1,2422 @@
+(kicad_pcb
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(general
+		(thickness 1.6)
+		(legacy_teardrops no)
+	)
+	(paper "A4")
+	(layers
+		(0 "F.Cu" signal)
+		(1 "In1.Cu" signal)
+		(2 "In2.Cu" signal)
+		(31 "B.Cu" signal)
+		(32 "B.Adhes" user "B.Adhesive")
+		(33 "F.Adhes" user "F.Adhesive")
+		(34 "B.Paste" user)
+		(35 "F.Paste" user)
+		(36 "B.SilkS" user "B.Silkscreen")
+		(37 "F.SilkS" user "F.Silkscreen")
+		(38 "B.Mask" user)
+		(39 "F.Mask" user)
+		(40 "Dwgs.User" user "User.Drawings")
+		(41 "Cmts.User" user "User.Comments")
+		(42 "Eco1.User" user "User.Eco1")
+		(43 "Eco2.User" user "User.Eco2")
+		(44 "Edge.Cuts" user)
+		(45 "Margin" user)
+		(46 "B.CrtYd" user "B.Courtyard")
+		(47 "F.CrtYd" user "F.Courtyard")
+		(48 "B.Fab" user)
+		(49 "F.Fab" user)
+		(50 "User.1" user)
+		(51 "User.2" user)
+		(52 "User.3" user)
+		(53 "User.4" user)
+		(54 "User.5" user)
+		(55 "User.6" user)
+		(56 "User.7" user)
+		(57 "User.8" user)
+		(58 "User.9" user)
+	)
+	(setup
+		(stackup
+			(layer "F.SilkS"
+				(type "Top Silk Screen")
+			)
+			(layer "F.Paste"
+				(type "Top Solder Paste")
+			)
+			(layer "F.Mask"
+				(type "Top Solder Mask")
+				(thickness 0.01)
+			)
+			(layer "F.Cu"
+				(type "copper")
+				(thickness 0.035)
+			)
+			(layer "dielectric 1"
+				(type "core")
+				(thickness 0.48)
+				(material "FR4")
+				(epsilon_r 4.5)
+				(loss_tangent 0.02)
+			)
+			(layer "In1.Cu"
+				(type "copper")
+				(thickness 0.035)
+			)
+			(layer "dielectric 2"
+				(type "prepreg")
+				(thickness 0.48)
+				(material "FR4")
+				(epsilon_r 4.5)
+				(loss_tangent 0.02)
+			)
+			(layer "In2.Cu"
+				(type "copper")
+				(thickness 0.035)
+			)
+			(layer "dielectric 3"
+				(type "core")
+				(thickness 0.48)
+				(material "FR4")
+				(epsilon_r 4.5)
+				(loss_tangent 0.02)
+			)
+			(layer "B.Cu"
+				(type "copper")
+				(thickness 0.035)
+			)
+			(layer "B.Mask"
+				(type "Bottom Solder Mask")
+				(thickness 0.01)
+			)
+			(layer "B.Paste"
+				(type "Bottom Solder Paste")
+			)
+			(layer "B.SilkS"
+				(type "Bottom Silk Screen")
+			)
+			(copper_finish "None")
+			(dielectric_constraints no)
+		)
+		(pad_to_mask_clearance 0)
+		(allow_soldermask_bridges_in_footprints no)
+		(grid_origin -17.293001 -2)
+		(pcbplotparams
+			(layerselection 0x00010fc_ffffffff)
+			(plot_on_all_layers_selection 0x0000000_00000000)
+			(disableapertmacros no)
+			(usegerberextensions no)
+			(usegerberattributes yes)
+			(usegerberadvancedattributes yes)
+			(creategerberjobfile yes)
+			(dashed_line_dash_ratio 12.000000)
+			(dashed_line_gap_ratio 3.000000)
+			(svgprecision 6)
+			(plotframeref no)
+			(viasonmask no)
+			(mode 1)
+			(useauxorigin no)
+			(hpglpennumber 1)
+			(hpglpenspeed 20)
+			(hpglpendiameter 15.000000)
+			(pdf_front_fp_property_popups yes)
+			(pdf_back_fp_property_popups yes)
+			(dxfpolygonmode yes)
+			(dxfimperialunits yes)
+			(dxfusepcbnewfont yes)
+			(psnegative no)
+			(psa4output no)
+			(plotreference yes)
+			(plotvalue yes)
+			(plotfptext yes)
+			(plotinvisibletext no)
+			(sketchpadsonfab no)
+			(subtractmaskfromsilk no)
+			(outputformat 1)
+			(mirror no)
+			(drillshape 0)
+			(scaleselection 1)
+			(outputdirectory "output/")
+		)
+	)
+	(net 0 "")
+	(net 1 "/F4")
+	(net 2 "/S4")
+	(net 3 "/F3")
+	(net 4 "/S3")
+	(net 5 "/F2")
+	(net 6 "/S2")
+	(net 7 "/F1")
+	(net 8 "/S1")
+	(net 9 "/F8")
+	(net 10 "/S8")
+	(net 11 "/F7")
+	(net 12 "/S7")
+	(net 13 "/F6")
+	(net 14 "/S6")
+	(net 15 "/F5")
+	(net 16 "/S5")
+	(net 17 "/F12")
+	(net 18 "/S12")
+	(net 19 "/F11")
+	(net 20 "/S11")
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "0e2b9745-9538-41c5-8fb4-a7419bf83cc9")
+		(at -26.183 -14)
+		(property "Reference" "J1"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "1a5cf555-4e04-4367-b388-cc9fb02f5a99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "12a63b10-b4aa-4120-a195-9500d9d47f68")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "021f8c66-f80c-48bc-9910-20693248ed7e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45ace1ab-2100-4fa4-b564-7c68210dccda")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3172f58-ac22-4247-89bc-cc69c12a576e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/006df5c9-df96-435c-9528-42795332007b")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "48aec20a-f2c8-4528-88e0-c7bf598788b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 1 "/F4")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "e8ae76db-ae03-4a8b-9933-8dd4c6b41d4c")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "15148ea6-44cb-4334-9d83-a5d3c6834544")
+		(at -5.863 -14)
+		(property "Reference" "J16"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "69a9dd46-a81e-4ae7-8846-00997621eec6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4b3a4e55-db8d-4c7a-bad1-8f9352d80fc4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "731f25c8-fb7c-4ba7-8e56-585e48470b6f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "491f53f6-c16e-44d2-ab77-412908fe34e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3dccac72-0553-4837-8a50-ce14dee3e0e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/877c3cfd-78bd-43d2-8de4-20bdfb5eb27d")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "df638c70-3586-4912-8ed2-0c8976688a4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 16 "/S5")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "2f9c0750-9300-429d-88a9-ad96311ff96b")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "1c4ae7b6-bfe2-4acc-9c59-93bcb3e13954")
+		(at -10.943 10)
+		(property "Reference" "J12"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "cd608230-71b1-4bdc-97e2-af20a960d065")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "42116246-21a3-411b-960a-5215c4d6f445")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47b47eb4-955c-4e80-b245-72d9b52cc84e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2749ab0d-a56c-40b2-aeb2-e528742c663b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14e203f8-69d5-40f7-9237-632a24810506")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/4d6e7593-5db0-439b-b5fa-1a63df3ad67e")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3989e646-c68e-4394-8047-b9740d429d2f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 12 "/S7")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "402e8663-24bf-477b-8a57-aef94c1cebef")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "41535fc6-caeb-4fc6-8fd5-74aba498c07a")
+		(at -13.483 10)
+		(property "Reference" "J11"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "7168c35d-8cc0-4753-adf4-7c070c5563a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "84f68918-c8cc-4298-8b3d-399742f48574")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b36931dc-3b3b-48d0-88bc-5e5ca7922155")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d2cbf0a-35db-45f5-aad1-7466fdc1bb78")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b214ac4-29d4-402f-a67f-d82db3300378")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/bafd7713-de56-4b13-bde3-2bb1eb95b862")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1a6c9056-9d34-4484-8c0e-fe6b4c6faf5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 11 "/F7")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "8d406920-b99e-4942-91e1-e3d486be4388")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "43eb00bb-d8e9-40b3-9c8e-3c3a74acf28e")
+		(at -23.643 -14)
+		(property "Reference" "J2"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "fe3bd927-4d28-4c7a-ba41-deae406ad769")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fb59f77a-4fc5-4c2b-9b45-d31f3d0b08ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "adc63574-83e1-4147-aadf-112ab284ee88")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43556e21-e2fb-4f7e-a9c5-065b299ec809")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "022453d1-ec4d-4210-aa88-7d1d825eb431")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/90162bcb-dbd6-4cf7-8b25-745e617f7be8")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ec92ccec-b0f8-4bd0-bcf9-8c97c1df5d10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 2 "/S4")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "a064d7de-19ef-40c4-89f3-6ec3aba125cc")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "487b0b35-46ce-45d9-8f4d-28ecd991c561")
+		(at -18.563 10)
+		(property "Reference" "J20"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "e6b9f20b-3630-44c4-9026-54a88f7004f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "300e0fa3-f8d1-4371-8392-6f97c0a5a9c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c524bcd1-15f0-4ab0-9f24-c9f23954b63d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43b4f36b-39a1-4f6f-95dd-f94ffb5c5789")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f814119b-9175-4dfc-908a-0ee25962bb20")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/7c0c8cb7-d8a4-4970-ac27-392212adb17f")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0fadedc4-bd97-4bbc-8de2-145fc0ad8526")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 20 "/S11")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "1d0aef32-0716-4085-8358-8a799653f8f2")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "48e86a2e-97b4-4ada-bb03-7c44f47fef7b")
+		(at -16.023 10)
+		(property "Reference" "J10"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "f9d0b3c0-0d84-4aa8-acc3-a598502ea97c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5a2ccb12-a433-4907-9d63-b2373fc4d499")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "219c3b5a-3986-4225-9c47-0dd736411a22")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe6e22ae-34bf-47ce-902b-7ad9d75ea81e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a401e94d-147c-4f84-be55-57a280448ad4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/fc4f2d85-95e6-494e-ad8e-549d8dc8a347")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0a186838-cb99-4878-8db1-19d6d5afee50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 10 "/S8")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "086666c2-b1c4-47ca-9a56-19e6086b9f90")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "51b70f11-f5bd-44da-8437-74dc27696277")
+		(at -28.723 -14)
+		(property "Reference" "J3"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "5e7c86a3-22f8-42f7-9b76-53e81cc14455")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c3b25040-76e5-4be5-9bf8-693930598c3a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf53b305-455f-4103-9a3e-b3ebe2b6d3e1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0580861c-9ba4-4589-bb69-9c908410e91c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63c63bcb-ae19-4e77-9739-b91aebcbbfe9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/d3b995ea-04a4-4d80-b437-7e58114fcc11")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a4d93ae8-546d-44b2-b380-efc4b285f89e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 3 "/F3")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "f00edfe5-9030-4c19-9d6a-18ff1a68c44b")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "6372c630-2f62-40cb-b587-6c44a66630e7")
+		(at -8.403 10)
+		(property "Reference" "J13"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "c60b8b7e-e3c5-466e-b902-de11589bc065")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d8a2bc39-31f9-45df-be1a-3b1d20d546d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "636235e5-d7c7-4c9b-8042-477acf73e22d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60aa07ce-4727-466e-813a-469ba2d7f303")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2d19c3b-19c1-4637-9409-dcc52237eccd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/57130439-5a28-4245-96a9-b87d5142d41c")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1725c996-2c49-477e-85b3-2db3e226e235")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 13 "/F6")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "14a8010d-862c-498c-a89f-199936654671")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "69b1c3c3-11ac-4f74-aa08-5606406be557")
+		(at -10.943 -14)
+		(property "Reference" "J8"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "27335578-bfa1-4cbf-bfd3-a52098da9f6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "295e2b86-f435-4f9e-b4fe-41107b338658")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0251326a-c238-4a28-9dd6-761f4edb8226")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b2e84ea-85e2-4fb0-82b2-8e87634f286b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "992638c0-103b-4fcf-bbb2-a4b78ceac515")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/8fabe4c0-ca71-4527-8f87-324a597e7a20")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c7c28893-06a2-44f4-9f1b-913dd3f9e1f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 8 "/S1")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "b7b5052a-b40b-4d68-9c10-276ba1a502a5")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "85997195-9255-40a3-b05f-3f99d84e879a")
+		(at -23.643 10)
+		(property "Reference" "J18"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "bc71040a-7cac-478c-9432-81c26b6ccf58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3d976e9f-62fb-430e-bd52-7df999607641")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c6ad34b-c054-42dc-a653-1f131c83dfd0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a38df69-377a-4e30-996f-145bc5e75200")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd6256e3-b971-4d79-8a8a-22312b3b9df8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/adffce3f-9726-4643-a833-0432051a731f")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6eff85b3-e6c6-4818-b954-9ca07029e71a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 18 "/S12")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "28e0ed80-66a4-4805-a12c-e51514b3f300")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "85b17168-ceb4-4ec2-bc2e-8578844aad27")
+		(at -16.023 -14)
+		(property "Reference" "J6"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "13372a25-6fa8-4a30-800c-8b2f7cda9cc9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "01bab415-9cee-4278-890e-138c2f9a2214")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "640f6c51-bbad-4fbd-8760-cf10da9c4df5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a4a742a-cf9a-4313-ad2a-e5527104ee17")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0c79f6c-8bac-4325-9a13-b5225628eaa7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/5f9b465a-e09e-4a71-91df-5606054f6a00")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "43465cc7-dbd6-4923-bd03-b08abe8bf269")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 6 "/S2")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "767e8799-655b-4c32-b7cf-2ce5a27a659c")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "9d45a922-d648-4b8b-9b74-4d7fcdcdd577")
+		(at -28.723 10)
+		(property "Reference" "J9"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "273b453d-a312-41df-bef9-3ed6ff347b82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "69a2e257-e457-40b3-b815-b8641a5614d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f08c4864-66ae-472a-af5d-6a62db3415d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be45ad40-8b36-4371-818e-a0ab885d1c5c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5d8a8cb-7c64-4778-9616-4362252e0f8e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/c495cda9-772c-419d-8204-ec560c974d4b")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a43577c6-8501-4fa0-b282-82657b415f5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 9 "/F8")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "84891c17-f327-4516-b2ef-58f6ad837c62")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "a86fc35d-ecc9-40d0-93b9-39c545cd37cf")
+		(at -26.183 10)
+		(property "Reference" "J17"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "a0fa50c2-3547-4d8f-b927-c4a3544bb323")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9fcb7a70-628c-49e5-af9d-233788445640")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "97483296-9651-4209-a0f3-7889ac8abcfe")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0224ed2-971b-4bea-9920-2a1a58cac3e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "241a7d54-cc87-4584-b231-a15afc4f45e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/a7a6a405-47fc-4c36-92a2-a9a05573f027")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "20f71600-0f12-4e71-abbe-2a202251c5a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 17 "/F12")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "ee2a4fbb-c916-480f-933a-9fe69fa59acc")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "ac18b516-98ae-4e7c-879f-2b1ce641a3c1")
+		(at -13.483 -14)
+		(property "Reference" "J7"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "7d07df30-36d6-49b9-aa6a-012cd615d169")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7184048f-53c9-4a3a-b877-50402277a4fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38d79b26-c85f-45e4-a067-df1819ab9db7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1df674d-92cf-4314-a000-3105e27db87a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "77d41bf1-e3fa-4c69-ae31-1208f81a3898")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/ff919432-90dc-4e15-b32b-0bfc08724922")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "72a42b76-af4d-416a-99cf-925fe9eeaaf8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 7 "/F1")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "618a0680-d725-4ff2-a147-c3d0fc795819")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "c6d245a3-eeff-4af6-8b2e-03f7b5627595")
+		(at -21.103 10)
+		(property "Reference" "J19"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "88fe6417-a482-4d01-80e1-f3d2b295e8a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "709649c0-d887-46b5-aa7c-b4aabc2019cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a86a253b-2aba-4f0f-ba30-fb2484ed5a3a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d69b59f7-9195-4b8d-84ae-bd0ba35f02e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2948cbda-2e56-470a-ae38-27651d506ae7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/4ccfd65d-315c-427e-ab6f-89065cc5c0a2")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e250c509-0120-4e73-a9bd-67cfd9225e5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 19 "/F11")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "0b057437-d0f3-4129-9a90-b95e85b32253")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "d3736d08-cb27-444a-8d5e-55fd847a72ca")
+		(at -8.403 -14)
+		(property "Reference" "J15"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "fb4f55a4-8631-407b-8c20-3687ed9e4ce3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "da124f3e-be56-4a26-9d0c-90b59d052b01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1917fceb-2a61-4255-888c-17efb08313fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ed4f335-8c99-4cca-a217-c1e25d780ad9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "deceae79-e76a-4743-89d2-c35f568e0664")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/53476016-f7e0-4372-9b0d-65933670b71f")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "24b1957c-ede0-460c-9c9b-8ebf5925f081")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 15 "/F5")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "7b216e6c-702d-4768-b4fd-b4679ad69c57")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "d4365c44-f127-4fc2-a703-55ff67960cf8")
+		(at -18.563 -14)
+		(property "Reference" "J5"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "3abc9150-0af0-4cf1-b01c-04f1ea6ae1d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9c665825-61ae-47e6-ab76-f60e8102573c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec09e136-92e8-49ea-b54d-d4118e9e7336")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac80feb4-5ceb-4552-93b9-6e502809f274")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "440502a8-fe8a-4355-96cf-7212eb0efbf8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/0425ec97-e253-4a46-b091-21d322475faa")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5cd648a4-1b75-4fd7-b7c6-41a945c126d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 5 "/F2")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "8719a783-7829-442b-897a-bb2514fe5086")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "dc4396bb-833d-4478-9c9f-6b8e9aba06e2")
+		(at -21.103 -14)
+		(property "Reference" "J4"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "3d01db71-5e1a-47f7-96f9-ce63aaa99bc5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "42ebf536-3bfd-4c40-9fd4-e585955c34ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1333c215-2556-45af-bb48-43b990d84316")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7311bf1-b68b-49a1-9a0f-6fa71009f18c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da6c731d-8a6e-4a7d-acc0-91af61532c81")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/b6bde052-d99a-4d4d-ad12-e782a98647b2")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "478d3a45-42e5-4e4f-86f7-460040b22369")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 4 "/S3")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "62e86869-5c46-4967-8e01-010d99ab30dd")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(footprint "custom_footprints:0921"
+		(layer "B.Cu")
+		(uuid "e8e5fa21-a2b6-4347-b215-b9ca98b45214")
+		(at -5.863 10)
+		(property "Reference" "J14"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "ec24ff1b-c135-48fa-882e-2101d3eb1a32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 0 -1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a17ca131-f125-4a26-a8ff-15c888e92e53")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "732c3cdb-80e4-4147-b54a-945ab40b468d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0538038-1e73-46e2-bb7f-e0be515cc09e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fdccca27-c607-4c04-b09f-b431b09668ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/1c60c561-3c1b-4b94-acae-765a9f8a1932")
+		(sheetfile "squirrel.kicad_sch")
+		(fp_text user "${REFERENCE}"
+			(at 0 1.75 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3fa64d81-a655-4dd1-8793-2bf34e9049a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.98 1.98)
+			(drill 1.78)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 14 "/S6")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(uuid "b62cefe9-88f5-43ef-af54-6e75e4d8fd47")
+		)
+		(model "${KIPRJMOD}/../shared_libs/3d/mill-max-0921-5-15-20-77-14-11-0.step"
+			(offset
+				(xyz 0 0 -3.45)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 0)
+			)
+		)
+	)
+	(gr_line
+		(start -2.293 -17)
+		(end -2.293 13)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "462b69fa-f2ce-4acd-be0b-6a75711df745")
+	)
+	(gr_line
+		(start -32.293 13)
+		(end -32.293 -17)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9a2f4cd9-f5c8-4c6d-bfdd-0fd0b63fdd92")
+	)
+	(gr_line
+		(start -2.293 13)
+		(end -32.293 13)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b93e1760-33ed-4bd0-a599-f334442eaf02")
+	)
+	(gr_line
+		(start -32.293 -17)
+		(end -2.293 -17)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b9ac5b7e-2e29-4ec6-8cc7-c6e5b96ba22c")
+	)
+	(gr_arc
+		(start -32.293 -10.73)
+		(mid -31.707214 -12.144214)
+		(end -30.293 -12.73)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "01229aee-f6ea-43b0-bb21-6f584d51fafb")
+	)
+	(gr_line
+		(start -30.292999 8.729999)
+		(end -4.293001 8.729999)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "88a4be32-093f-4ef0-af4b-fa8224b97ea1")
+	)
+	(gr_line
+		(start -32.293 -10.73)
+		(end -32.292999 6.729999)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8c64bd5f-17e2-4702-ad40-ccb876afae36")
+	)
+	(gr_arc
+		(start -2.293001 6.729999)
+		(mid -2.878787 8.144213)
+		(end -4.293001 8.729999)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "910cb3e6-c93c-42df-b747-dca4c6db93d8")
+	)
+	(gr_line
+		(start -30.293 -12.73)
+		(end -4.293001 -12.729999)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a27b6ae3-f580-4009-9cc0-ec5d9f2b83a7")
+	)
+	(gr_arc
+		(start -30.292999 8.729999)
+		(mid -31.707213 8.144213)
+		(end -32.292999 6.729999)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a2fdeab6-4724-45d2-8191-54c999e65646")
+	)
+	(gr_arc
+		(start -4.293001 -12.729999)
+		(mid -2.878787 -12.144213)
+		(end -2.293001 -10.729999)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b2749190-6f63-49b3-a8b7-bfee8f289b26")
+	)
+	(gr_line
+		(start -2.293001 6.729999)
+		(end -2.293001 -10.729999)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b5f30e64-900b-4608-a0e7-78b119f87ee9")
+	)
+	(gr_rect
+		(start -67.293001 -52)
+		(end 32.706999 48)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "be588e13-537a-4500-85e8-1a921413c414")
+	)
+)
