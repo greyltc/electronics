@@ -22767,6 +22767,18 @@
 			)
 		)
 	)
+	(gr_text "3523217"
+		(at 122 -107 180)
+		(layer "F.SilkS")
+		(uuid "75bbb8f8-50bb-4c49-b9aa-34678e8e0626")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "TEC GROUND"
 		(at -132 44 180)
 		(layer "F.SilkS")
