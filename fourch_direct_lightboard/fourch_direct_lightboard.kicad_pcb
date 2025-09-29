@@ -282,7 +282,7 @@
 		(path "/da877be7-6ae1-4e1e-8a99-53a4acfdd945")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -663,7 +663,7 @@
 		(path "/6ed886de-ea89-4b76-9740-1ae34d298cfe")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -1142,7 +1142,7 @@
 		(path "/ba736248-30db-4c7c-ba6e-ddda9e05568f")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -1621,7 +1621,7 @@
 		(path "/e615581a-d5cd-48e5-a0ce-ebd553dbf0b7")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -1724,7 +1724,7 @@
 		(path "/71f1c177-9f76-409e-821d-aec5ae6af091")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -1827,7 +1827,7 @@
 		(path "/5399349e-a1e4-4d8b-9941-0777b93b0910")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -1930,7 +1930,7 @@
 		(path "/2479c6e0-0946-4ef5-b8b0-49dfdd6d0824")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -2311,7 +2311,7 @@
 		(path "/8cd9c8c8-a524-45f6-87d7-4289cd3f8a26")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -3527,7 +3527,7 @@
 		(path "/b7ef2ca9-29f8-4b03-b415-4812254f0a5c")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -4186,7 +4186,7 @@
 		(path "/50374452-0fda-4592-a2cb-df1fad707b6b")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -4289,7 +4289,7 @@
 		(path "/7e992452-e278-4637-9a15-08e14be785a7")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -4392,7 +4392,7 @@
 		(path "/12ee3307-ae39-483a-9cc2-22b32bdf82c2")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -5774,7 +5774,7 @@
 		(path "/e740f945-c3bf-4959-a09d-8e76105952e6")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 -0.735)
 			(end 0.227064 -0.735)
@@ -6212,7 +6212,7 @@
 				)
 			)
 		)
-		(property "Value" "Q_NPN_CBE"
+		(property "Value" "NSS1C301ET4G"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "4b365c90-4b14-455a-ac16-975cc70b7cb5")
@@ -6515,7 +6515,7 @@
 				)
 			)
 		)
-		(property "Value" "Q_NPN_CBE"
+		(property "Value" "NSS1C301ET4G"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "a645cb1d-56fa-4b85-bfa0-cd8a9248ad97")
@@ -7971,7 +7971,7 @@
 		(path "/73cb8d78-c81f-4bc2-a1fc-1b04a9241bc4")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -9403,7 +9403,7 @@
 				)
 			)
 		)
-		(property "Value" "Q_NPN_CBE"
+		(property "Value" "NSS1C301ET4G"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "b273b6d5-b963-463b-b832-0b9e222217b0")
@@ -10995,7 +10995,7 @@
 		(path "/016bb91c-1461-406b-bf04-979452f80343")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -11098,7 +11098,7 @@
 		(path "/b8660eb7-e4eb-4acb-b740-220d12e809b7")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 -0.735)
 			(end 0.227064 -0.735)
@@ -11577,7 +11577,7 @@
 		(path "/afa9f565-7e86-42a8-a00e-16e8e767cc36")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 -0.735)
 			(end 0.227064 -0.735)
@@ -12612,7 +12612,7 @@
 		(path "/be455176-111e-4c85-9866-db37a832ee1c")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -12813,7 +12813,7 @@
 		(path "/3cd9cea9-9186-4d78-9605-bc0e291f304b")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -13848,7 +13848,7 @@
 		(path "/70323bd3-f72a-4762-ae1f-fb1f8fd95e0b")
 		(sheetname "/")
 		(sheetfile "fourch_direct_lightboard.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -14534,7 +14534,7 @@
 				)
 			)
 		)
-		(property "Value" "Q_NPN_CBE"
+		(property "Value" "NSS1C301ET4G"
 			(at 0 4.5 0)
 			(layer "F.Fab")
 			(uuid "d807c336-0a07-4ad3-b962-4f6ca18f824d")
