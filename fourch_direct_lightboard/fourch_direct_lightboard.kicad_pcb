@@ -42,12 +42,14 @@
 		(stackup
 			(layer "F.SilkS"
 				(type "Top Silk Screen")
+				(color "Black")
 			)
 			(layer "F.Paste"
 				(type "Top Solder Paste")
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
+				(color "White")
 				(thickness 0.01)
 			)
 			(layer "F.Cu"
@@ -15219,7 +15221,7 @@
 	)
 	(gr_line
 		(start 36 12)
-		(end -36 12)
+		(end -26.75 12)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -15229,7 +15231,7 @@
 	)
 	(gr_line
 		(start 36 -12)
-		(end -36 -12)
+		(end -26.75 -12)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -15653,7 +15655,7 @@
 		(uuid "9a6ca2f4-19a7-475f-bb68-a67d979d3b0d")
 	)
 	(gr_text "b528953"
-		(at 6.5 -4 0)
+		(at 3.5 -9 0)
 		(layer "F.SilkS")
 		(uuid "0995ed39-91af-44fb-b848-b8c7458b0bfb")
 		(effects
@@ -15662,7 +15664,6 @@
 				(thickness 0.3)
 				(bold yes)
 			)
-			(justify left bottom)
 		)
 	)
 	(segment
