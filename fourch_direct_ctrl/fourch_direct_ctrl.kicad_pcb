@@ -5575,7 +5575,7 @@
 		(layer "Edge.Cuts")
 		(uuid "fee9fbdd-c345-4c33-b7d0-719e8e6325e2")
 	)
-	(gr_text "ba9f584"
+	(gr_text "ab0086a"
 		(at 4.75 -31.25 0)
 		(layer "F.SilkS")
 		(uuid "21870f8a-c11c-4f10-a248-3c42fdbce0b4")
