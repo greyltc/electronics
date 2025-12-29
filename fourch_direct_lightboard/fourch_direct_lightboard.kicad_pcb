@@ -820,7 +820,7 @@
 			(net 43 "Net-(D20-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "bab2b27c-e24a-4800-9123-76143ea6b63c")
+			(uuid "f544c088-6cde-401c-a0e3-bd828c579c8b")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 180)
@@ -829,7 +829,7 @@
 			(net 43 "Net-(D20-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "bab2b27c-e24a-4800-9123-76143ea6b63c")
+			(uuid "93597878-e2b7-4c16-a3d0-7fe379b59092")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 180)
@@ -847,7 +847,7 @@
 			(net 28 "Net-(D12-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "e2154194-d7a3-4235-817d-2bec4f08c7da")
+			(uuid "3d5262cc-146b-446d-869f-1bad662ddd30")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 180)
@@ -856,7 +856,7 @@
 			(net 28 "Net-(D12-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "e2154194-d7a3-4235-817d-2bec4f08c7da")
+			(uuid "47b22064-28fc-4b06-bba5-c7b7ba3ead23")
 		)
 		(pad "3" smd rect
 			(at 0 0 180)
@@ -1574,7 +1574,7 @@
 			(net 35 "Net-(D16-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "9d2a3dff-6aa9-4522-baa9-2dff1829cfeb")
+			(uuid "ab3ab79c-5c44-4a62-85eb-f68cc774a1fc")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 180)
@@ -1583,7 +1583,7 @@
 			(net 35 "Net-(D16-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "9d2a3dff-6aa9-4522-baa9-2dff1829cfeb")
+			(uuid "f2506dd4-6d8b-40c6-a653-ee05b5f37938")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 180)
@@ -1601,7 +1601,7 @@
 			(net 20 "Net-(D16-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "042a7965-c846-418d-bd48-07cedacfecaa")
+			(uuid "a65800a6-028f-49a2-92c7-3b99707b307f")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 180)
@@ -1610,7 +1610,7 @@
 			(net 20 "Net-(D16-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "042a7965-c846-418d-bd48-07cedacfecaa")
+			(uuid "c7b99099-9e97-4fb5-9ef0-00e40a114b88")
 		)
 		(pad "3" smd rect
 			(at 0 0 180)
@@ -2328,7 +2328,7 @@
 			(net 58 "Net-(D26-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "d03dc3bd-64dc-4d4a-b50d-8eab69dfaea9")
+			(uuid "cca4b0ef-e97e-49c6-9707-31966ff8fa9c")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -2337,7 +2337,7 @@
 			(net 58 "Net-(D26-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "d03dc3bd-64dc-4d4a-b50d-8eab69dfaea9")
+			(uuid "bebc052b-d745-418f-bfe6-627fa49a9db2")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -2355,7 +2355,7 @@
 			(net 56 "Net-(D26-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "389e724e-7cb6-4a0e-b3fb-531990489ed0")
+			(uuid "ab109bf6-6748-4fda-8641-b051ae490516")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -2364,7 +2364,7 @@
 			(net 56 "Net-(D26-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "389e724e-7cb6-4a0e-b3fb-531990489ed0")
+			(uuid "27454314-3151-4c21-bbe8-ea0d2246890b")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -3293,7 +3293,7 @@
 			(net 8 "Net-(D3-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "1f82dc21-e28a-4526-b7a4-03ecfb0b56df")
+			(uuid "9d912acf-d164-472c-bca5-ad78ed8a71be")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -3302,7 +3302,7 @@
 			(net 8 "Net-(D3-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "1f82dc21-e28a-4526-b7a4-03ecfb0b56df")
+			(uuid "caad3926-1ea6-4942-8021-7fe4beb3297c")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -3320,7 +3320,7 @@
 			(net 7 "Net-(D10-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "bd180797-54fb-4310-a004-dce709280163")
+			(uuid "215f236e-3d15-4311-a7f8-3fb446a831bc")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -3329,7 +3329,7 @@
 			(net 7 "Net-(D10-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "bd180797-54fb-4310-a004-dce709280163")
+			(uuid "1c9e957c-1232-4e51-a2b6-12dc0675880e")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -3949,7 +3949,7 @@
 			(net 72 "Net-(D32-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "d5600eb7-60b1-41ea-ae57-1d2a1094fd2b")
+			(uuid "ed1fbb78-b71c-4d9f-bf00-5e9cedf5bba7")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -3958,7 +3958,7 @@
 			(net 72 "Net-(D32-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "d5600eb7-60b1-41ea-ae57-1d2a1094fd2b")
+			(uuid "f2f9df99-b768-4d61-a8eb-033432f059ec")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -3976,7 +3976,7 @@
 			(net 70 "Net-(D32-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "1c0a07e3-1aed-44e6-a8af-a5eec0f226ee")
+			(uuid "35315a67-ea13-4fac-89a6-4a2b6990a43d")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -3985,7 +3985,7 @@
 			(net 70 "Net-(D32-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "1c0a07e3-1aed-44e6-a8af-a5eec0f226ee")
+			(uuid "ab493339-f002-434e-9912-d5a5fc42b383")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -4502,7 +4502,7 @@
 			(net 40 "Net-(D18-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "7c4223d3-2fc6-4129-bf1f-0c6f6696750f")
+			(uuid "561a975e-e140-4ae1-b926-e30361040417")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -4511,7 +4511,7 @@
 			(net 40 "Net-(D18-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "7c4223d3-2fc6-4129-bf1f-0c6f6696750f")
+			(uuid "e17bcae5-b9fc-4b8f-972f-8da4e8158898")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -4529,7 +4529,7 @@
 			(net 62 "Net-(D28-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "843605f9-cc9b-4fad-92c6-a603dad06d73")
+			(uuid "2bdc133d-7a60-458e-a0b5-2585b82eceea")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -4538,7 +4538,7 @@
 			(net 62 "Net-(D28-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "843605f9-cc9b-4fad-92c6-a603dad06d73")
+			(uuid "478c3677-a6ac-486c-9e5a-9ebe3733981e")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -5055,7 +5055,7 @@
 			(net 70 "Net-(D32-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "5ae8ff8a-eb6a-480b-bc34-46ae6378cf55")
+			(uuid "e69c4dc6-dfe3-4a29-b88f-dbd710e80b59")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -5064,7 +5064,7 @@
 			(net 70 "Net-(D32-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "5ae8ff8a-eb6a-480b-bc34-46ae6378cf55")
+			(uuid "cf618012-185a-4b81-855a-59099501f8fc")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -5082,7 +5082,7 @@
 			(net 49 "Net-(D23-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "1f39984d-cd2a-47da-b14c-eb425d8b16b9")
+			(uuid "51b65417-cf39-4313-8cab-fdf9cc904ef7")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -5091,7 +5091,7 @@
 			(net 49 "Net-(D23-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "1f39984d-cd2a-47da-b14c-eb425d8b16b9")
+			(uuid "1861a67a-3d26-47c4-b506-09da44b31cfb")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -5608,7 +5608,7 @@
 			(net 10 "Net-(D11-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "929c080b-ddf8-4580-b0a5-0427d56647cb")
+			(uuid "d0ca4b60-57a6-4091-a8cf-15c79fe7ffd5")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -5617,7 +5617,7 @@
 			(net 10 "Net-(D11-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "929c080b-ddf8-4580-b0a5-0427d56647cb")
+			(uuid "7572160c-e06f-498a-b746-7418a938c387")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -5635,7 +5635,7 @@
 			(net 11 "Net-(D4-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "82102cdb-c8d8-4e72-b492-7938d33984ad")
+			(uuid "3cf1f23a-c760-42ff-b5ee-fce8f077a5b5")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -5644,7 +5644,7 @@
 			(net 11 "Net-(D4-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "82102cdb-c8d8-4e72-b492-7938d33984ad")
+			(uuid "9d84d53e-31f7-4adf-968c-1402b6a8bf04")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -6264,7 +6264,7 @@
 			(net 2 "Net-(D1-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "68aadcc4-8400-4f4d-acff-95f7a1f7f436")
+			(uuid "3975cf3c-62ca-4d61-b567-d55bbc7682ff")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -6273,7 +6273,7 @@
 			(net 2 "Net-(D1-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "68aadcc4-8400-4f4d-acff-95f7a1f7f436")
+			(uuid "d1c48a4d-d77a-4f8b-847c-8c477c6efdcc")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -6291,7 +6291,7 @@
 			(net 1 "Net-(D1-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "6fd045d0-90d1-4694-8f5a-a7bc7ea1edb9")
+			(uuid "ed0a4e00-61e3-4345-b6a3-9cd6f3edc106")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -6300,7 +6300,7 @@
 			(net 1 "Net-(D1-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "6fd045d0-90d1-4694-8f5a-a7bc7ea1edb9")
+			(uuid "9d9b1464-e05b-42ae-a89b-50f372f17a04")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -6817,7 +6817,7 @@
 			(net 51 "Net-(D24-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "eb7167cf-97a1-4d12-b380-fb97df736207")
+			(uuid "40d42fa4-c3e6-4779-95ca-fb94ce02402e")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 180)
@@ -6826,7 +6826,7 @@
 			(net 51 "Net-(D24-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "eb7167cf-97a1-4d12-b380-fb97df736207")
+			(uuid "3852e5bd-be43-4bd3-8888-e94324c8276c")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 180)
@@ -6844,7 +6844,7 @@
 			(net 35 "Net-(D16-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "bd381002-a39d-460d-9b89-8df88bafc2b4")
+			(uuid "a499fbd7-658e-4064-babb-5f26e9a0ccf3")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 180)
@@ -6853,7 +6853,7 @@
 			(net 35 "Net-(D16-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "bd381002-a39d-460d-9b89-8df88bafc2b4")
+			(uuid "6ae7ee21-b587-4d33-9dca-d7021780331f")
 		)
 		(pad "3" smd rect
 			(at 0 0 180)
@@ -7777,7 +7777,7 @@
 			(net 41 "Net-(D19-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "5e9d049b-f1f9-4f9e-8f96-7fbf505bfa0a")
+			(uuid "d163aae3-c248-4fbb-81ab-a5c0b1ca2329")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 180)
@@ -7786,7 +7786,7 @@
 			(net 41 "Net-(D19-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "5e9d049b-f1f9-4f9e-8f96-7fbf505bfa0a")
+			(uuid "1dee37bc-f473-4696-848b-2d85207ba7bc")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 180)
@@ -7804,7 +7804,7 @@
 			(net 26 "Net-(D11-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "296f01c2-8f96-4813-ac0b-b7f81f2e25fb")
+			(uuid "ae297f1e-3a53-4a26-b4f3-3b045ab80e5d")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 180)
@@ -7813,7 +7813,7 @@
 			(net 26 "Net-(D11-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "296f01c2-8f96-4813-ac0b-b7f81f2e25fb")
+			(uuid "a4d9f9bd-9b87-46ec-867e-99c89cdb5862")
 		)
 		(pad "3" smd rect
 			(at 0 0 180)
@@ -8398,7 +8398,7 @@
 			(net 5 "Net-(D2-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "58b51e1c-3d92-4f03-a469-342d919efcee")
+			(uuid "a576fb71-1b38-48f6-8dd9-394f49dd0150")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -8407,7 +8407,7 @@
 			(net 5 "Net-(D2-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "58b51e1c-3d92-4f03-a469-342d919efcee")
+			(uuid "5f1e8208-93e9-4d22-b57b-7dc06eca7ae8")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -8425,7 +8425,7 @@
 			(net 14 "Net-(D13-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "00ca9f50-31fe-40a5-9d40-f68ed6d04952")
+			(uuid "39ccc568-9156-4608-aa60-ca22bdc10554")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -8434,7 +8434,7 @@
 			(net 14 "Net-(D13-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "00ca9f50-31fe-40a5-9d40-f68ed6d04952")
+			(uuid "5b5db024-c932-4520-813f-d42afbdde7b1")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -8951,7 +8951,7 @@
 			(net 38 "Net-(D17-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "1703de90-69bd-4a57-b11a-f73d4597fe5a")
+			(uuid "75c303ad-75cc-4642-9a66-86399ca57d59")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -8960,7 +8960,7 @@
 			(net 38 "Net-(D17-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "1703de90-69bd-4a57-b11a-f73d4597fe5a")
+			(uuid "534e37ee-21bd-4c07-9297-815dc0859fa8")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -8978,7 +8978,7 @@
 			(net 60 "Net-(D27-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "1bddbf58-9198-4db8-bece-a11989f6e72f")
+			(uuid "7096ad3b-3be6-460f-b632-dec33606c1a5")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -8987,7 +8987,7 @@
 			(net 60 "Net-(D27-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "1bddbf58-9198-4db8-bece-a11989f6e72f")
+			(uuid "1c349ee9-c509-44e2-b626-50f4ec1c3c62")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -9504,7 +9504,7 @@
 			(net 49 "Net-(D23-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "157d710c-ca2a-425b-9b70-a7b8f0fde6bb")
+			(uuid "9dd61c2b-f015-4e1e-9591-d69976dab1a1")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 180)
@@ -9513,7 +9513,7 @@
 			(net 49 "Net-(D23-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "157d710c-ca2a-425b-9b70-a7b8f0fde6bb")
+			(uuid "e9e68277-6c67-4589-a480-4533084552e4")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 180)
@@ -9531,7 +9531,7 @@
 			(net 33 "Net-(D15-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "97d467a3-e035-4bfe-9980-25cd28f63405")
+			(uuid "ad7ad185-5d8f-483e-afc5-9556d4dba212")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 180)
@@ -9540,7 +9540,7 @@
 			(net 33 "Net-(D15-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "97d467a3-e035-4bfe-9980-25cd28f63405")
+			(uuid "f2e11e08-3e7e-403d-b4f0-70d87985d656")
 		)
 		(pad "3" smd rect
 			(at 0 0 180)
@@ -10258,7 +10258,7 @@
 			(net 22 "Net-(D17-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "cc0f4568-8abd-4647-931f-559d982f9648")
+			(uuid "a7187109-777d-4203-a0d0-7a197d645064")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -10267,7 +10267,7 @@
 			(net 22 "Net-(D17-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "cc0f4568-8abd-4647-931f-559d982f9648")
+			(uuid "d7bee2e2-89fd-47d1-b74e-fef72b3e2d15")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -10285,7 +10285,7 @@
 			(net 38 "Net-(D17-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "04ba393d-7de7-4c22-96fd-6038ad5c94e1")
+			(uuid "0fc4ff41-2952-4b7d-acb4-531002621ec0")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -10294,7 +10294,7 @@
 			(net 38 "Net-(D17-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "04ba393d-7de7-4c22-96fd-6038ad5c94e1")
+			(uuid "7f7bfd88-9aa4-4b61-b5b8-85302caaa7f1")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -11417,7 +11417,7 @@
 			(net 11 "Net-(D4-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "3223b29b-de19-4016-9b05-4c8585dd3512")
+			(uuid "bdcb40dc-90f1-4827-84dd-3741b8e699b6")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -11426,7 +11426,7 @@
 			(net 11 "Net-(D4-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "3223b29b-de19-4016-9b05-4c8585dd3512")
+			(uuid "7d41cfe6-f711-4047-ac73-9e93cd193daa")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -11444,7 +11444,7 @@
 			(net 15 "Net-(D14-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "cce31961-7f22-49f9-a2eb-e0126766a632")
+			(uuid "84208a6d-f212-467e-b1b4-b156cfce619e")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -11453,7 +11453,7 @@
 			(net 15 "Net-(D14-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "cce31961-7f22-49f9-a2eb-e0126766a632")
+			(uuid "787cd8ae-41df-417d-ae20-9ad6a0205a0a")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -11970,7 +11970,7 @@
 			(net 68 "Net-(D31-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "a4f7f88e-3cf7-473a-9c2e-7a32fec22893")
+			(uuid "f10f6508-e370-4553-a163-cce1a5e50678")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -11979,7 +11979,7 @@
 			(net 68 "Net-(D31-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "a4f7f88e-3cf7-473a-9c2e-7a32fec22893")
+			(uuid "2fe37ac0-1494-48a6-b91c-9d0c32598972")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -11997,7 +11997,7 @@
 			(net 69 "Net-(D31-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "f43e5e5e-a607-448f-a581-ad0e19bde054")
+			(uuid "ffc053f1-c06c-469c-935d-30b23687589a")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -12006,7 +12006,7 @@
 			(net 69 "Net-(D31-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "f43e5e5e-a607-448f-a581-ad0e19bde054")
+			(uuid "1889cf3c-1976-41be-a16e-842a6018e603")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -12523,7 +12523,7 @@
 			(net 1 "Net-(D1-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "bb7212d3-42f3-477a-be81-8193afae6993")
+			(uuid "2cd0f8c5-a0e5-41ba-b55f-bca4db61e197")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -12532,7 +12532,7 @@
 			(net 1 "Net-(D1-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "bb7212d3-42f3-477a-be81-8193afae6993")
+			(uuid "25572857-a160-4e1a-b136-ff2a75d1c74e")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -12550,7 +12550,7 @@
 			(net 22 "Net-(D17-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "812c9260-bd2d-4776-b0a6-546c55d35527")
+			(uuid "1fe8cc55-3289-4272-8b85-9a68d86ffe31")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -12559,7 +12559,7 @@
 			(net 22 "Net-(D17-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "812c9260-bd2d-4776-b0a6-546c55d35527")
+			(uuid "16ed4a41-36c7-42fa-8769-8324ffa4c9a2")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -13076,7 +13076,7 @@
 			(net 54 "Net-(D25-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "3533628e-c12e-485d-9c0d-271e823d5dd2")
+			(uuid "481f4170-69ab-4a2b-a845-7b861cb6f03f")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -13085,7 +13085,7 @@
 			(net 54 "Net-(D25-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "3533628e-c12e-485d-9c0d-271e823d5dd2")
+			(uuid "dc067287-4e09-48ad-9339-606d0be2b953")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -13103,7 +13103,7 @@
 			(net 55 "Net-(D25-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "ba43183d-f611-4eb2-a667-7195a45d59ac")
+			(uuid "118ac129-340e-42ed-9e89-bba87d13db6a")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -13112,7 +13112,7 @@
 			(net 55 "Net-(D25-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "ba43183d-f611-4eb2-a667-7195a45d59ac")
+			(uuid "41724f70-4159-4d3f-8138-3d88692af777")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -13732,7 +13732,7 @@
 			(net 20 "Net-(D16-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "ac44e601-244e-4e8b-abdf-abca00df9fc4")
+			(uuid "c5b937f1-f2c7-4a3a-9a55-291f232723b8")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -13741,7 +13741,7 @@
 			(net 20 "Net-(D16-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "ac44e601-244e-4e8b-abdf-abca00df9fc4")
+			(uuid "c63be9b1-1290-4444-8d92-bf4b4ff33392")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -13759,7 +13759,7 @@
 			(net 2 "Net-(D1-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "c1a32ca6-3a23-449c-8614-21d415baf562")
+			(uuid "65d23a12-b406-45cf-b6d7-14a0ba9b631e")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -13768,7 +13768,7 @@
 			(net 2 "Net-(D1-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "c1a32ca6-3a23-449c-8614-21d415baf562")
+			(uuid "574351bf-2046-4907-853b-3039a21d39d4")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -14821,7 +14821,7 @@
 			(net 23 "Net-(D10-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "32973179-0da2-4e6d-92b8-ae8c3abca493")
+			(uuid "d4a940f6-8ded-4b12-b769-12e3f1c69e53")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -14830,7 +14830,7 @@
 			(net 23 "Net-(D10-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "32973179-0da2-4e6d-92b8-ae8c3abca493")
+			(uuid "44054729-ecbb-4919-b84b-1b40fdac1e99")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -14848,7 +14848,7 @@
 			(net 40 "Net-(D18-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "90fd014d-3dde-486d-9c61-df38075ee6c5")
+			(uuid "6529d849-8302-4365-bb95-27a4bff7f925")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -14857,7 +14857,7 @@
 			(net 40 "Net-(D18-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "90fd014d-3dde-486d-9c61-df38075ee6c5")
+			(uuid "050da882-6c5f-4bde-a89e-c66767078b4d")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -15374,7 +15374,7 @@
 			(net 30 "Net-(D13-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "8c0cb373-e352-487c-b4f4-176a304f080c")
+			(uuid "34941bda-43d6-4319-931f-84087436c7a5")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -15383,7 +15383,7 @@
 			(net 30 "Net-(D13-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "8c0cb373-e352-487c-b4f4-176a304f080c")
+			(uuid "d8dd7297-b9da-4f22-9426-b8d1a680cd24")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -15401,7 +15401,7 @@
 			(net 45 "Net-(D21-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "2b776bf3-4581-4524-9b62-6f543deda390")
+			(uuid "7397c361-8849-4cee-ad9d-cc872cc5e346")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -15410,7 +15410,7 @@
 			(net 45 "Net-(D21-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "2b776bf3-4581-4524-9b62-6f543deda390")
+			(uuid "ae12e686-b60e-4b79-adf3-26e7ebb66a0e")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -16298,7 +16298,7 @@
 			(net 15 "Net-(D14-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "536782bf-b52b-4eb4-be0e-3b09464fcc89")
+			(uuid "eb0a8405-18b9-4546-a63f-48617942731a")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -16307,7 +16307,7 @@
 			(net 15 "Net-(D14-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "536782bf-b52b-4eb4-be0e-3b09464fcc89")
+			(uuid "810de1e9-2538-44df-96c7-43c837cc2759")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -16325,7 +16325,7 @@
 			(net 31 "Net-(D14-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "c3fc49dd-739c-4931-b6c7-a1d68b84395a")
+			(uuid "11003ce2-ecf2-4551-8c1d-e566b47180ac")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -16334,7 +16334,7 @@
 			(net 31 "Net-(D14-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "c3fc49dd-739c-4931-b6c7-a1d68b84395a")
+			(uuid "849ff2e8-b9eb-42b4-8e71-c61465742405")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -16919,7 +16919,7 @@
 			(net 64 "Net-(D29-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "5d492ac7-2615-4a6e-b59a-3239523c44e5")
+			(uuid "35cada8f-1d2f-4d0c-870e-e488a503fb21")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 180)
@@ -16928,7 +16928,7 @@
 			(net 64 "Net-(D29-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "5d492ac7-2615-4a6e-b59a-3239523c44e5")
+			(uuid "f7fe3340-deea-452e-87d0-d068e4d7f5a9")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 180)
@@ -16946,7 +16946,7 @@
 			(net 41 "Net-(D19-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "436ba51d-394c-4e13-8439-34d44071226a")
+			(uuid "b3395d32-2c8e-4968-be16-e824bd714113")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 180)
@@ -16955,7 +16955,7 @@
 			(net 41 "Net-(D19-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "436ba51d-394c-4e13-8439-34d44071226a")
+			(uuid "bfcf82b0-aaaf-484f-99be-866c50976811")
 		)
 		(pad "3" smd rect
 			(at 0 0 180)
@@ -17472,7 +17472,7 @@
 			(net 14 "Net-(D13-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "befa4b8a-9a1c-401a-a2e7-8de0e16c25c9")
+			(uuid "cc17792a-4543-4870-a86c-7723455bd364")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -17481,7 +17481,7 @@
 			(net 14 "Net-(D13-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "befa4b8a-9a1c-401a-a2e7-8de0e16c25c9")
+			(uuid "a7ade303-d0fb-403b-861e-9198c142f7bb")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -17499,7 +17499,7 @@
 			(net 30 "Net-(D13-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "8c4bba82-7a36-46ad-9239-b51377122ba5")
+			(uuid "1b10ded9-aceb-49b9-8e2a-17392932c508")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -17508,7 +17508,7 @@
 			(net 30 "Net-(D13-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "8c4bba82-7a36-46ad-9239-b51377122ba5")
+			(uuid "e942e097-0d0a-42ed-be0f-9f3921f8cc8d")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -18025,7 +18025,7 @@
 			(net 26 "Net-(D11-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "cdbb103d-e320-4fd5-a9ba-73ca59ac148b")
+			(uuid "976b5643-fd40-436a-bdc2-cb45a9935832")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -18034,7 +18034,7 @@
 			(net 26 "Net-(D11-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "cdbb103d-e320-4fd5-a9ba-73ca59ac148b")
+			(uuid "07173998-7900-4eec-8d9d-72e77f432435")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -18052,7 +18052,7 @@
 			(net 10 "Net-(D11-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "175e2da7-f368-4845-a3f1-2d3a5a114814")
+			(uuid "8cdc4d2e-1af7-4371-ba60-87350808ee92")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -18061,7 +18061,7 @@
 			(net 10 "Net-(D11-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "175e2da7-f368-4845-a3f1-2d3a5a114814")
+			(uuid "64b1609d-c95e-4746-859c-9e2c502ff409")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -18882,7 +18882,7 @@
 			(net 65 "Net-(D30-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "fb937a9a-d253-4a4a-a68e-a84819eeb0aa")
+			(uuid "7bd8cbfa-aed0-4ff2-ad9d-56dcdad8ac56")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 180)
@@ -18891,7 +18891,7 @@
 			(net 65 "Net-(D30-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "fb937a9a-d253-4a4a-a68e-a84819eeb0aa")
+			(uuid "6f930c78-1287-467d-9537-2fcaa799edf9")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 180)
@@ -18909,7 +18909,7 @@
 			(net 43 "Net-(D20-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "5370cdbd-f91e-45e7-9215-e13ca3f10709")
+			(uuid "20e274cc-5cfa-4aed-b57f-87917aafdb8e")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 180)
@@ -18918,7 +18918,7 @@
 			(net 43 "Net-(D20-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "5370cdbd-f91e-45e7-9215-e13ca3f10709")
+			(uuid "0bb50826-ad04-412b-9ff2-1f00f0a5422b")
 		)
 		(pad "3" smd rect
 			(at 0 0 180)
@@ -19636,7 +19636,7 @@
 			(net 28 "Net-(D12-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "b02add84-4abe-48a6-8167-7859eedad3a6")
+			(uuid "069195d0-c017-49b4-911b-0b838f4c213c")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -19645,7 +19645,7 @@
 			(net 28 "Net-(D12-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "b02add84-4abe-48a6-8167-7859eedad3a6")
+			(uuid "92e319d0-4d86-423e-be0e-bc3b434f316c")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -19663,7 +19663,7 @@
 			(net 4 "Net-(D12-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "9f0d5414-f501-4f96-ba21-c75bfbf57046")
+			(uuid "8764a4b0-712d-44ed-b44e-c16f8955d514")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -19672,7 +19672,7 @@
 			(net 4 "Net-(D12-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "9f0d5414-f501-4f96-ba21-c75bfbf57046")
+			(uuid "1a7663bb-2b66-46f3-8134-2c9197b27e6c")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -20189,7 +20189,7 @@
 			(net 17 "Net-(D15-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "1bcd0f97-92d3-4992-b26e-dd17c289f776")
+			(uuid "a90a7180-e4cf-491d-bcc8-3cef8bc8b716")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -20198,7 +20198,7 @@
 			(net 17 "Net-(D15-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "1bcd0f97-92d3-4992-b26e-dd17c289f776")
+			(uuid "5028655e-71e6-4edc-9a31-fa87d177157b")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -20216,7 +20216,7 @@
 			(net 8 "Net-(D3-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "28b04597-e7b3-4699-84a4-de1b98e92df4")
+			(uuid "4de1b787-99fc-4ec5-b91f-38ba95912f33")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -20225,7 +20225,7 @@
 			(net 8 "Net-(D3-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "28b04597-e7b3-4699-84a4-de1b98e92df4")
+			(uuid "f8baed8f-9f1f-4885-88f5-5d63638f7850")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -20742,7 +20742,7 @@
 			(net 4 "Net-(D12-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "a88f32b8-53aa-4ee1-90b3-d36fb4e24b51")
+			(uuid "7c47a980-d3f6-45bd-b34a-be00ad037a5b")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -20751,7 +20751,7 @@
 			(net 4 "Net-(D12-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "a88f32b8-53aa-4ee1-90b3-d36fb4e24b51")
+			(uuid "a1e96c27-6096-447e-8ee5-6252dfeb1a83")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -20769,7 +20769,7 @@
 			(net 5 "Net-(D2-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "e1c3465c-539e-466c-80d6-0f08edf8f5e7")
+			(uuid "c6fedfde-a4b4-463a-84f4-52def3778d37")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -20778,7 +20778,7 @@
 			(net 5 "Net-(D2-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "e1c3465c-539e-466c-80d6-0f08edf8f5e7")
+			(uuid "4d0deef2-b5d7-42d9-b322-1f2e835660c3")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -21697,7 +21697,7 @@
 			(net 33 "Net-(D15-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "ecaa66a0-9bca-4585-9892-77623e885142")
+			(uuid "da9ad543-0e67-491d-96f8-d031699133ef")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 180)
@@ -21706,7 +21706,7 @@
 			(net 33 "Net-(D15-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "ecaa66a0-9bca-4585-9892-77623e885142")
+			(uuid "957097ab-9b51-481c-be12-87443843d420")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 180)
@@ -21724,7 +21724,7 @@
 			(net 17 "Net-(D15-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "aa35c0cd-bba6-4742-bb9f-c840dd9c6da4")
+			(uuid "6932fd15-3255-4426-b4d1-f63320868c40")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 180)
@@ -21733,7 +21733,7 @@
 			(net 17 "Net-(D15-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "aa35c0cd-bba6-4742-bb9f-c840dd9c6da4")
+			(uuid "2ca3c75d-e893-4b00-ac86-5ec8638a38d3")
 		)
 		(pad "3" smd rect
 			(at 0 0 180)
@@ -22250,7 +22250,7 @@
 			(net 7 "Net-(D10-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "8dd78621-b93e-4ec4-97aa-9a9d0f5a7e8b")
+			(uuid "349d68aa-20cf-4d5e-8acf-761aaab05ea6")
 		)
 		(pad "1" smd rect
 			(at -1.1 0 90)
@@ -22259,7 +22259,7 @@
 			(net 7 "Net-(D10-K)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "8dd78621-b93e-4ec4-97aa-9a9d0f5a7e8b")
+			(uuid "c6fa859e-641a-4feb-a8ea-960d064c0b1d")
 		)
 		(pad "2" smd rect
 			(at 1.1 0 90)
@@ -22277,7 +22277,7 @@
 			(net 23 "Net-(D10-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "b6300742-d72c-47dd-aee3-c1061cbe55ad")
+			(uuid "02e54db7-c392-4d1e-b309-910c591d6f33")
 		)
 		(pad "2" smd circle
 			(at 1.6 0 90)
@@ -22286,7 +22286,7 @@
 			(net 23 "Net-(D10-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "b6300742-d72c-47dd-aee3-c1061cbe55ad")
+			(uuid "649039d6-66dd-470e-99a0-9ca9eee7d88f")
 		)
 		(pad "3" smd rect
 			(at 0 0 90)
@@ -22803,7 +22803,7 @@
 			(net 31 "Net-(D14-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "cfe39019-0c49-411b-aa6a-4cf670a6ae2f")
+			(uuid "da5ba642-f658-4dcf-8f89-aeb40d766dd9")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -22812,7 +22812,7 @@
 			(net 31 "Net-(D14-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "cfe39019-0c49-411b-aa6a-4cf670a6ae2f")
+			(uuid "ea65df7b-54b5-4b29-b4e2-4fca66008f26")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -22830,7 +22830,7 @@
 			(net 48 "Net-(D22-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "20244310-7846-4e20-9535-7f9b6e507eda")
+			(uuid "43493d4b-854c-4b43-ac05-ba8da1822bf9")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -22839,7 +22839,7 @@
 			(net 48 "Net-(D22-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "20244310-7846-4e20-9535-7f9b6e507eda")
+			(uuid "f30fe57b-8751-4cda-b2cf-c3df5820124a")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -23459,7 +23459,7 @@
 			(net 56 "Net-(D26-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "0158cb8e-70f3-47cc-82b7-2bd9ed4e5327")
+			(uuid "9d3846b5-e7d6-4b52-b5e1-2da984d2b9b2")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -23468,7 +23468,7 @@
 			(net 56 "Net-(D26-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "0158cb8e-70f3-47cc-82b7-2bd9ed4e5327")
+			(uuid "7b134bc8-c403-4134-95f1-24ad3e3dd046")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -23486,7 +23486,7 @@
 			(net 64 "Net-(D29-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "a9ececdc-8ef5-455c-84fb-cc829ef6d4b4")
+			(uuid "6ddd2064-4fe8-4ff3-9b81-68d509961ee5")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -23495,7 +23495,7 @@
 			(net 64 "Net-(D29-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "a9ececdc-8ef5-455c-84fb-cc829ef6d4b4")
+			(uuid "cd5cc30d-63cf-4b3c-8772-4a22acc2cdf0")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -24080,7 +24080,7 @@
 			(net 69 "Net-(D31-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "553fadab-11cd-455f-a5c1-a32574f7a80f")
+			(uuid "3250c674-78a2-4c0a-87f3-5a2440c1d431")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -24089,7 +24089,7 @@
 			(net 69 "Net-(D31-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "553fadab-11cd-455f-a5c1-a32574f7a80f")
+			(uuid "e4d03dce-8eb7-4b6f-96c3-592089f08de4")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -24107,7 +24107,7 @@
 			(net 51 "Net-(D24-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "504680f9-2ac6-498f-a245-45ac407fa577")
+			(uuid "3f08b083-d3c6-4c1b-bf6b-e93b623f1221")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -24116,7 +24116,7 @@
 			(net 51 "Net-(D24-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "504680f9-2ac6-498f-a245-45ac407fa577")
+			(uuid "e4b162e7-dcda-4715-9486-6fc1b30a940e")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -24936,7 +24936,7 @@
 			(net 55 "Net-(D25-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "c64a6141-af18-4458-a37c-27ff39f4b2ad")
+			(uuid "454898be-7428-4a5d-a370-1a070777ccec")
 		)
 		(pad "1" smd rect
 			(at -1.1 0)
@@ -24945,7 +24945,7 @@
 			(net 55 "Net-(D25-A)")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "c64a6141-af18-4458-a37c-27ff39f4b2ad")
+			(uuid "bdc56451-e2a1-49e4-a629-3ef8a5a23dea")
 		)
 		(pad "2" smd rect
 			(at 1.1 0)
@@ -24963,7 +24963,7 @@
 			(net 65 "Net-(D30-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "78137f21-30e9-4f34-85b3-f79bd3c8691e")
+			(uuid "bb811894-ec07-45bf-a87c-088f45978b75")
 		)
 		(pad "2" smd circle
 			(at 1.6 0)
@@ -24972,7 +24972,7 @@
 			(net 65 "Net-(D30-K)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "78137f21-30e9-4f34-85b3-f79bd3c8691e")
+			(uuid "065a517b-9f04-48aa-b6b0-43a4a0aafdc1")
 		)
 		(pad "3" smd rect
 			(at 0 0)
@@ -25552,7 +25552,7 @@
 		(layer "User.1")
 		(uuid "9a6ca2f4-19a7-475f-bb68-a67d979d3b0d")
 	)
-	(gr_text "8792bd6"
+	(gr_text "325c7a5"
 		(at 8 -4.5 0)
 		(layer "F.SilkS")
 		(uuid "0995ed39-91af-44fb-b848-b8c7458b0bfb")
