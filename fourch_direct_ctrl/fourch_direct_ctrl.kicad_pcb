@@ -2308,7 +2308,7 @@
 			(at 0 0)
 			(size 3.45 3.45)
 			(drill 3.45)
-			(layers "F&B.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask")
 			(uuid "36cca31d-0097-40a9-a99f-06942e62285f")
 		)
 		(embedded_fonts no)
@@ -2920,7 +2920,7 @@
 			(at 0 0)
 			(size 3.45 3.45)
 			(drill 3.45)
-			(layers "F&B.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask")
 			(uuid "ec449ab8-6432-4ab3-96c4-cf8ebeea3e2f")
 		)
 		(embedded_fonts no)
@@ -4539,7 +4539,7 @@
 			(at 0 0)
 			(size 3.45 3.45)
 			(drill 3.45)
-			(layers "F&B.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask")
 			(uuid "d562a2e2-c849-4ea3-bf51-a638887caa09")
 		)
 		(embedded_fonts no)
@@ -4862,7 +4862,7 @@
 			(at 0 0)
 			(size 3.45 3.45)
 			(drill 3.45)
-			(layers "F&B.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask")
 			(uuid "b85af1b0-f3d7-41af-8b5e-d57dfb1e118b")
 		)
 		(embedded_fonts no)
@@ -6073,7 +6073,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at -26.75 -15.25 -90)
+		(at -26 8.35 -90)
 		(layer "F.SilkS")
 		(uuid "581372ff-6f64-4505-a045-6d3c68781512")
 		(effects
@@ -6085,7 +6085,7 @@
 		)
 	)
 	(gr_text "VCC"
-		(at -26.5 8.25 270)
+		(at -26.5 -15.65 270)
 		(layer "F.SilkS")
 		(uuid "c1075224-16c8-4aeb-b9dd-d263eac4d201")
 		(effects
