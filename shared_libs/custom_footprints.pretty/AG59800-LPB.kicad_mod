@@ -1,0 +1,207 @@
+(footprint "AG59800-LPB"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -26.3 12.65 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e693fed9-7939-4607-968f-cefdfaf6d1e8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "AG59800-LPB"
+		(at 0 -0.7 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9f0e099f-fb79-4266-869b-faabdef40c32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36c9b70c-81f3-4b64-a145-53613260b010")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1cf7c26d-ed48-4215-9179-f74ce33c7ea6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -25.3 -15)
+		(end 25.3 15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b78dd3b5-6105-48cc-9c1d-b736d70bc7ae")
+	)
+	(fp_rect
+		(start -25.3 -15)
+		(end 25.3 15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "837c9c99-8939-41b5-a7cc-77b1e9a538ba")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6e2841b6-011a-4afe-bf5a-6f0f82ab4c5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -23.885 13.285)
+		(size 1.83 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.2)
+		(uuid "c2a6a9d9-9548-4497-8ca9-cf8ac2a9cbde")
+	)
+	(pad "2" smd rect
+		(at -21.425 13.285)
+		(size 1.83 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.2)
+		(uuid "ac0e7f8c-3dce-4420-ace0-de30082910c7")
+	)
+	(pad "3" smd rect
+		(at -18.965 13.285)
+		(size 1.83 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.2)
+		(uuid "7239cc9d-70db-43d2-9ddf-0576f0672643")
+	)
+	(pad "4" smd rect
+		(at 21.425 13.285)
+		(size 1.83 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.2)
+		(uuid "4262ee28-932c-4bbf-bd00-4f489ce82f89")
+	)
+	(pad "5" smd rect
+		(at 23.885 13.285)
+		(size 1.83 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.2)
+		(uuid "9b407a41-77a8-4f0b-9083-042799485f77")
+	)
+	(pad "6" smd rect
+		(at 23.885 -13.285)
+		(size 1.83 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.2)
+		(uuid "3bc629ab-61e7-448e-ad65-60250e90c2b8")
+	)
+	(pad "7" smd rect
+		(at 21.425 -13.285)
+		(size 1.83 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.2)
+		(uuid "44fc284e-004c-4c70-8a34-3a5129506a9b")
+	)
+	(pad "8" smd rect
+		(at 18.965 -13.285)
+		(size 1.83 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.2)
+		(uuid "f8f05ec2-702b-447a-82f0-22424253a570")
+	)
+	(pad "9" smd rect
+		(at -23.885 -13.285)
+		(size 1.83 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.2)
+		(uuid "7e46fea3-1ab9-4cc2-a87e-60561d77c5a2")
+	)
+	(pad "10" smd roundrect
+		(at -4.585 -8.555)
+		(size 9.14 9.14)
+		(layers "F.Cu")
+		(roundrect_rratio 0.1094091904)
+		(uuid "ba7a7539-4bd8-4977-89a9-afb2da871ca7")
+	)
+	(pad "11" smd roundrect
+		(at 19.805 0.58)
+		(size 9.14 18.29)
+		(layers "F.Cu")
+		(roundrect_rratio 0.1094091904)
+		(uuid "e3701751-b77f-4272-a26c-051d59cd17ad")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "F.Paste"
+			"In6.Cu" "B.Paste" "In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu"
+			"In13.Cu" "In14.Cu" "In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu"
+			"In20.Cu" "In21.Cu" "In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu"
+			"In27.Cu" "In28.Cu" "In29.Cu" "In30.Cu"
+		)
+		(uuid "d38b4621-dff9-4860-ad91-514148d0988b")
+		(name "keepout")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 12 -18.028331) (xy 9 -18.028331) (xy 9 17.971669) (xy 12 17.971669)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
